@@ -9,12 +9,12 @@
     "sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48"
   },
   "verification_scope": "Structural checks and round trip; no statistical text accuracy measurement.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "images": 43,
   "all_images_have_status": true,
-  "text_units": 826,
-  "marked_positions": 14,
-  "corrections": 0,
+  "text_units": 825,
+  "marked_positions": 3,
+  "corrections": 44,
   "expert_review": "not-run",
   "human_full_book_proofreading": "not-run",
   "image_reading_accuracy": "not-measured"

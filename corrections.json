@@ -1,5 +1,672 @@
 {
-  "version": "0.1.0",
-  "compared_to": null,
-  "corrections": []
+  "version": "0.2.0",
+  "compared_to": "0.1.0",
+  "corrections": [
+    {
+      "page_id": "f002",
+      "id": "f002-u03",
+      "side": "L",
+      "bbox": [
+        1306,
+        399,
+        1387,
+        1537
+      ],
+      "initial": "余於醫本非專家但先世習此已數傳亦籍之南來",
+      "revised": "余於醫本非專家但先世習此已數傳亦猶之南宋",
+      "reason": "彩圖與去朱色副圖重看，左半正文首欄末尾接「徐氏也」；「猶」左側反犬旁可見，末字上蓋下木而無「來」的兩面撇捺結構。其前「已」豎未頂。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174500"
+    },
+    {
+      "page_id": "f003",
+      "id": "f003-u05",
+      "side": "R",
+      "bbox": [
+        1928,
+        403,
+        2004,
+        1535
+      ],
+      "initial": "不泥古處可為臨證者法勸余梓之因識其崖略於",
+      "revised": "不泥古處可為臨證者法勸余梓之因識其崖畧於",
+      "reason": "「崖」下一字清見田部居上、各部居下，還原可單獨編碼的「畧」。原圖同欄「泥」右有尸，「勸」尾見力。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174600"
+    },
+    {
+      "page_id": "f004",
+      "id": "f004-u02",
+      "side": "R",
+      "bbox": [
+        2198,
+        440,
+        2272,
+        1535
+      ],
+      "initial": "黃柏蒼术陳皮歸芍白术一劑而痰如湧泄卽止",
+      "revised": "黃栢蒼术陳皮歸芍白术一劑而痰如湧泄卽止",
+      "reason": "右半第二欄第二字木旁右上橫連下方白口，字形作「栢」。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174700"
+    },
+    {
+      "page_id": "f004",
+      "id": "f004-u08",
+      "side": "R",
+      "bbox": [
+        1626,
+        442,
+        1704,
+        1535
+      ],
+      "initial": "虛欲用參耆補之余診之六脈小而□心脈尤甚",
+      "revised": "虛欲用參耆補之余診之六脈小而急心脈尤甚",
+      "reason": "所缺處上部保有斜筆，左側無獨立三點水，末有心部墨影，與同幅第五欄「急以」的字形相近。其前「參耆」可見耆上老部。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174700"
+    },
+    {
+      "page_id": "f004",
+      "id": "f004-u11",
+      "side": "R",
+      "bbox": [
+        2160,
+        805,
+        2199,
+        865
+      ],
+      "initial": "□",
+      "revised": null,
+      "reason": "回看原圖，黑墨只黏附第三欄界線，周圍無成字筆畫或可讀附註。初錄所留「□」移出副文本，保留墨痕位置與本次裁定。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174700"
+    },
+    {
+      "page_id": "f005",
+      "id": "f005-u11",
+      "side": "L",
+      "bbox": [
+        1381,
+        456,
+        1460,
+        1548
+      ],
+      "initial": "用黃柏以瀉相火香附神麯以快中氣加氣血藥",
+      "revised": "用黃栢以瀉相火香附神麯以快中氣加氣血藥",
+      "reason": "左半首欄「黃」下為木旁，右部頂橫下接白口，作「栢」，「香附」後仍為神麯。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174800"
+    },
+    {
+      "page_id": "f006",
+      "id": "f006-u09",
+      "side": "R",
+      "bbox": [
+        1521,
+        449,
+        1599,
+        1537
+      ],
+      "initial": "云無寒熱□喘氣不足以息者實可下之以千金",
+      "revised": "云無寒熱而喘氣不足以息者實可下之以千金",
+      "reason": "局部放大可見上字獨立長橫、外框及中豎，支持「而」；下字口旁方框及右下而形仍存，留「喘」。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174900"
+    },
+    {
+      "page_id": "f008",
+      "id": "f008-u03",
+      "side": "R",
+      "bbox": [
+        2097,
+        448,
+        2175,
+        1528
+      ],
+      "initial": "用石膏牛膝黃芩片子薑黃生地防己當歸酒芍",
+      "revised": "用石膏牛膝黃芩片子薑黃生地防巳當歸酒芍",
+      "reason": "局部放大顯示左豎從字頂開始，連頂橫並使上框閉合，原刻可編碼為「巳」，不同於藥名常用「己」。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175100"
+    },
+    {
+      "page_id": "f008",
+      "id": "f008-u14",
+      "side": "L",
+      "bbox": [
+        1107,
+        459,
+        1185,
+        1097
+      ],
+      "initial": "再用芩柏合前劑投之全愈",
+      "revised": "再用芩栢合前劑投之全愈",
+      "reason": "木旁右部上見單橫、下接白口，與同書頁 004、005 的「栢」字形相同。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175100"
+    },
+    {
+      "page_id": "f009",
+      "id": "f009-u08",
+      "side": "R",
+      "bbox": [
+        1614,
+        447,
+        1693,
+        1527
+      ],
+      "initial": "應延他手用藥雷同病益甚水飲不入口痰涎湧",
+      "revised": "應延他手用藥雷同病益甚米飲不入口痰延湧",
+      "reason": "「飲」前字放大後可見米字左右斜點及十部；「痰」下為廴入左下的「延」，原處未見獨立氵。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175200"
+    },
+    {
+      "page_id": "f009",
+      "id": "f009-u13",
+      "side": "L",
+      "bbox": [
+        1211,
+        465,
+        1289,
+        783
+      ],
+      "initial": "食進三□全愈",
+      "revised": "食進三劑全愈",
+      "reason": "放大可見三橫下字的齊部頂及右部立刀，墨污覆內筆然仍足辨「劑」。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175200"
+    },
+    {
+      "page_id": "f009",
+      "id": "f009-u17",
+      "side": "L",
+      "bbox": [
+        829,
+        458,
+        907,
+        1542
+      ],
+      "initial": "垣以瀉血湯主之□投此劑而□不敢服衆以扶",
+      "revised": "垣以瀉血湯主之四投此劑而四不敢服衆以扶",
+      "reason": "兩疑字近裁可見相同方框並各含兩筆向下與翻鉤，均是「四」字。保持原刻，不順改文句。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175200"
+    },
+    {
+      "page_id": "f010",
+      "id": "f010-u09",
+      "side": "R",
+      "bbox": [
+        1529,
+        430,
+        1607,
+        1514
+      ],
+      "initial": "胃道胃脈環口夾唇故牙關緊急用柴胡黃柏以",
+      "revised": "胃道胃脈環口夾唇故牙關緊急用柴胡黃栢以",
+      "reason": "局部放大後回看，末段「黃」後字為木加白上橫，錄「栢」，不像右中有甬身的「桶」。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175300"
+    },
+    {
+      "page_id": "f012",
+      "id": "f012-u03",
+      "side": "R",
+      "bbox": [
+        2087,
+        444,
+        2166,
+        1540
+      ],
+      "initial": "黃柏茯苓澤瀉以降陰氣陳皮白术以補中一劑",
+      "revised": "黃栢茯苓澤瀉以降陰氣陳皮白术以補中一劑",
+      "reason": "「黃」下字的右部單橫覆白形，記「栢」；「苓」艹下有令形。「白」下字仍為术。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175500"
+    },
+    {
+      "page_id": "f013",
+      "id": "f013-u02",
+      "side": "R",
+      "bbox": [
+        2191,
+        445,
+        2267,
+        1540
+      ],
+      "initial": "氣加芍柏地兩劑全愈後因遠行勞役吐血五日",
+      "revised": "氣加芍栢地兩劑全愈後因遠行勞役吐血五日",
+      "reason": "「芍」下字右部有冠形頂橫及白口，寫原字「栢」。欄首沒有 OCR 添一。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175600"
+    },
+    {
+      "page_id": "f014",
+      "id": "f014-u03",
+      "side": "L",
+      "bbox": [
+        1306,
+        452,
+        1384,
+        1545
+      ],
+      "initial": "其陽峻補其陰不可聞俗喜辛熱聞之驚駭仍用",
+      "revised": "其陽竣補其陰不可聞俗喜辛熱聞之驚駭仍用",
+      "reason": "放大局部「陽」下字左為立部，有上點、頂橫與下橫，右為夋形；明辨原印「竣」，不把詞語正規為「峻」。兩個聞有耳部。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175700"
+    },
+    {
+      "page_id": "f019",
+      "id": "f019-u06",
+      "side": "R",
+      "bbox": [
+        1795,
+        448,
+        1879,
+        1534
+      ],
+      "initial": "遂以麻黃三拗湯服之仍語言不出其家驚惶復",
+      "revised": "遂以麻黃三拘湯服之仍語言不出其家驚惶復",
+      "reason": "放大見扌旁右由外鉤勹與內口組成，原刻拘，照錄，不以通行方名拗覆蓋。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176200"
+    },
+    {
+      "page_id": "f020",
+      "id": "f020-u08",
+      "side": "R",
+      "bbox": [
+        1600,
+        448,
+        1684,
+        1540
+      ],
+      "initial": "□利則愈八味非常服之藥況風寒在表乎彼不",
+      "revised": "兼利則愈八味非常服之藥況風寒在表乎彼不",
+      "reason": "原圖放大與同版 f021-u08 中的兼逐筆對讀，中部疊橫、貫下雙豎及分撇捺相符，原面頂筆略連，補讀兼。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176300"
+    },
+    {
+      "page_id": "f023",
+      "id": "f023-u05",
+      "side": "R",
+      "bbox": [
+        1881,
+        458,
+        1965,
+        1538
+      ],
+      "initial": "椀用石膏所煉白糖調服後果如言與服次日面",
+      "revised": "碗用石膏所煉白糖調服後果如言與服次日面",
+      "reason": "放大辨首字左部一橫一撇下口，非木；與 f026-u08 同印形，依圖改碗。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176600"
+    },
+    {
+      "page_id": "f023",
+      "id": "f023-u07",
+      "side": "R",
+      "bbox": [
+        1697,
+        410,
+        1760,
+        1536
+      ],
+      "previous_bbox": [
+        1783,
+        407,
+        1873,
+        1536
+      ],
+      "initial": "一人患病服桂附十餘劑譫語不得眠時年七十餘",
+      "revised": "一人患病服桂附十餘劑譫語不得眠時年七十餘",
+      "reason": "依原圖中右半第七欄的頂行單橫與字列位置，訂正初讀框右移一欄。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176600"
+    },
+    {
+      "page_id": "f024",
+      "id": "f024-u06",
+      "side": "R",
+      "bbox": [
+        1787,
+        450,
+        1871,
+        1541
+      ],
+      "initial": "以厥陰肝脈絡陰器故也余易導氣古方以疏肝",
+      "revised": "以厥陰肝脈絡陰器故也余易導氣古方以踈肝",
+      "reason": "欄末前字原刻左見口形及下足，右束中豎貫口，依圖從足束作踈。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176700"
+    },
+    {
+      "page_id": "f026",
+      "id": "f026-u08",
+      "side": "R",
+      "bbox": [
+        1591,
+        438,
+        1675,
+        1530
+      ],
+      "initial": "當自愈數日吐出膿椀計以六味及清金養血佐",
+      "revised": "當自愈數日吐出膿碗計以六味及清金養血佐",
+      "reason": "原圖放大，碗字左部一橫一撇下口，與 f023-u05 同印形；右側相鄰的計字從言从十。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176900"
+    },
+    {
+      "page_id": "f027",
+      "id": "f027-u03",
+      "side": "R",
+      "bbox": [
+        2084,
+        446,
+        2168,
+        1542
+      ],
+      "initial": "以金水六君加膽星竹瀝薑汁鈎藤茯神遠志石",
+      "revised": "以金水六君加膽星竹瀝薑汁鉤藤茯神遠志石",
+      "reason": "鉤字放大右側勹內有封閉口，非鈎的勾，照圖改鉤。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177000"
+    },
+    {
+      "page_id": "f031",
+      "id": "f031-u15",
+      "side": "L",
+      "bbox": [
+        913,
+        396,
+        993,
+        1534
+      ],
+      "initial": "一人患胸膈刺痛兼吐五日一發痛極拊按吐則五",
+      "revised": "一人患胸膈刺痛兼吐五日一發痛極拒按吐則五",
+      "reason": "反查左第六欄，右旁兩長橫作巨形，承扌。原錄「拊」右旁不合。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177400"
+    },
+    {
+      "page_id": "f032",
+      "id": "f032-u02",
+      "side": "R",
+      "bbox": [
+        2183,
+        396,
+        2263,
+        1534
+      ],
+      "initial": "澀兩尺虛浮而急面目氣色凝滯戴元禮曰房勞",
+      "revised": "濇兩尺虛浮而急面目氣色凝滯戴元禮曰房勞",
+      "reason": "右二欄首字形左氵，右上土、中部夾形、底回框，作嗇。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177500"
+    },
+    {
+      "page_id": "f032",
+      "id": "f032-u09",
+      "side": "R",
+      "bbox": [
+        1508,
+        396,
+        1587,
+        1534
+      ],
+      "initial": "復始也加以溫中燥藥熱締於中當升者不得升",
+      "revised": "復如也加以溫中燥藥熱締於中當升者不得升",
+      "reason": "右半最左欄第二字女旁，右為單口框，未見上厶，依原圖留「如」。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177500"
+    },
+    {
+      "page_id": "f033",
+      "id": "f033-u03",
+      "side": "R",
+      "bbox": [
+        2084,
+        396,
+        2164,
+        1534
+      ],
+      "initial": "命在身心切救人不避嫌疑如此余乃懼煩耶家",
+      "revised": "命在身心切救人不避嫌疑如此余乃憚煩耶家",
+      "reason": "右三末段忄旁的右件上方雙口、下部單形，按「憚」讀。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177600"
+    },
+    {
+      "page_id": "f034",
+      "id": "f034-u09",
+      "side": "R",
+      "bbox": [
+        1508,
+        396,
+        1587,
+        1534
+      ],
+      "initial": "而靜爲病後所宜人尚欲以命門缺火壯之余曰",
+      "revised": "而靜爲病後所宜人倘欲以命門缺火壯之余曰",
+      "reason": "右半最小中縫旁欄，尚形左另有清楚單人旁。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177700"
+    },
+    {
+      "page_id": "f034",
+      "id": "f034-u11",
+      "side": "L",
+      "bbox": [
+        1297,
+        396,
+        1377,
+        1534
+      ],
+      "initial": "缺血故怔胃虛陽熱肺氣不得下降故氣逆肝木",
+      "revised": "缺血故怔胃虛腸熱肺氣不得下降故氣逆肝木",
+      "reason": "左二欄此字左側框為月旁，右上日下曳筆可見，依圖讀「腸」。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177700"
+    },
+    {
+      "page_id": "f034",
+      "id": "f034-u18",
+      "side": "L",
+      "bbox": [
+        623,
+        396,
+        703,
+        1534
+      ],
+      "initial": "蒼术生薑陳皮法夏安胃止吐調氣開鬱以治餘",
+      "revised": "倉术生薑陳皮法夏安胃止吐調氣開鬱以治餘",
+      "reason": "左末欄第一字上作覆人字頭，其上無草頭筆畫。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177700"
+    },
+    {
+      "page_id": "f035",
+      "id": "f035-u06",
+      "side": "R",
+      "bbox": [
+        1807,
+        445,
+        1878,
+        1549
+      ],
+      "initial": "無倫次此□變為熱三焦合病也以四物湯加沙",
+      "revised": "無倫次此溼變為熱三焦合病也以四物湯加沙",
+      "reason": "原圖此下為氵旁，右上是橫筆下雙絞形、右下土，與 f037 兩處同形，錄溼。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177800"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u03",
+      "side": "R",
+      "bbox": [
+        2082,
+        445,
+        2153,
+        1549
+      ],
+      "initial": "風也時值夏令暑□蒸熱脾土受傷故飲食少進",
+      "revised": "風也時值夏令暑溼蒸熱脾土受傷故飲食少進",
+      "reason": "暑下氵旁，右上雙絞形，下土，與本幅左第四欄同形；夏下字下部開放，仍讀令。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u04",
+      "side": "R",
+      "bbox": [
+        1983,
+        445,
+        2054,
+        1549
+      ],
+      "initial": "用清暑益氣湯去黃柏澤瀉柴葛加法夏投之而",
+      "revised": "用清暑益氣湯去黃栢澤瀉柴葛加法夏投之而",
+      "reason": "栢的右部頂部橫筆與下白分排，見百形。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u08",
+      "side": "R",
+      "bbox": [
+        1598,
+        445,
+        1669,
+        1549
+      ],
+      "initial": "香薷丸投之諸證如失再以清暑益氣湯去黃柏",
+      "revised": "香薷丸投之諸證如失再以清暑益氣湯去黃栢",
+      "reason": "葉草藥字右需清楚，末木旁字右方頂橫與白分離，讀栢。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u14",
+      "side": "L",
+      "bbox": [
+        1112,
+        445,
+        1183,
+        1549
+      ],
+      "initial": "附以回陽請余決之六脈俱細此傷暑兼□證也",
+      "revised": "附以囘陽請余決之六脈俱細此傷暑兼溼證也",
+      "reason": "放大見回字外框不閉、內己狀，錄囘；兼後氵旁右下土，為溼；末無圈點。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u15",
+      "side": "L",
+      "bbox": [
+        1017,
+        445,
+        1088,
+        1549
+      ],
+      "initial": "因發汗而衛氣失守以清暑益氣湯去黃柏澤瀉",
+      "revised": "因發汗而衛氣失守以清暑益氣湯去黃栢澤瀉",
+      "reason": "放大見黃後木旁、右頂橫與白下格分離，同右第四欄；瀉後是框。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u17",
+      "side": "L",
+      "bbox": [
+        823,
+        445,
+        894,
+        1487
+      ],
+      "initial": "仁浮小麥投之一劑而汗止厥回三劑全愈",
+      "revised": "仁浮小麥投之一劑而汗止厥囘三劑全愈",
+      "reason": "原圖厥後外框底開、內己狀，為囘；愈下欄空。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000"
+    },
+    {
+      "page_id": "f039",
+      "id": "f039-u01",
+      "side": "R",
+      "bbox": [
+        2270,
+        445,
+        2341,
+        1004
+      ],
+      "initial": "以此法催生無不立效",
+      "revised": "以此法催生無不立効",
+      "reason": "效義字右為折鉤撇的力形，原刻効。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178200"
+    },
+    {
+      "page_id": "f039",
+      "id": "f039-u03",
+      "side": "R",
+      "bbox": [
+        2076,
+        445,
+        2147,
+        1549
+      ],
+      "initial": "不通衆醫無效求方於余於法當下之余未診其",
+      "revised": "不通衆醫無効求方於余於法當下之余未診其",
+      "reason": "無下字右為折鉤撇的力形，同本幅右第一欄効。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178200"
+    },
+    {
+      "page_id": "f040",
+      "id": "f040-u03",
+      "side": "R",
+      "bbox": [
+        2079,
+        445,
+        2150,
+        824
+      ],
+      "initial": "施之無不立效",
+      "revised": "施之無不立効",
+      "reason": "立下字右旁折鉤撇，寫効，與 f039 同形。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178300"
+    },
+    {
+      "page_id": "f040",
+      "id": "f040-u07",
+      "side": "R",
+      "bbox": [
+        1695,
+        445,
+        1767,
+        1549
+      ],
+      "initial": "地骨皮穿山甲甘草等藥令其未發前一時服之",
+      "revised": "地骨皮穿山甲甘草等藥令其未發前二時服之",
+      "reason": "原影前與時間的字格中有兩道獨立橫筆，應為二。末之下粗墨屬底框。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178300"
+    },
+    {
+      "page_id": "f040",
+      "id": "f040-u08",
+      "side": "R",
+      "bbox": [
+        1600,
+        445,
+        1672,
+        1549
+      ],
+      "initial": "一劑而愈後凡遇此證者俱以此法施之皆效更",
+      "revised": "一劑而愈後凡遇此證者俱以此法施之皆効更",
+      "reason": "皆下效義字右為力，錄効；更下無獨立一格。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178300"
+    },
+    {
+      "page_id": "f040",
+      "id": "f040-u13",
+      "side": "L",
+      "bbox": [
+        1197,
+        413,
+        1268,
+        1549
+      ],
+      "initial": "一人患□瘧午後發潮熱夜半方退大便八日不下",
+      "revised": "一人患痺瘧午後發潮熱夜半方退大便八日不下",
+      "reason": "放大見疒旁右有卑的框和下十筆，錄痺；便八日位可辨。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178300"
+    },
+    {
+      "page_id": "f042",
+      "id": "f042-u09",
+      "side": "R",
+      "bbox": [
+        1508,
+        445,
+        1580,
+        1549
+      ],
+      "initial": "調其氣佐以生新去瘀之品自然自通若用峻攻",
+      "revised": "調其氣佐以生新去瘀之品自然而通若用峻攻",
+      "reason": "原影然下有頂橫、下分直畫，為而；通後依次為若用峻攻，峻有山旁。攻即本影最末一字。",
+      "source": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178500"
+    }
+  ]
 }

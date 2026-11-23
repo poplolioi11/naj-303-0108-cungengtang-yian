@@ -11,7 +11,7 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition n="0.1.0">Initial transcription</edition>
+        <edition n="0.2.0">Image-checked revision</edition>
       </editionStmt>
       <publicationStmt>
         <publisher>Chu, Chen-Yu</publisher>
@@ -45,7 +45,7 @@
       </langUsage>
     </profileDesc>
     <revisionDesc>
-      <change when="2026-11-23" n="0.1.0">Initial transcription</change>
+      <change when="2026-11-23" n="0.2.0">Image-checked revision</change>
     </revisionDesc>
   </teiHeader>
   <facsimile>
@@ -109,7 +109,6 @@
       <zone type="body" ulx="1626" uly="442" lrx="1704" lry="1535" xml:id="zone-f004-u08" />
       <zone type="body" ulx="1531" uly="441" lrx="1610" lry="941" xml:id="zone-f004-u09" />
       <zone type="paratext" ulx="2385" uly="550" lrx="2435" lry="808" xml:id="zone-f004-u10" />
-      <zone type="note" ulx="2160" uly="805" lrx="2199" lry="865" xml:id="zone-f004-u11" />
       <zone type="body" ulx="1383" uly="398" lrx="1462" lry="1535" xml:id="zone-f004-u12" />
       <zone type="body" ulx="1288" uly="441" lrx="1365" lry="1535" xml:id="zone-f004-u13" />
       <zone type="body" ulx="1192" uly="441" lrx="1271" lry="1535" xml:id="zone-f004-u14" />
@@ -538,7 +537,7 @@
       <zone type="body" ulx="1977" uly="458" lrx="2061" lry="1538" xml:id="zone-f023-u04" />
       <zone type="body" ulx="1881" uly="458" lrx="1965" lry="1538" xml:id="zone-f023-u05" />
       <zone type="body" ulx="1785" uly="458" lrx="1869" lry="1538" xml:id="zone-f023-u06" />
-      <zone type="body" ulx="1783" uly="407" lrx="1873" lry="1536" xml:id="zone-f023-u07" />
+      <zone type="body" ulx="1697" uly="410" lrx="1760" lry="1536" xml:id="zone-f023-u07" />
       <zone type="body" ulx="1593" uly="458" lrx="1677" lry="1538" xml:id="zone-f023-u08" />
       <zone type="body" ulx="1496" uly="458" lrx="1580" lry="1538" xml:id="zone-f023-u09" />
       <zone type="body" ulx="1387" uly="451" lrx="1471" lry="1533" xml:id="zone-f023-u10" />
@@ -1018,7 +1017,7 @@
         <pb facs="#surface-f002" n="f002" />
         <ab type="title" facs="#zone-f002-u01" xml:id="f002-u01">醫案</ab>
         <ab type="title" facs="#zone-f002-u02" xml:id="f002-u02">序</ab>
-        <ab type="body" facs="#zone-f002-u03" xml:id="f002-u03">余於醫本非專家但先世習此已數傳亦籍之南來</ab>
+        <ab type="body" facs="#zone-f002-u03" xml:id="f002-u03">余於醫本非專家但先世習此已數傳亦猶之南宋</ab>
         <ab type="body" facs="#zone-f002-u04" xml:id="f002-u04">徐氏也　先府君繼之自諸生以至服官暇卽手披</ab>
         <ab type="body" facs="#zone-f002-u05" xml:id="f002-u05">岐黃諸書活人亦甚衆余自弱冠患咯血　府君投</ab>
         <ab type="body" facs="#zone-f002-u06" xml:id="f002-u06">劑輒應踰壯後　府君棄世舊疾復作延他手無一</ab>
@@ -1040,7 +1039,7 @@
         <ab type="body" facs="#zone-f003-u02" xml:id="f003-u02">知者以疑難見招偶爾立案存之故案中多接他人</ab>
         <ab type="body" facs="#zone-f003-u03" xml:id="f003-u03">手者然亦不過如周禮之疾醫治病愈與不愈並有</ab>
         <ab type="body" facs="#zone-f003-u04" xml:id="f003-u04">案記而已矣無足傳也同志輩見之謂其中不師心</ab>
-        <ab type="body" facs="#zone-f003-u05" xml:id="f003-u05">不泥古處可為臨證者法勸余梓之因識其崖略於</ab>
+        <ab type="body" facs="#zone-f003-u05" xml:id="f003-u05">不泥古處可為臨證者法勸余梓之因識其崖畧於</ab>
         <ab type="body" facs="#zone-f003-u06" xml:id="f003-u06">左時乾隆癸丑臘月朔旦寸耕居士林玉友渠清譔</ab>
         <ab type="paratext" facs="#zone-f003-u07" xml:id="f003-u07">醫案全卷</ab>
         <ab type="title" facs="#zone-f003-u08" xml:id="f003-u08">寸耕堂醫案全卷</ab>
@@ -1058,16 +1057,15 @@
       <div type="image" n="f004">
         <pb facs="#surface-f004" n="f004" />
         <ab type="body" facs="#zone-f004-u01" xml:id="f004-u01">知其為痰而兼熱也用桔紅半夏枳殼黃芩生地</ab>
-        <ab type="body" facs="#zone-f004-u02" xml:id="f004-u02">黃柏蒼术陳皮歸芍白术一劑而痰如湧泄卽止</ab>
+        <ab type="body" facs="#zone-f004-u02" xml:id="f004-u02">黃栢蒼术陳皮歸芍白术一劑而痰如湧泄卽止</ab>
         <ab type="body" facs="#zone-f004-u03" xml:id="f004-u03">三劑全愈</ab>
         <ab type="body" facs="#zone-f004-u04" xml:id="f004-u04">一人咯血譫語衆認作時疫余診之六脈皆沉而洪</ab>
         <ab type="body" facs="#zone-f004-u05" xml:id="f004-u05">幸左尺稍軟知其眞陰未絕也急以生地枸杞歸</ab>
         <ab type="body" facs="#zone-f004-u06" xml:id="f004-u06">芍麥冬炒芩桑白皮丹皮投之一劑而愈</ab>
         <ab type="body" facs="#zone-f004-u07" xml:id="f004-u07">一婦患病發熱人用桂附愈甚又易手治之復以為</ab>
-        <ab type="body" facs="#zone-f004-u08" xml:id="f004-u08">虛欲用參耆補之余診之六脈小而<unclear>□</unclear>心脈尤甚</ab>
+        <ab type="body" facs="#zone-f004-u08" xml:id="f004-u08">虛欲用參耆補之余診之六脈小而急心脈尤甚</ab>
         <ab type="body" facs="#zone-f004-u09" xml:id="f004-u09">用加味逍遙散而痊</ab>
         <ab type="paratext" facs="#zone-f004-u10" xml:id="f004-u10">醫案全卷</ab>
-        <ab type="note" facs="#zone-f004-u11" xml:id="f004-u11"><unclear>□</unclear></ab>
         <ab type="body" facs="#zone-f004-u12" xml:id="f004-u12">一兒方週歲六月間患病大便數日不下腹痛推按</ab>
         <ab type="body" facs="#zone-f004-u13" xml:id="f004-u13">人作驚風食積治之危在旦夕余診之六脈盡伏</ab>
         <ab type="body" facs="#zone-f004-u14" xml:id="f004-u14">胃脈獨大此痞滿燥實堅全見證也以小承氣湯</ab>
@@ -1092,7 +1090,7 @@
         <ab type="body" facs="#zone-f005-u08" xml:id="f005-u08">等藥余曰下焦如瀆天地之有四瀆所以節宣其</ab>
         <ab type="body" facs="#zone-f005-u09" xml:id="f005-u09">氣今補而不瀉氣無以宣壅而上行固其所也遂</ab>
         <ab type="paratext" facs="#zone-f005-u10" xml:id="f005-u10">醫案全卷</ab>
-        <ab type="body" facs="#zone-f005-u11" xml:id="f005-u11">用黃柏以瀉相火香附神麯以快中氣加氣血藥</ab>
+        <ab type="body" facs="#zone-f005-u11" xml:id="f005-u11">用黃栢以瀉相火香附神麯以快中氣加氣血藥</ab>
         <ab type="body" facs="#zone-f005-u12" xml:id="f005-u12">佐之立愈</ab>
         <ab type="body" facs="#zone-f005-u13" xml:id="f005-u13">一人患泄瀉用桂附等劑不應用牛膝車前分利小</ab>
         <ab type="body" facs="#zone-f005-u14" xml:id="f005-u14">便泄愈甚又用人參五錢而泄不止完穀不化時</ab>
@@ -1114,7 +1112,7 @@
         <ab type="body" facs="#zone-f006-u06" xml:id="f006-u06">煎入韭汁酒投之吐痰碗許是夜大小便通而愈</ab>
         <ab type="body" facs="#zone-f006-u07" xml:id="f006-u07">一婦產後患腹脹用桂附等藥十餘劑不應氣如喘</ab>
         <ab type="body" facs="#zone-f006-u08" xml:id="f006-u08">腹脹如石余診之脈細而附骨此血瘕也華陀篇</ab>
-        <ab type="body" facs="#zone-f006-u09" xml:id="f006-u09">云無寒熱<unclear>□</unclear>喘氣不足以息者實可下之以千金</ab>
+        <ab type="body" facs="#zone-f006-u09" xml:id="f006-u09">云無寒熱而喘氣不足以息者實可下之以千金</ab>
         <ab type="paratext" facs="#zone-f006-u10" xml:id="f006-u10">醫案全卷</ab>
         <ab type="body" facs="#zone-f006-u11" xml:id="f006-u11">消石丸三十丸與之人參三分服之下兩三次腹</ab>
         <ab type="body" facs="#zone-f006-u12" xml:id="f006-u12">少減次日復以二十丸與之再下而腹減半更有</ab>
@@ -1156,7 +1154,7 @@
         <pb facs="#surface-f008" n="f008" />
         <ab type="body" facs="#zone-f008-u01" xml:id="f008-u01">枳實一錢以去積痰一劑而口眼正卽能舉動戒</ab>
         <ab type="body" facs="#zone-f008-u02" xml:id="f008-u02">以後當素食其人至夏間不能禁口前證復作余</ab>
-        <ab type="body" facs="#zone-f008-u03" xml:id="f008-u03">用石膏牛膝黃芩片子薑黃生地防己當歸酒芍</ab>
+        <ab type="body" facs="#zone-f008-u03" xml:id="f008-u03">用石膏牛膝黃芩片子薑黃生地防巳當歸酒芍</ab>
         <ab type="body" facs="#zone-f008-u04" xml:id="f008-u04">神麯鈎藤加竹瀝薑汁煎服吐出頑痰四五碗半</ab>
         <ab type="body" facs="#zone-f008-u05" xml:id="f008-u05">身始能動履再用四物加黃芩桑白皮地骨皮神</ab>
         <ab type="body" facs="#zone-f008-u06" xml:id="f008-u06">麯鈎藤竹瀝薑汁兩月餘神氣煩倦知其痰少而</ab>
@@ -1167,7 +1165,7 @@
         <ab type="body" facs="#zone-f008-u11" xml:id="f008-u11">中等劑余診之兩寸皆小而急尺脈全無服前藥</ab>
         <ab type="body" facs="#zone-f008-u12" xml:id="f008-u12">而尺脈全無非虛也痰涌於上耳用四物湯去芍</ab>
         <ab type="body" facs="#zone-f008-u13" xml:id="f008-u13">加生草丹皮瓜蔞桑白一劑而神思頓清六脈大</ab>
-        <ab type="body" facs="#zone-f008-u14" xml:id="f008-u14">再用芩柏合前劑投之全愈</ab>
+        <ab type="body" facs="#zone-f008-u14" xml:id="f008-u14">再用芩栢合前劑投之全愈</ab>
         <ab type="body" facs="#zone-f008-u15" xml:id="f008-u15">一人盛夏中風發痙人用薑桂等劑午時發昏口噤</ab>
         <ab type="body" facs="#zone-f008-u16" xml:id="f008-u16">自汗如雨余診之六脈洪緩此柔痙也自汗不惡</ab>
         <ab type="body" facs="#zone-f008-u17" xml:id="f008-u17">風丹溪云此證多由內虛得之用八珍加丹皮防</ab>
@@ -1185,16 +1183,16 @@
         <ab type="body" facs="#zone-f009-u05" xml:id="f009-u05">血十餘塊而脈如初再用平肺散而痊繼用六味</ab>
         <ab type="body" facs="#zone-f009-u06" xml:id="f009-u06">丸而前證不作經云肺脈不時數則生惡瘡也</ab>
         <ab type="body" facs="#zone-f009-u07" xml:id="f009-u07">一人患病自知醫以出外方回用二陳桂附等劑不</ab>
-        <ab type="body" facs="#zone-f009-u08" xml:id="f009-u08">應延他手用藥雷同病益甚水飲不入口痰涎湧</ab>
+        <ab type="body" facs="#zone-f009-u08" xml:id="f009-u08">應延他手用藥雷同病益甚米飲不入口痰延湧</ab>
         <ab type="body" facs="#zone-f009-u09" xml:id="f009-u09">出譫語昏憒氣息奄奄瀕於死矣余診之六脈沉</ab>
         <ab type="paratext" facs="#zone-f009-u10" xml:id="f009-u10">醫案全卷</ab>
         <ab type="body" facs="#zone-f009-u11" xml:id="f009-u11">微非風寒等證也乃上氣不足耳經云上氣不足</ab>
         <ab type="body" facs="#zone-f009-u12" xml:id="f009-u12">推而揚之用八珍加麥冬五味柴胡升麻一劑而</ab>
-        <ab type="body" facs="#zone-f009-u13" xml:id="f009-u13">食進三<unclear>□</unclear>全愈</ab>
+        <ab type="body" facs="#zone-f009-u13" xml:id="f009-u13">食進三劑全愈</ab>
         <ab type="body" facs="#zone-f009-u14" xml:id="f009-u14">一人夏患病午後發熱至晚方止余曰晝則發熱夜</ab>
         <ab type="body" facs="#zone-f009-u15" xml:id="f009-u15">則安靜是陽氣自旺於陽分晝則安靜夜則發熱</ab>
         <ab type="body" facs="#zone-f009-u16" xml:id="f009-u16">是陽氣下陷入陰中也雜病當從熱入血室論東</ab>
-        <ab type="body" facs="#zone-f009-u17" xml:id="f009-u17">垣以瀉血湯主之<unclear>□</unclear>投此劑而<unclear>□</unclear>不敢服衆以扶</ab>
+        <ab type="body" facs="#zone-f009-u17" xml:id="f009-u17">垣以瀉血湯主之四投此劑而四不敢服衆以扶</ab>
         <ab type="body" facs="#zone-f009-u18" xml:id="f009-u18">脾人參之類投之胸中作痛而不能食余曰血室</ab>
         <ab type="body" facs="#zone-f009-u19" xml:id="f009-u19">在乳下三寸熱留於此積久妨胃必至之勢也於</ab>
         <ab type="paratext" facs="#zone-f009-u20" xml:id="f009-u20">醫案全卷</ab>
@@ -1210,7 +1208,7 @@
         <ab type="body" facs="#zone-f010-u06" xml:id="f010-u06">有病則反之不得以補虛論信哉</ab>
         <ab type="body" facs="#zone-f010-u07" xml:id="f010-u07">一婦新嫁忽昏憒氣逆牙關緊急余診之右尺洪而</ab>
         <ab type="body" facs="#zone-f010-u08" xml:id="f010-u08">入尺澤餘脈皆伏此衝脈為患相火挾肝木上衝</ab>
-        <ab type="body" facs="#zone-f010-u09" xml:id="f010-u09">胃道胃脈環口夾唇故牙關緊急用柴胡黃柏以</ab>
+        <ab type="body" facs="#zone-f010-u09" xml:id="f010-u09">胃道胃脈環口夾唇故牙關緊急用柴胡黃栢以</ab>
         <ab type="paratext" facs="#zone-f010-u10" xml:id="f010-u10">醫案全卷</ab>
         <ab type="body" facs="#zone-f010-u11" xml:id="f010-u11">清相火歸芍以養血生地丹皮以清熱竹瀝薑汁</ab>
         <ab type="body" facs="#zone-f010-u12" xml:id="f010-u12">童便以去痰加山梔以降火下行一劑而甦</ab>
@@ -1252,7 +1250,7 @@
         <pb facs="#surface-f012" n="f012" />
         <ab type="body" facs="#zone-f012-u01" xml:id="f012-u01">亢則害耳陽氣陷於九地之下陰氣逼於皮毛之</ab>
         <ab type="body" facs="#zone-f012-u02" xml:id="f012-u02">外故至是用蒼术羌活柴胡升麻以升陽氣知母</ab>
-        <ab type="body" facs="#zone-f012-u03" xml:id="f012-u03">黃柏茯苓澤瀉以降陰氣陳皮白术以補中一劑</ab>
+        <ab type="body" facs="#zone-f012-u03" xml:id="f012-u03">黃栢茯苓澤瀉以降陰氣陳皮白术以補中一劑</ab>
         <ab type="body" facs="#zone-f012-u04" xml:id="f012-u04">而見熱食進再劑而瘧止</ab>
         <ab type="body" facs="#zone-f012-u05" xml:id="f012-u05">一人患四肢厥逆衆醫用薑桂附等藥溫之經兩月</ab>
         <ab type="body" facs="#zone-f012-u06" xml:id="f012-u06">無一效而口加渴飲食不進請余診之六脈沉急</ab>
@@ -1275,7 +1273,7 @@
       <div type="image" n="f013">
         <pb facs="#surface-f013" n="f013" />
         <ab type="body" facs="#zone-f013-u01" xml:id="f013-u01">之六脈洪數右為甚余曰此內傷證也用補中益</ab>
-        <ab type="body" facs="#zone-f013-u02" xml:id="f013-u02">氣加芍柏地兩劑全愈後因遠行勞役吐血五日</ab>
+        <ab type="body" facs="#zone-f013-u02" xml:id="f013-u02">氣加芍栢地兩劑全愈後因遠行勞役吐血五日</ab>
         <ab type="body" facs="#zone-f013-u03" xml:id="f013-u03">復求治余診其兩手脈皆虛數決其必死於秋深</ab>
         <ab type="body" facs="#zone-f013-u04" xml:id="f013-u04">時方六月也後果如言而歿</ab>
         <ab type="body" facs="#zone-f013-u05" xml:id="f013-u05">一人病瘧時值十一月衆醫用追瘧飲何人飲等劑</ab>
@@ -1293,7 +1291,7 @@
         <pb facs="#surface-f014" n="f014" />
         <ab type="paratext" facs="#zone-f014-u01" xml:id="f014-u01">醫案全卷</ab>
         <ab type="body" facs="#zone-f014-u02" xml:id="f014-u02">之至正月病日增復請余診之余曰於今非大瀉</ab>
-        <ab type="body" facs="#zone-f014-u03" xml:id="f014-u03">其陽峻補其陰不可聞俗喜辛熱聞之驚駭仍用</ab>
+        <ab type="body" facs="#zone-f014-u03" xml:id="f014-u03">其陽竣補其陰不可聞俗喜辛熱聞之驚駭仍用</ab>
         <ab type="body" facs="#zone-f014-u04" xml:id="f014-u04">前藥正月終詢之云已好矣余曰安有好法哉至</ab>
         <ab type="body" facs="#zone-f014-u05" xml:id="f014-u05">二月復請余診之面如浮垢益甚六脈浮緩其家</ab>
         <ab type="body" facs="#zone-f014-u06" xml:id="f014-u06">云今瘧已退只求理脾余不應出謂其親曰面如</ab>
@@ -1403,7 +1401,7 @@
         <ab type="body" facs="#zone-f019-u03" xml:id="f019-u03">表所致用羌活通聲散兩服至正月初一日聲立</ab>
         <ab type="body" facs="#zone-f019-u04" xml:id="f019-u04">開但語言用力余曰此腎氣不足也以地黃飲子</ab>
         <ab type="body" facs="#zone-f019-u05" xml:id="f019-u05">爲丸服之漸愈有何姓者見余用羌活發散等劑</ab>
-        <ab type="body" facs="#zone-f019-u06" xml:id="f019-u06">遂以麻黃三拗湯服之仍語言不出其家驚惶復</ab>
+        <ab type="body" facs="#zone-f019-u06" xml:id="f019-u06">遂以麻黃三拘湯服之仍語言不出其家驚惶復</ab>
         <ab type="body" facs="#zone-f019-u07" xml:id="f019-u07">求救於余余曰發汗過多傳爲肺痿以八珍湯加</ab>
         <ab type="body" facs="#zone-f019-u08" xml:id="f019-u08">麥味紫苑欵冬花飲之漸愈</ab>
         <ab type="body" facs="#zone-f019-u09" xml:id="f019-u09">銀臺五叔母夫人節齋弟迎養至宣城官署忽患頭</ab>
@@ -1428,7 +1426,7 @@
         <ab type="body" facs="#zone-f020-u05" xml:id="f020-u05">一人素服八味丸忽患風寒咳嗽面帶虛浮小便不</ab>
         <ab type="body" facs="#zone-f020-u06" xml:id="f020-u06">利醫告以仍服八味丸日見虛腫請余診之六脈</ab>
         <ab type="body" facs="#zone-f020-u07" xml:id="f020-u07">浮緊余曰此風寒在表也當開鬼門潔淨府發汗</ab>
-        <ab type="body" facs="#zone-f020-u08" xml:id="f020-u08"><unclear>□</unclear>利則愈八味非常服之藥況風寒在表乎彼不</ab>
+        <ab type="body" facs="#zone-f020-u08" xml:id="f020-u08">兼利則愈八味非常服之藥況風寒在表乎彼不</ab>
         <ab type="body" facs="#zone-f020-u09" xml:id="f020-u09">信仍服都氣湯余辭不治未半月竟以虛脹而死</ab>
         <ab type="body" facs="#zone-f020-u10" xml:id="f020-u10">丙申年余在宣城節齋弟任內母在家病篤思余</ab>
         <ab type="body" facs="#zone-f020-u11" xml:id="f020-u11">恐家人趕余不及因齧指余感而心痛馳歸省視</ab>
@@ -1494,7 +1492,7 @@
         <ab type="body" facs="#zone-f023-u02" xml:id="f023-u02">卽發此證經云陽明主潤宗筋宗筋虛則弛是其</ab>
         <ab type="body" facs="#zone-f023-u03" xml:id="f023-u03">驗也陽明甚於頭面故面紅金燥故腸結他藏無</ab>
         <ab type="body" facs="#zone-f023-u04" xml:id="f023-u04">別證余只專治陽明戒以勿藥令其煮冬米粥一</ab>
-        <ab type="body" facs="#zone-f023-u05" xml:id="f023-u05">椀用石膏所煉白糖調服後果如言與服次日面</ab>
+        <ab type="body" facs="#zone-f023-u05" xml:id="f023-u05">碗用石膏所煉白糖調服後果如言與服次日面</ab>
         <ab type="body" facs="#zone-f023-u06" xml:id="f023-u06">紅退下燥糞而愈經所謂小熱之氣凉以和之也</ab>
         <ab type="body" facs="#zone-f023-u07" xml:id="f023-u07">一人患病服桂附十餘劑譫語不得眠時年七十餘</ab>
         <ab type="body" facs="#zone-f023-u08" xml:id="f023-u08">矣衆醫決以必死余診之心脈微急欠伸者再知</ab>
@@ -1518,7 +1516,7 @@
         <ab type="body" facs="#zone-f024-u03" xml:id="f024-u03">一人患膀胱偏墮腫痛服辛熱之藥愈劇余診之左</ab>
         <ab type="body" facs="#zone-f024-u04" xml:id="f024-u04">手脈洪結余曰張子和云陰氣積於內爲寒邪所</ab>
         <ab type="body" facs="#zone-f024-u05" xml:id="f024-u05">襲榮衛不調則成疝病證雖見於腎病實本於肝</ab>
-        <ab type="body" facs="#zone-f024-u06" xml:id="f024-u06">以厥陰肝脈絡陰器故也余易導氣古方以疏肝</ab>
+        <ab type="body" facs="#zone-f024-u06" xml:id="f024-u06">以厥陰肝脈絡陰器故也余易導氣古方以踈肝</ab>
         <ab type="body" facs="#zone-f024-u07" xml:id="f024-u07">藥治之一服而瘥</ab>
         <ab type="body" facs="#zone-f024-u08" xml:id="f024-u08">一人二十餘歲陡患行步艱難足跟隱痛且胸次脹</ab>
         <ab type="body" facs="#zone-f024-u09" xml:id="f024-u09">滿不能食其家憂懼余診之尺浮而虛余曰此鶴</ab>
@@ -1566,7 +1564,7 @@
         <ab type="body" facs="#zone-f026-u05" xml:id="f026-u05">一人患咳嗽咯血衆醫治不應請余診之脈洪大余</ab>
         <ab type="body" facs="#zone-f026-u06" xml:id="f026-u06">曰此肺癰之證以人參平肺散四五服與之脈稍</ab>
         <ab type="body" facs="#zone-f026-u07" xml:id="f026-u07">緩吐膿血如故衆醫復謂難治余曰無憂吐膿盡</ab>
-        <ab type="body" facs="#zone-f026-u08" xml:id="f026-u08">當自愈數日吐出膿椀計以六味及清金養血佐</ab>
+        <ab type="body" facs="#zone-f026-u08" xml:id="f026-u08">當自愈數日吐出膿碗計以六味及清金養血佐</ab>
         <ab type="body" facs="#zone-f026-u09" xml:id="f026-u09">之遂瘥</ab>
         <ab type="body" facs="#zone-f026-u10" xml:id="f026-u10">一婦年已六旬感冒風寒醫以理中眞武等劑投之</ab>
         <ab type="body" facs="#zone-f026-u11" xml:id="f026-u11">神氣昏迷奄奄一息衆皆束手請余診之六脈全</ab>
@@ -1584,7 +1582,7 @@
         <pb facs="#surface-f027" n="f027" />
         <ab type="body" facs="#zone-f027-u01" xml:id="f027-u01">噫氣不絕聲便發癎或一日兩發或三數日一發</ab>
         <ab type="body" facs="#zone-f027-u02" xml:id="f027-u02">如是者半年適余自粵旋診之兩尺微細宜從補</ab>
-        <ab type="body" facs="#zone-f027-u03" xml:id="f027-u03">以金水六君加膽星竹瀝薑汁鈎藤茯神遠志石</ab>
+        <ab type="body" facs="#zone-f027-u03" xml:id="f027-u03">以金水六君加膽星竹瀝薑汁鉤藤茯神遠志石</ab>
         <ab type="body" facs="#zone-f027-u04" xml:id="f027-u04">菖蒲香附砂仁等藥投之連服數劑氣順證減自</ab>
         <ab type="body" facs="#zone-f027-u05" xml:id="f027-u05">是以後或半月一發或一月一發漸愈而有孕</ab>
         <ab type="body" facs="#zone-f027-u06" xml:id="f027-u06">一人病瘧間日一作醫以追瘧飲何人飲累投不應</ab>
@@ -1690,7 +1688,7 @@
         <ab type="body" facs="#zone-f031-u12" xml:id="f031-u12">生火火爲本而風爲標用沙參麥冬膽星半夏陳</ab>
         <ab type="body" facs="#zone-f031-u13" xml:id="f031-u13">皮甘草茯神遠志歸芍石菖蒲秦艽鈎藤竹瀝薑</ab>
         <ab type="body" facs="#zone-f031-u14" xml:id="f031-u14">汁投之一劑而甦再劑全愈</ab>
-        <ab type="body" facs="#zone-f031-u15" xml:id="f031-u15">一人患胸膈刺痛兼吐五日一發痛極拊按吐則五</ab>
+        <ab type="body" facs="#zone-f031-u15" xml:id="f031-u15">一人患胸膈刺痛兼吐五日一發痛極拒按吐則五</ab>
         <ab type="body" facs="#zone-f031-u16" xml:id="f031-u16">日前所食諸物盡吐出始快平日則胸膈痞悶飢</ab>
         <ab type="body" facs="#zone-f031-u17" xml:id="f031-u17">而食不下據云痛係舊疾但從前無如此之甚近</ab>
         <ab type="body" facs="#zone-f031-u18" xml:id="f031-u18">因端午後飲食不調發出兼吐證醫作寒治用止</ab>
@@ -1701,14 +1699,14 @@
       <div type="image" n="f032">
         <pb facs="#surface-f032" n="f032" />
         <ab type="body" facs="#zone-f032-u01" xml:id="f032-u01">痛止吐辛熱等藥屢服月餘不效脈寸關沈伏兼</ab>
-        <ab type="body" facs="#zone-f032-u02" xml:id="f032-u02">澀兩尺虛浮而急面目氣色凝滯戴元禮曰房勞</ab>
+        <ab type="body" facs="#zone-f032-u02" xml:id="f032-u02">濇兩尺虛浮而急面目氣色凝滯戴元禮曰房勞</ab>
         <ab type="body" facs="#zone-f032-u03" xml:id="f032-u03">腎虛之人胸膈多有隱痛此腎虛不能納氣氣虛</ab>
         <ab type="body" facs="#zone-f032-u04" xml:id="f032-u04">不能生血之故氣與血猶水也盛則流暢虛則鮮</ab>
         <ab type="body" facs="#zone-f032-u05" xml:id="f032-u05">有不滯者所以作痛今此證尺脈虛浮而急從前</ab>
         <ab type="body" facs="#zone-f032-u06" xml:id="f032-u06">舊疾恐屬房勞過度理應補水但近證得諸飲食</ab>
         <ab type="body" facs="#zone-f032-u07" xml:id="f032-u07">失調夏令暑溼傷脾陰陽不和以致中焦胃鬱肺</ab>
         <ab type="body" facs="#zone-f032-u08" xml:id="f032-u08">金之氣不得下降五日一發者天數五從脾周而</ab>
-        <ab type="body" facs="#zone-f032-u09" xml:id="f032-u09">復始也加以溫中燥藥熱締於中當升者不得升</ab>
+        <ab type="body" facs="#zone-f032-u09" xml:id="f032-u09">復如也加以溫中燥藥熱締於中當升者不得升</ab>
         <ab type="body" facs="#zone-f032-u10" xml:id="f032-u10">當降者不得降當變化者不得變化安得平善治</ab>
         <ab type="body" facs="#zone-f032-u11" xml:id="f032-u11">當先開胃土之鬱清肺金之燥然後以補水法收</ab>
         <ab type="body" facs="#zone-f032-u12" xml:id="f032-u12">之方用香砂六君加蒼术神麯歸芍青皮陳皮麥</ab>
@@ -1726,7 +1724,7 @@
         <pb facs="#surface-f033" n="f033" />
         <ab type="body" facs="#zone-f033-u01" xml:id="f033-u01">又阻余曰昔許叔微學士精於醫奉試差宿傳舍</ab>
         <ab type="body" facs="#zone-f033-u02" xml:id="f033-u02">半夜聞隔壁病人喊叫聲急起救之果瘳學士君</ab>
-        <ab type="body" facs="#zone-f033-u03" xml:id="f033-u03">命在身心切救人不避嫌疑如此余乃懼煩耶家</ab>
+        <ab type="body" facs="#zone-f033-u03" xml:id="f033-u03">命在身心切救人不避嫌疑如此余乃憚煩耶家</ab>
         <ab type="body" facs="#zone-f033-u04" xml:id="f033-u04">人始如命往詢其疾時值夏令因飲食不調先則</ab>
         <ab type="body" facs="#zone-f033-u05" xml:id="f033-u05">霍亂吐瀉後則腹痛口渴小便不利所服皆理中</ab>
         <ab type="body" facs="#zone-f033-u06" xml:id="f033-u06">六君等劑余曰誤矣告以不用診脈以生脈飲合</ab>
@@ -1756,16 +1754,16 @@
         <ab type="body" facs="#zone-f034-u06" xml:id="f034-u06">用藥雜投纏綿不已經五閱月余診之偃息在床</ab>
         <ab type="body" facs="#zone-f034-u07" xml:id="f034-u07">肌瘦如柴面顴發紅氣逆心怔食入多吐吐則色</ab>
         <ab type="body" facs="#zone-f034-u08" xml:id="f034-u08">黃而味鹹日食米糊一半碗餘不能進猶幸脈細</ab>
-        <ab type="body" facs="#zone-f034-u09" xml:id="f034-u09">而靜爲病後所宜人尚欲以命門缺火壯之余曰</ab>
+        <ab type="body" facs="#zone-f034-u09" xml:id="f034-u09">而靜爲病後所宜人倘欲以命門缺火壯之余曰</ab>
         <ab type="body" facs="#zone-f034-u10" xml:id="f034-u10">大病之後精液枯竭虛火上炎故面顴發紅心經</ab>
-        <ab type="body" facs="#zone-f034-u11" xml:id="f034-u11">缺血故怔胃虛陽熱肺氣不得下降故氣逆肝木</ab>
+        <ab type="body" facs="#zone-f034-u11" xml:id="f034-u11">缺血故怔胃虛腸熱肺氣不得下降故氣逆肝木</ab>
         <ab type="body" facs="#zone-f034-u12" xml:id="f034-u12">衝胃故吐色黃屬脾味鹹屬腎脾腎兩虛金水俱</ab>
         <ab type="body" facs="#zone-f034-u13" xml:id="f034-u13">虧非陰陽並補不足以挽造化第經云病發而不</ab>
         <ab type="body" facs="#zone-f034-u14" xml:id="f034-u14">足標而本之法應先治其標爲之畧清數劑遂以</ab>
         <ab type="body" facs="#zone-f034-u15" xml:id="f034-u15">陳氏五味子湯合景岳小營煎補氣生血加棗仁</ab>
         <ab type="body" facs="#zone-f034-u16" xml:id="f034-u16">茯神遠志丹參龍齒硃砂以定心寧神加杜仲續</ab>
         <ab type="body" facs="#zone-f034-u17" xml:id="f034-u17">斷狗脊以壯筋骨令其起步更佐砂仁香附石斛</ab>
-        <ab type="body" facs="#zone-f034-u18" xml:id="f034-u18">蒼术生薑陳皮法夏安胃止吐調氣開鬱以治餘</ab>
+        <ab type="body" facs="#zone-f034-u18" xml:id="f034-u18">倉术生薑陳皮法夏安胃止吐調氣開鬱以治餘</ab>
         <ab type="paratext" facs="#zone-f034-u19" xml:id="f034-u19">醫案全卷</ab>
         <ab type="paratext" facs="#zone-f034-u20" xml:id="f034-u20">醫案全卷</ab>
         <ab type="paratext" facs="#zone-f034-u21" xml:id="f034-u21">三一</ab>
@@ -1777,7 +1775,7 @@
         <ab type="body" facs="#zone-f035-u03" xml:id="f035-u03">肉漸長起床善步後用此方十倍煉丸服之全愈</ab>
         <ab type="body" facs="#zone-f035-u04" xml:id="f035-u04">一婦上病咳嗽下病大便秘結小便急淋脚氣作痛</ab>
         <ab type="body" facs="#zone-f035-u05" xml:id="f035-u05">經秘半載不行中則脇腹兼疼余診之證雜而脈</ab>
-        <ab type="body" facs="#zone-f035-u06" xml:id="f035-u06">無倫次此<unclear>□</unclear>變為熱三焦合病也以四物湯加沙</ab>
+        <ab type="body" facs="#zone-f035-u06" xml:id="f035-u06">無倫次此溼變為熱三焦合病也以四物湯加沙</ab>
         <ab type="body" facs="#zone-f035-u07" xml:id="f035-u07">參麥冬貝母丹參秦艽黃芩梔子木通牛膝茯苓</ab>
         <ab type="body" facs="#zone-f035-u08" xml:id="f035-u08">陳皮砂仁香附等藥投之一劑而嗽減大小便通</ab>
         <ab type="body" facs="#zone-f035-u09" xml:id="f035-u09">再劑去川貝梔子茯苓而經通諸證如失</ab>
@@ -1822,21 +1820,21 @@
         <pb facs="#surface-f037" n="f037" />
         <ab type="body" facs="#zone-f037-u01" xml:id="f037-u01">一人患手臂麻木作痛醫作風治之用驅風藥累服</ab>
         <ab type="body" facs="#zone-f037-u02" xml:id="f037-u02">無效飲食少進余診之六脈沉細此痰飲為病非</ab>
-        <ab type="body" facs="#zone-f037-u03" xml:id="f037-u03">風也時值夏令暑<unclear>□</unclear>蒸熱脾土受傷故飲食少進</ab>
-        <ab type="body" facs="#zone-f037-u04" xml:id="f037-u04">用清暑益氣湯去黃柏澤瀉柴葛加法夏投之而</ab>
+        <ab type="body" facs="#zone-f037-u03" xml:id="f037-u03">風也時值夏令暑溼蒸熱脾土受傷故飲食少進</ab>
+        <ab type="body" facs="#zone-f037-u04" xml:id="f037-u04">用清暑益氣湯去黃栢澤瀉柴葛加法夏投之而</ab>
         <ab type="body" facs="#zone-f037-u05" xml:id="f037-u05">愈後因乘涼過度引暑入內發熱自利胸膈飽悶</ab>
         <ab type="body" facs="#zone-f037-u06" xml:id="f037-u06">有疑為少陽陽明證及漏底傷寒併結胸證者余</ab>
         <ab type="body" facs="#zone-f037-u07" xml:id="f037-u07">曰皆非也脈虛身熱得之傷暑自利乃挾熱也用</ab>
-        <ab type="body" facs="#zone-f037-u08" xml:id="f037-u08">香薷丸投之諸證如失再以清暑益氣湯去黃柏</ab>
+        <ab type="body" facs="#zone-f037-u08" xml:id="f037-u08">香薷丸投之諸證如失再以清暑益氣湯去黃栢</ab>
         <ab type="body" facs="#zone-f037-u09" xml:id="f037-u09">柴葛澤瀉加棗仁茯神遠志酒芍藿梗連服三劑</ab>
         <ab type="paratext" facs="#zone-f037-u10" xml:id="f037-u10">醫案全卷</ab>
         <ab type="body" facs="#zone-f037-u11" xml:id="f037-u11">飲食亦進</ab>
         <ab type="body" facs="#zone-f037-u12" xml:id="f037-u12">一人傷暑醫作傷寒治之用羌活防風等藥以發其</ab>
         <ab type="body" facs="#zone-f037-u13" xml:id="f037-u13">汗手足厥逆汗流不止又疑為夾陰傷寒欲用桂</ab>
-        <ab type="body" facs="#zone-f037-u14" xml:id="f037-u14">附以回陽請余決之六脈俱細此傷暑兼<unclear>□</unclear>證也</ab>
-        <ab type="body" facs="#zone-f037-u15" xml:id="f037-u15">因發汗而衛氣失守以清暑益氣湯去黃柏澤瀉</ab>
+        <ab type="body" facs="#zone-f037-u14" xml:id="f037-u14">附以囘陽請余決之六脈俱細此傷暑兼溼證也</ab>
+        <ab type="body" facs="#zone-f037-u15" xml:id="f037-u15">因發汗而衛氣失守以清暑益氣湯去黃栢澤瀉</ab>
         <ab type="body" facs="#zone-f037-u16" xml:id="f037-u16">柴葛加生熟地芍藥棗仁茯神丹參遠志陳皮砂</ab>
-        <ab type="body" facs="#zone-f037-u17" xml:id="f037-u17">仁浮小麥投之一劑而汗止厥回三劑全愈</ab>
+        <ab type="body" facs="#zone-f037-u17" xml:id="f037-u17">仁浮小麥投之一劑而汗止厥囘三劑全愈</ab>
         <ab type="body" facs="#zone-f037-u18" xml:id="f037-u18">一人患耳中作痛無寒熱紅腫等證外科作風火證</ab>
         <ab type="body" facs="#zone-f037-u19" xml:id="f037-u19">治內服清解等藥外用升散藥燒酒調敷耳中出</ab>
         <ab type="paratext" facs="#zone-f037-u20" xml:id="f037-u20">醫案全卷</ab>
@@ -1876,9 +1874,9 @@
       </div>
       <div type="image" n="f039">
         <pb facs="#surface-f039" n="f039" />
-        <ab type="body" facs="#zone-f039-u01" xml:id="f039-u01">以此法催生無不立效</ab>
+        <ab type="body" facs="#zone-f039-u01" xml:id="f039-u01">以此法催生無不立効</ab>
         <ab type="body" facs="#zone-f039-u02" xml:id="f039-u02">一人傷寒口苦舌乾而渴齒齦出血日晡潮熱大便</ab>
-        <ab type="body" facs="#zone-f039-u03" xml:id="f039-u03">不通衆醫無效求方於余於法當下之余未診其</ab>
+        <ab type="body" facs="#zone-f039-u03" xml:id="f039-u03">不通衆醫無効求方於余於法當下之余未診其</ab>
         <ab type="body" facs="#zone-f039-u04" xml:id="f039-u04">脈只參酌仲景大柴胡之意用柴葛秦艽青蒿地</ab>
         <ab type="body" facs="#zone-f039-u05" xml:id="f039-u05">骨皮酒芩知母生地歸芍瓜蔞仁木通枳殻甘草</ab>
         <ab type="body" facs="#zone-f039-u06" xml:id="f039-u06">等藥解表清裏一劑而熱退大便通諸證如失</ab>
@@ -1902,17 +1900,17 @@
         <pb facs="#surface-f040" n="f040" />
         <ab type="body" facs="#zone-f040-u01" xml:id="f040-u01">皮瓜蔞仁木通枳殻茯苓歸身甘草等藥一劑而</ab>
         <ab type="body" facs="#zone-f040-u02" xml:id="f040-u02">大小便通利寒熱亦去而愈後遇此證俱以此法</ab>
-        <ab type="body" facs="#zone-f040-u03" xml:id="f040-u03">施之無不立效</ab>
+        <ab type="body" facs="#zone-f040-u03" xml:id="f040-u03">施之無不立効</ab>
         <ab type="body" facs="#zone-f040-u04" xml:id="f040-u04">一人病瘧愈而復發求方於余余曰此正氣虛而餘</ab>
         <ab type="body" facs="#zone-f040-u05" xml:id="f040-u05">邪未盡也為處補正去邪方用玉竹炒术甘草茯</ab>
         <ab type="body" facs="#zone-f040-u06" xml:id="f040-u06">苓首烏鱉甲歸身柴胡葛根黃芩知母草果青蒿</ab>
-        <ab type="body" facs="#zone-f040-u07" xml:id="f040-u07">地骨皮穿山甲甘草等藥令其未發前一時服之</ab>
-        <ab type="body" facs="#zone-f040-u08" xml:id="f040-u08">一劑而愈後凡遇此證者俱以此法施之皆效更</ab>
+        <ab type="body" facs="#zone-f040-u07" xml:id="f040-u07">地骨皮穿山甲甘草等藥令其未發前二時服之</ab>
+        <ab type="body" facs="#zone-f040-u08" xml:id="f040-u08">一劑而愈後凡遇此證者俱以此法施之皆効更</ab>
         <ab type="body" facs="#zone-f040-u09" xml:id="f040-u09">病瘧者或因食牛肉與雞多致纏綿不已余每逢</ab>
         <ab type="paratext" facs="#zone-f040-u10" xml:id="f040-u10">醫案全卷</ab>
         <ab type="body" facs="#zone-f040-u11" xml:id="f040-u11">病瘧者便戒以禁口兼勿食此二味皆不至愈而</ab>
         <ab type="body" facs="#zone-f040-u12" xml:id="f040-u12">復發</ab>
-        <ab type="body" facs="#zone-f040-u13" xml:id="f040-u13">一人患<unclear>□</unclear>瘧午後發潮熱夜半方退大便八日不下</ab>
+        <ab type="body" facs="#zone-f040-u13" xml:id="f040-u13">一人患痺瘧午後發潮熱夜半方退大便八日不下</ab>
         <ab type="body" facs="#zone-f040-u14" xml:id="f040-u14">醫用大柴胡湯下之不應復易方大黃以生者攻</ab>
         <ab type="body" facs="#zone-f040-u15" xml:id="f040-u15">之仍如故請余診之脈洪大而燥無痞滿堅實諸</ab>
         <ab type="body" facs="#zone-f040-u16" xml:id="f040-u16">證宜潤不宜下用羅謙甫秦艽鱉甲散去烏梅加</ab>
@@ -1956,7 +1954,7 @@
         <ab type="body" facs="#zone-f042-u06" xml:id="f042-u06">稜丸等方投之愈服愈不通而且病甚求方於余</ab>
         <ab type="body" facs="#zone-f042-u07" xml:id="f042-u07">余用四物湯加丹參益母陳皮香附投之一劑而</ab>
         <ab type="body" facs="#zone-f042-u08" xml:id="f042-u08">通蓋婦人經閉非緣血虧即由氣滯惟足其血兼</ab>
-        <ab type="body" facs="#zone-f042-u09" xml:id="f042-u09">調其氣佐以生新去瘀之品自然自通若用峻攻</ab>
+        <ab type="body" facs="#zone-f042-u09" xml:id="f042-u09">調其氣佐以生新去瘀之品自然而通若用峻攻</ab>
         <ab type="paratext" facs="#zone-f042-u10" xml:id="f042-u10">醫案全卷</ab>
       </div>
       <div type="image" n="f043">

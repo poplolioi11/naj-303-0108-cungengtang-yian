@@ -12,9 +12,9 @@ Covers all 43 images in the holding institution’s sequence. Frame 13 has an en
 
 [館藏書目 / Catalogue](https://www.digital.archives.go.jp/file/1077787) · [IIIF manifest](https://www.digital.archives.go.jp/api/iiif/1077787/manifest.json) · [館方再利用政策 / Reuse](https://www.digital.archives.go.jp/secondary-use)
 
-本版 **0.1.0 初錄版**。43 幅，826 個定位單元，標題、正文與夾註共 12493 個 Unicode 碼點（含疑字標記）。目前 14 處以方框標出。依原圖逐幅辨讀與分欄；完整人類二校尚未進行。
+本版 **0.2.0 原圖覆核版**。43 幅，825 個定位單元，標題、正文與夾註共 12492 個 Unicode 碼點（含疑字標記）。目前 3 處以方框標出。以另一套獨立本機 OCR 逐欄比對，對差異、副文本、疑字及單方區塊回看原圖，保留未解。完整人類二校尚未進行。
 
-**Version 0.1.0 · Initial transcription.** AI-assisted visual transcription of every source image. Full human proofreading is pending.
+**Version 0.2.0 · Image-checked revision.** Compared each source image with a separate local OCR pass. Reading disagreements, marginal text and ambiguous signs were checked against the images. Full human proofreading is pending.
 
 ## 使用檔案 / Files
 
@@ -36,4 +36,4 @@ Covers all 43 images in the holding institution’s sequence. Frame 13 has an en
 
 The historical work is in the public domain. The National Archives of Japan permits reuse of its scans under the linked statement. Newly written documentation and original data encoding are provided under CC BY 4.0.
 
-精確固定版本 DOI 及下載請見 [GitHub Releases](https://github.com/poplolioi11/naj-303-0108-cungengtang-yian/releases)。 建議依 [CITATION.cff](CITATION.cff) 引用所用版本。
+修改前文字由 [初錄 v0.1.0](https://github.com/poplolioi11/naj-303-0108-cungengtang-yian/releases/tag/v0.1.0) 保存。 建議依 [CITATION.cff](CITATION.cff) 引用所用版本。
