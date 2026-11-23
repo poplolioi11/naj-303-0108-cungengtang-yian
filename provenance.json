@@ -1,0 +1,32 @@
+{
+  "title": "寸耕堂醫案",
+  "author_historical": "林玉友",
+  "holding_institution": "National Archives of Japan",
+  "shelfmark": "303-0108",
+  "catalogue_title": "寸耕堂医案",
+  "edition": "Preface edition dated Qianlong 58 (1793), date of impression unknown",
+  "catalogue": "https://www.digital.archives.go.jp/file/1077787",
+  "manifest": "https://www.digital.archives.go.jp/api/iiif/1077787/manifest.json",
+  "manifest_sha256": "4057424e23e8937126989a4f6f6ab6a126eb9f81bb82d03df3bae5c403a6b45e",
+  "reuse_terms": "https://www.digital.archives.go.jp/secondary-use",
+  "checked_on": "2026-11-23",
+  "publication_date_historical": "1793",
+  "languages": [
+    "lzh",
+    "en"
+  ],
+  "historical_text_rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "documentation_license": "https://creativecommons.org/licenses/by/4.0/",
+  "scope": "Covers all 43 images in the holding institution’s sequence. Frame 13 has an ending mark in the margin. Frame 14 has no text on the right and resumes mid-passage on the left. The final printed passage breaks off on the right of frame 42. Its left half has no main text; frame 43 is the back cover. No other edition contributes text.",
+  "scan_bytes_in_public_package": false,
+  "script": "Literary Chinese, vertically printed",
+  "source_images_observed": 43,
+  "source_dimensions": [
+    3000,
+    1795
+  ],
+  "reading_method": "AI visual reading from fixed source images",
+  "independent_comparison": "not yet incorporated",
+  "model_usage_counts": "not reported",
+  "human_proofreading": "external/full not performed"
+}

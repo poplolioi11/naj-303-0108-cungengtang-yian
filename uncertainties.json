@@ -1,0 +1,202 @@
+{
+  "version": "0.1.0",
+  "resolved_positions_offset": "Unicode code point zero-based",
+  "records": [
+    {
+      "page_id": "f002",
+      "id": "f002-u15",
+      "offset_codepoint_0": 0,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174500",
+      "bbox": [
+        1210,
+        243,
+        1475,
+        667
+      ],
+      "note": "印文尚待核。"
+    },
+    {
+      "page_id": "f002",
+      "id": "f002-u16",
+      "offset_codepoint_0": 0,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174500",
+      "bbox": [
+        812,
+        572,
+        1196,
+        959
+      ],
+      "note": "印文與序文疊。"
+    },
+    {
+      "page_id": "f002",
+      "id": "f002-u17",
+      "offset_codepoint_0": 0,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174500",
+      "bbox": [
+        1303,
+        1248,
+        1493,
+        1533
+      ],
+      "note": "印文與序文、墨痕疊。"
+    },
+    {
+      "page_id": "f004",
+      "id": "f004-u08",
+      "offset_codepoint_0": 14,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174700",
+      "bbox": [
+        1626,
+        442,
+        1704,
+        1535
+      ],
+      "note": "「而」下重墨，形近「澁」。"
+    },
+    {
+      "page_id": "f004",
+      "id": "f004-u11",
+      "offset_codepoint_0": 0,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174700",
+      "bbox": [
+        2160,
+        805,
+        2199,
+        865
+      ],
+      "note": "黑墨細痕，未定是否附註。"
+    },
+    {
+      "page_id": "f006",
+      "id": "f006-u09",
+      "offset_codepoint_0": 4,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174900",
+      "bbox": [
+        1521,
+        449,
+        1599,
+        1537
+      ],
+      "note": "「喘」前重墨遮筆。"
+    },
+    {
+      "page_id": "f009",
+      "id": "f009-u13",
+      "offset_codepoint_0": 3,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175200",
+      "bbox": [
+        1211,
+        465,
+        1289,
+        783
+      ],
+      "note": "「三」下有墨污，疑劑。"
+    },
+    {
+      "page_id": "f009",
+      "id": "f009-u17",
+      "offset_codepoint_0": 7,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175200",
+      "bbox": [
+        829,
+        458,
+        907,
+        1542
+      ],
+      "note": "「之」、「而」下均近「四」的框，保留疑字。"
+    },
+    {
+      "page_id": "f009",
+      "id": "f009-u17",
+      "offset_codepoint_0": 12,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175200",
+      "bbox": [
+        829,
+        458,
+        907,
+        1542
+      ],
+      "note": "「之」、「而」下均近「四」的框，保留疑字。"
+    },
+    {
+      "page_id": "f020",
+      "id": "f020-u08",
+      "offset_codepoint_0": 0,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176300",
+      "bbox": [
+        1600,
+        448,
+        1684,
+        1540
+      ],
+      "note": "欄首字上部有交疊墨痕，下部形近木或米；兼為候選，未定。"
+    },
+    {
+      "page_id": "f035",
+      "id": "f035-u06",
+      "offset_codepoint_0": 4,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177800",
+      "bbox": [
+        1807,
+        445,
+        1878,
+        1549
+      ],
+      "note": "疑字為氵旁，右部近淫或溼，暫留框。"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u03",
+      "offset_codepoint_0": 7,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000",
+      "bbox": [
+        2082,
+        445,
+        2153,
+        1549
+      ],
+      "note": "暑下一字為氵旁，近溼或淫。"
+    },
+    {
+      "page_id": "f037",
+      "id": "f037-u14",
+      "offset_codepoint_0": 16,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000",
+      "bbox": [
+        1112,
+        445,
+        1183,
+        1549
+      ],
+      "note": "兼下一字為氵旁，近溼或淫。"
+    },
+    {
+      "page_id": "f040",
+      "id": "f040-u13",
+      "offset_codepoint_0": 3,
+      "status": "unresolved-image-reading",
+      "source_canvas": "https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178300",
+      "bbox": [
+        1197,
+        413,
+        1268,
+        1549
+      ],
+      "note": "患下為疒旁，疑瘴，以框存疑。"
+    }
+  ]
+}

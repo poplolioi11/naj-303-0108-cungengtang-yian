@@ -1,0 +1,1968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>寸耕堂醫案（1793 年序刊，日本國立公文書館 303-0108） / Cungengtang yi’an [Medical Cases of Cungengtang]: Transcription Dataset</title>
+        <author>林玉友</author>
+        <respStmt>
+          <resp>Transcription dataset publication and editorial responsibility</resp>
+          <name>Chu, Chen-Yu</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1.0">Initial transcription</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Chu, Chen-Yu</publisher>
+        <date when="2026-11-23">2026-11-23</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">Historical source text in the public domain</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Original editorial documentation and data encoding</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>寸耕堂醫案</title>
+          <author>林玉友</author>
+          <date when="1793">乾隆五十八年序刊</date>
+          <idno type="shelfmark">303-0108</idno>
+          <ref target="https://www.digital.archives.go.jp/file/1077787">National Archives of Japan</ref>
+          <ref target="https://www.digital.archives.go.jp/api/iiif/1077787/manifest.json">IIIF manifest</ref>
+          <note>Covers all 43 images in the holding institution’s sequence. Frame 13 has an ending mark in the margin. Frame 14 has no text on the right and resumes mid-passage on the left. The final printed passage breaks off on the right of frame 42. Its left half has no main text; frame 43 is the back cover. No other edition contributes text.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Image-bound diplomatic transcription. Undecided single signs are represented by □ in TXT and by unclear in TEI. The enclosing zone is approximate at column or region level.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lzh">Literary Chinese</language>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-11-23" n="0.1.0">Initial transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="f001" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174400" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f001">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914174400/iiif/F1000000000000100190_0001.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="paratext" ulx="557" uly="1259" lrx="953" lry="1333" xml:id="zone-f001-u01" />
+      <zone type="paratext" ulx="558" uly="1333" lrx="953" lry="1403" xml:id="zone-f001-u02" />
+      <zone type="paratext" ulx="558" uly="1401" lrx="956" lry="1473" xml:id="zone-f001-u03" />
+      <zone type="paratext" ulx="560" uly="1477" lrx="957" lry="1549" xml:id="zone-f001-u04" />
+    </surface>
+    <surface n="f002" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174500" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f002">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914174500/iiif/F1000000000000100190_0002.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="title" ulx="1753" uly="703" lrx="2156" lry="1414" xml:id="zone-f002-u01" />
+      <zone type="title" ulx="1401" uly="398" lrx="1472" lry="461" xml:id="zone-f002-u02" />
+      <zone type="body" ulx="1306" uly="399" lrx="1387" lry="1537" xml:id="zone-f002-u03" />
+      <zone type="body" ulx="1213" uly="398" lrx="1295" lry="1538" xml:id="zone-f002-u04" />
+      <zone type="body" ulx="1118" uly="399" lrx="1197" lry="1538" xml:id="zone-f002-u05" />
+      <zone type="body" ulx="1023" uly="389" lrx="1102" lry="1540" xml:id="zone-f002-u06" />
+      <zone type="body" ulx="928" uly="398" lrx="1009" lry="1540" xml:id="zone-f002-u07" />
+      <zone type="body" ulx="832" uly="398" lrx="910" lry="1537" xml:id="zone-f002-u08" />
+      <zone type="body" ulx="734" uly="398" lrx="816" lry="1537" xml:id="zone-f002-u09" />
+      <zone type="body" ulx="640" uly="398" lrx="717" lry="1542" xml:id="zone-f002-u10" />
+      <zone type="paratext" ulx="557" uly="544" lrx="624" lry="801" xml:id="zone-f002-u11" />
+      <zone type="paratext" ulx="573" uly="1073" lrx="627" lry="1202" xml:id="zone-f002-u12" />
+      <zone type="paratext" ulx="573" uly="1316" lrx="633" lry="1366" xml:id="zone-f002-u13" />
+      <zone type="seal" ulx="908" uly="120" lrx="1218" lry="408" xml:id="zone-f002-u14" />
+      <zone type="seal" ulx="1210" uly="243" lrx="1475" lry="667" xml:id="zone-f002-u15" />
+      <zone type="seal" ulx="812" uly="572" lrx="1196" lry="959" xml:id="zone-f002-u16" />
+      <zone type="seal" ulx="1303" uly="1248" lrx="1493" lry="1533" xml:id="zone-f002-u17" />
+    </surface>
+    <surface n="f003" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174600" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f003">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914174600/iiif/F1000000000000100190_0003.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2302" uly="405" lrx="2385" lry="1540" xml:id="zone-f003-u01" />
+      <zone type="body" ulx="2212" uly="406" lrx="2288" lry="1535" xml:id="zone-f003-u02" />
+      <zone type="body" ulx="2121" uly="406" lrx="2196" lry="1535" xml:id="zone-f003-u03" />
+      <zone type="body" ulx="2023" uly="405" lrx="2101" lry="1537" xml:id="zone-f003-u04" />
+      <zone type="body" ulx="1928" uly="403" lrx="2004" lry="1535" xml:id="zone-f003-u05" />
+      <zone type="body" ulx="1829" uly="403" lrx="1903" lry="1537" xml:id="zone-f003-u06" />
+      <zone type="paratext" ulx="2392" uly="549" lrx="2433" lry="811" xml:id="zone-f003-u07" />
+      <zone type="title" ulx="1380" uly="395" lrx="1461" lry="779" xml:id="zone-f003-u08" />
+      <zone type="paratext" ulx="1285" uly="952" lrx="1367" lry="1383" xml:id="zone-f003-u09" />
+      <zone type="body" ulx="1192" uly="387" lrx="1268" lry="1531" xml:id="zone-f003-u10" />
+      <zone type="body" ulx="1101" uly="435" lrx="1179" lry="1531" xml:id="zone-f003-u11" />
+      <zone type="body" ulx="1002" uly="438" lrx="1080" lry="1473" xml:id="zone-f003-u12" />
+      <zone type="body" ulx="908" uly="389" lrx="987" lry="1531" xml:id="zone-f003-u13" />
+      <zone type="body" ulx="813" uly="438" lrx="893" lry="1528" xml:id="zone-f003-u14" />
+      <zone type="body" ulx="717" uly="435" lrx="793" lry="1196" xml:id="zone-f003-u15" />
+      <zone type="body" ulx="622" uly="389" lrx="700" lry="1534" xml:id="zone-f003-u16" />
+      <zone type="paratext" ulx="553" uly="546" lrx="607" lry="801" xml:id="zone-f003-u17" />
+      <zone type="paratext" ulx="553" uly="1311" lrx="606" lry="1366" xml:id="zone-f003-u18" />
+    </surface>
+    <surface n="f004" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174700" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f004">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914174700/iiif/F1000000000000100190_0004.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2294" uly="444" lrx="2367" lry="1535" xml:id="zone-f004-u01" />
+      <zone type="body" ulx="2198" uly="440" lrx="2272" lry="1535" xml:id="zone-f004-u02" />
+      <zone type="body" ulx="2097" uly="440" lrx="2174" lry="708" xml:id="zone-f004-u03" />
+      <zone type="body" ulx="2005" uly="398" lrx="2085" lry="1537" xml:id="zone-f004-u04" />
+      <zone type="body" ulx="1914" uly="441" lrx="1991" lry="1535" xml:id="zone-f004-u05" />
+      <zone type="body" ulx="1814" uly="442" lrx="1893" lry="1362" xml:id="zone-f004-u06" />
+      <zone type="body" ulx="1719" uly="399" lrx="1801" lry="1535" xml:id="zone-f004-u07" />
+      <zone type="body" ulx="1626" uly="442" lrx="1704" lry="1535" xml:id="zone-f004-u08" />
+      <zone type="body" ulx="1531" uly="441" lrx="1610" lry="941" xml:id="zone-f004-u09" />
+      <zone type="paratext" ulx="2385" uly="550" lrx="2435" lry="808" xml:id="zone-f004-u10" />
+      <zone type="note" ulx="2160" uly="805" lrx="2199" lry="865" xml:id="zone-f004-u11" />
+      <zone type="body" ulx="1383" uly="398" lrx="1462" lry="1535" xml:id="zone-f004-u12" />
+      <zone type="body" ulx="1288" uly="441" lrx="1365" lry="1535" xml:id="zone-f004-u13" />
+      <zone type="body" ulx="1192" uly="441" lrx="1271" lry="1535" xml:id="zone-f004-u14" />
+      <zone type="body" ulx="1095" uly="441" lrx="1175" lry="805" xml:id="zone-f004-u15" />
+      <zone type="body" ulx="1002" uly="398" lrx="1080" lry="1537" xml:id="zone-f004-u16" />
+      <zone type="body" ulx="908" uly="442" lrx="984" lry="1537" xml:id="zone-f004-u17" />
+      <zone type="body" ulx="811" uly="442" lrx="892" lry="1487" xml:id="zone-f004-u18" />
+      <zone type="body" ulx="719" uly="398" lrx="793" lry="1535" xml:id="zone-f004-u19" />
+      <zone type="body" ulx="620" uly="441" lrx="696" lry="1535" xml:id="zone-f004-u20" />
+      <zone type="paratext" ulx="554" uly="543" lrx="608" lry="797" xml:id="zone-f004-u21" />
+      <zone type="paratext" ulx="576" uly="1311" lrx="615" lry="1372" xml:id="zone-f004-u22" />
+    </surface>
+    <surface n="f005" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174800" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f005">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914174800/iiif/F1000000000000100190_0005.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2293" uly="452" lrx="2365" lry="1087" xml:id="zone-f005-u01" />
+      <zone type="body" ulx="2199" uly="398" lrx="2277" lry="1540" xml:id="zone-f005-u02" />
+      <zone type="body" ulx="2104" uly="440" lrx="2178" lry="1540" xml:id="zone-f005-u03" />
+      <zone type="body" ulx="2008" uly="441" lrx="2085" lry="1540" xml:id="zone-f005-u04" />
+      <zone type="body" ulx="1910" uly="441" lrx="1990" lry="1397" xml:id="zone-f005-u05" />
+      <zone type="body" ulx="1817" uly="399" lrx="1893" lry="1537" xml:id="zone-f005-u06" />
+      <zone type="body" ulx="1722" uly="441" lrx="1800" lry="1535" xml:id="zone-f005-u07" />
+      <zone type="body" ulx="1624" uly="441" lrx="1702" lry="1535" xml:id="zone-f005-u08" />
+      <zone type="body" ulx="1528" uly="440" lrx="1607" lry="1533" xml:id="zone-f005-u09" />
+      <zone type="paratext" ulx="2390" uly="549" lrx="2438" lry="808" xml:id="zone-f005-u10" />
+      <zone type="body" ulx="1381" uly="456" lrx="1460" lry="1548" xml:id="zone-f005-u11" />
+      <zone type="body" ulx="1284" uly="459" lrx="1363" lry="685" xml:id="zone-f005-u12" />
+      <zone type="body" ulx="1189" uly="412" lrx="1268" lry="1547" xml:id="zone-f005-u13" />
+      <zone type="body" ulx="1094" uly="447" lrx="1173" lry="1542" xml:id="zone-f005-u14" />
+      <zone type="body" ulx="999" uly="451" lrx="1077" lry="1542" xml:id="zone-f005-u15" />
+      <zone type="body" ulx="904" uly="458" lrx="981" lry="1542" xml:id="zone-f005-u16" />
+      <zone type="body" ulx="811" uly="456" lrx="886" lry="1110" xml:id="zone-f005-u17" />
+      <zone type="body" ulx="714" uly="410" lrx="790" lry="1544" xml:id="zone-f005-u18" />
+      <zone type="body" ulx="621" uly="454" lrx="698" lry="1542" xml:id="zone-f005-u19" />
+      <zone type="paratext" ulx="551" uly="553" lrx="610" lry="807" xml:id="zone-f005-u20" />
+      <zone type="paratext" ulx="569" uly="1311" lrx="614" lry="1373" xml:id="zone-f005-u21" />
+    </surface>
+    <surface n="f006" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914174900" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f006">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914174900/iiif/F1000000000000100190_0006.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2284" uly="459" lrx="2364" lry="1542" xml:id="zone-f006-u01" />
+      <zone type="body" ulx="2189" uly="456" lrx="2267" lry="1542" xml:id="zone-f006-u02" />
+      <zone type="body" ulx="2094" uly="454" lrx="2173" lry="1541" xml:id="zone-f006-u03" />
+      <zone type="body" ulx="2001" uly="452" lrx="2079" lry="1540" xml:id="zone-f006-u04" />
+      <zone type="body" ulx="1905" uly="451" lrx="1983" lry="1538" xml:id="zone-f006-u05" />
+      <zone type="body" ulx="1807" uly="451" lrx="1885" lry="1537" xml:id="zone-f006-u06" />
+      <zone type="body" ulx="1711" uly="406" lrx="1789" lry="1537" xml:id="zone-f006-u07" />
+      <zone type="body" ulx="1616" uly="451" lrx="1694" lry="1537" xml:id="zone-f006-u08" />
+      <zone type="body" ulx="1521" uly="449" lrx="1599" lry="1537" xml:id="zone-f006-u09" />
+      <zone type="paratext" ulx="2380" uly="563" lrx="2439" lry="815" xml:id="zone-f006-u10" />
+      <zone type="body" ulx="1394" uly="445" lrx="1472" lry="1531" xml:id="zone-f006-u11" />
+      <zone type="body" ulx="1296" uly="447" lrx="1374" lry="1530" xml:id="zone-f006-u12" />
+      <zone type="body" ulx="1203" uly="445" lrx="1281" lry="1530" xml:id="zone-f006-u13" />
+      <zone type="body" ulx="1107" uly="447" lrx="1185" lry="1533" xml:id="zone-f006-u14" />
+      <zone type="body" ulx="1012" uly="447" lrx="1090" lry="1531" xml:id="zone-f006-u15" />
+      <zone type="body" ulx="914" uly="447" lrx="992" lry="743" xml:id="zone-f006-u16" />
+      <zone type="body" ulx="816" uly="406" lrx="894" lry="1528" xml:id="zone-f006-u17" />
+      <zone type="body" ulx="720" uly="445" lrx="798" lry="1528" xml:id="zone-f006-u18" />
+      <zone type="body" ulx="627" uly="447" lrx="705" lry="1530" xml:id="zone-f006-u19" />
+      <zone type="paratext" ulx="554" uly="554" lrx="613" lry="808" xml:id="zone-f006-u20" />
+      <zone type="paratext" ulx="583" uly="1312" lrx="625" lry="1365" xml:id="zone-f006-u21" />
+    </surface>
+    <surface n="f007" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175000" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f007">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175000/iiif/F1000000000000100190_0007.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2293" uly="458" lrx="2367" lry="536" xml:id="zone-f007-u01" />
+      <zone type="body" ulx="2196" uly="409" lrx="2274" lry="1538" xml:id="zone-f007-u02" />
+      <zone type="body" ulx="2099" uly="454" lrx="2178" lry="1538" xml:id="zone-f007-u03" />
+      <zone type="body" ulx="2004" uly="451" lrx="2082" lry="1537" xml:id="zone-f007-u04" />
+      <zone type="body" ulx="1909" uly="452" lrx="1987" lry="1537" xml:id="zone-f007-u05" />
+      <zone type="body" ulx="1813" uly="452" lrx="1891" lry="1537" xml:id="zone-f007-u06" />
+      <zone type="body" ulx="1716" uly="449" lrx="1794" lry="1534" xml:id="zone-f007-u07" />
+      <zone type="body" ulx="1621" uly="451" lrx="1700" lry="748" xml:id="zone-f007-u08" />
+      <zone type="body" ulx="1525" uly="403" lrx="1602" lry="1531" xml:id="zone-f007-u09" />
+      <zone type="paratext" ulx="2379" uly="565" lrx="2439" lry="821" xml:id="zone-f007-u10" />
+      <zone type="body" ulx="1393" uly="455" lrx="1472" lry="1541" xml:id="zone-f007-u11" />
+      <zone type="body" ulx="1298" uly="452" lrx="1376" lry="1540" xml:id="zone-f007-u12" />
+      <zone type="body" ulx="1203" uly="452" lrx="1281" lry="1540" xml:id="zone-f007-u13" />
+      <zone type="body" ulx="1107" uly="455" lrx="1185" lry="752" xml:id="zone-f007-u14" />
+      <zone type="body" ulx="1012" uly="410" lrx="1090" lry="1535" xml:id="zone-f007-u15" />
+      <zone type="body" ulx="915" uly="448" lrx="993" lry="1535" xml:id="zone-f007-u16" />
+      <zone type="body" ulx="819" uly="447" lrx="897" lry="1537" xml:id="zone-f007-u17" />
+      <zone type="body" ulx="723" uly="447" lrx="801" lry="1537" xml:id="zone-f007-u18" />
+      <zone type="body" ulx="628" uly="447" lrx="706" lry="1537" xml:id="zone-f007-u19" />
+      <zone type="paratext" ulx="553" uly="547" lrx="615" lry="804" xml:id="zone-f007-u20" />
+      <zone type="paratext" ulx="565" uly="1304" lrx="614" lry="1365" xml:id="zone-f007-u21" />
+    </surface>
+    <surface n="f008" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175100" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f008">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175100/iiif/F1000000000000100190_0008.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2288" uly="454" lrx="2367" lry="1534" xml:id="zone-f008-u01" />
+      <zone type="body" ulx="2192" uly="452" lrx="2270" lry="1533" xml:id="zone-f008-u02" />
+      <zone type="body" ulx="2097" uly="448" lrx="2175" lry="1528" xml:id="zone-f008-u03" />
+      <zone type="body" ulx="2001" uly="447" lrx="2079" lry="1530" xml:id="zone-f008-u04" />
+      <zone type="body" ulx="1906" uly="444" lrx="1984" lry="1526" xml:id="zone-f008-u05" />
+      <zone type="body" ulx="1810" uly="444" lrx="1888" lry="1526" xml:id="zone-f008-u06" />
+      <zone type="body" ulx="1713" uly="440" lrx="1792" lry="1524" xml:id="zone-f008-u07" />
+      <zone type="body" ulx="1619" uly="437" lrx="1697" lry="688" xml:id="zone-f008-u08" />
+      <zone type="body" ulx="1524" uly="389" lrx="1602" lry="1520" xml:id="zone-f008-u09" />
+      <zone type="paratext" ulx="2382" uly="568" lrx="2439" lry="808" xml:id="zone-f008-u10" />
+      <zone type="body" ulx="1393" uly="459" lrx="1472" lry="1542" xml:id="zone-f008-u11" />
+      <zone type="body" ulx="1296" uly="461" lrx="1374" lry="1541" xml:id="zone-f008-u12" />
+      <zone type="body" ulx="1201" uly="458" lrx="1280" lry="1540" xml:id="zone-f008-u13" />
+      <zone type="body" ulx="1107" uly="459" lrx="1185" lry="1097" xml:id="zone-f008-u14" />
+      <zone type="body" ulx="1010" uly="413" lrx="1088" lry="1535" xml:id="zone-f008-u15" />
+      <zone type="body" ulx="915" uly="456" lrx="993" lry="1535" xml:id="zone-f008-u16" />
+      <zone type="body" ulx="818" uly="456" lrx="896" lry="1535" xml:id="zone-f008-u17" />
+      <zone type="body" ulx="723" uly="454" lrx="801" lry="1429" xml:id="zone-f008-u18" />
+      <zone type="body" ulx="627" uly="409" lrx="705" lry="1534" xml:id="zone-f008-u19" />
+      <zone type="paratext" ulx="553" uly="556" lrx="618" lry="805" xml:id="zone-f008-u20" />
+      <zone type="paratext" ulx="578" uly="1316" lrx="622" lry="1372" xml:id="zone-f008-u21" />
+    </surface>
+    <surface n="f009" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175200" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f009">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175200/iiif/F1000000000000100190_0009.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2286" uly="454" lrx="2365" lry="1541" xml:id="zone-f009-u01" />
+      <zone type="body" ulx="2189" uly="452" lrx="2267" lry="1538" xml:id="zone-f009-u02" />
+      <zone type="body" ulx="2092" uly="451" lrx="2170" lry="1535" xml:id="zone-f009-u03" />
+      <zone type="body" ulx="1997" uly="451" lrx="2075" lry="1534" xml:id="zone-f009-u04" />
+      <zone type="body" ulx="1903" uly="449" lrx="1981" lry="1533" xml:id="zone-f009-u05" />
+      <zone type="body" ulx="1806" uly="449" lrx="1885" lry="1428" xml:id="zone-f009-u06" />
+      <zone type="body" ulx="1711" uly="403" lrx="1789" lry="1527" xml:id="zone-f009-u07" />
+      <zone type="body" ulx="1614" uly="447" lrx="1693" lry="1527" xml:id="zone-f009-u08" />
+      <zone type="body" ulx="1518" uly="445" lrx="1596" lry="1521" xml:id="zone-f009-u09" />
+      <zone type="paratext" ulx="2380" uly="564" lrx="2439" lry="815" xml:id="zone-f009-u10" />
+      <zone type="body" ulx="1402" uly="477" lrx="1480" lry="1555" xml:id="zone-f009-u11" />
+      <zone type="body" ulx="1306" uly="469" lrx="1384" lry="1549" xml:id="zone-f009-u12" />
+      <zone type="body" ulx="1211" uly="465" lrx="1289" lry="783" xml:id="zone-f009-u13" />
+      <zone type="body" ulx="1115" uly="429" lrx="1193" lry="1547" xml:id="zone-f009-u14" />
+      <zone type="body" ulx="1019" uly="465" lrx="1097" lry="1547" xml:id="zone-f009-u15" />
+      <zone type="body" ulx="925" uly="461" lrx="1003" lry="1542" xml:id="zone-f009-u16" />
+      <zone type="body" ulx="829" uly="458" lrx="907" lry="1542" xml:id="zone-f009-u17" />
+      <zone type="body" ulx="733" uly="454" lrx="811" lry="1541" xml:id="zone-f009-u18" />
+      <zone type="body" ulx="636" uly="451" lrx="714" lry="1541" xml:id="zone-f009-u19" />
+      <zone type="paratext" ulx="554" uly="547" lrx="625" lry="814" xml:id="zone-f009-u20" />
+      <zone type="paratext" ulx="573" uly="1312" lrx="625" lry="1366" xml:id="zone-f009-u21" />
+    </surface>
+    <surface n="f010" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175300" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f010">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175300/iiif/F1000000000000100190_0010.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2304" uly="452" lrx="2379" lry="1245" xml:id="zone-f010-u01" />
+      <zone type="body" ulx="2206" uly="401" lrx="2284" lry="1533" xml:id="zone-f010-u02" />
+      <zone type="body" ulx="2108" uly="448" lrx="2187" lry="1531" xml:id="zone-f010-u03" />
+      <zone type="body" ulx="2011" uly="447" lrx="2090" lry="1528" xml:id="zone-f010-u04" />
+      <zone type="body" ulx="1914" uly="441" lrx="1993" lry="1526" xml:id="zone-f010-u05" />
+      <zone type="body" ulx="1817" uly="441" lrx="1895" lry="1138" xml:id="zone-f010-u06" />
+      <zone type="body" ulx="1720" uly="395" lrx="1800" lry="1521" xml:id="zone-f010-u07" />
+      <zone type="body" ulx="1626" uly="430" lrx="1704" lry="1516" xml:id="zone-f010-u08" />
+      <zone type="body" ulx="1529" uly="430" lrx="1607" lry="1514" xml:id="zone-f010-u09" />
+      <zone type="paratext" ulx="2386" uly="558" lrx="2440" lry="811" xml:id="zone-f010-u10" />
+      <zone type="body" ulx="1397" uly="449" lrx="1479" lry="1547" xml:id="zone-f010-u11" />
+      <zone type="body" ulx="1299" uly="449" lrx="1379" lry="1425" xml:id="zone-f010-u12" />
+      <zone type="body" ulx="1206" uly="408" lrx="1284" lry="1545" xml:id="zone-f010-u13" />
+      <zone type="body" ulx="1112" uly="451" lrx="1187" lry="1544" xml:id="zone-f010-u14" />
+      <zone type="body" ulx="1013" uly="449" lrx="1090" lry="1542" xml:id="zone-f010-u15" />
+      <zone type="body" ulx="918" uly="448" lrx="995" lry="1542" xml:id="zone-f010-u16" />
+      <zone type="body" ulx="822" uly="447" lrx="899" lry="1542" xml:id="zone-f010-u17" />
+      <zone type="body" ulx="727" uly="444" lrx="807" lry="1041" xml:id="zone-f010-u18" />
+      <zone type="body" ulx="632" uly="405" lrx="712" lry="1544" xml:id="zone-f010-u19" />
+      <zone type="paratext" ulx="558" uly="553" lrx="629" lry="805" xml:id="zone-f010-u20" />
+      <zone type="paratext" ulx="586" uly="1318" lrx="632" lry="1369" xml:id="zone-f010-u21" />
+    </surface>
+    <surface n="f011" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175400" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f011">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175400/iiif/F1000000000000100190_0011.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2283" uly="448" lrx="2364" lry="1538" xml:id="zone-f011-u01" />
+      <zone type="body" ulx="2189" uly="447" lrx="2267" lry="1535" xml:id="zone-f011-u02" />
+      <zone type="body" ulx="2093" uly="449" lrx="2173" lry="1535" xml:id="zone-f011-u03" />
+      <zone type="body" ulx="1998" uly="449" lrx="2076" lry="1535" xml:id="zone-f011-u04" />
+      <zone type="body" ulx="1903" uly="448" lrx="1981" lry="1019" xml:id="zone-f011-u05" />
+      <zone type="body" ulx="1808" uly="402" lrx="1887" lry="1534" xml:id="zone-f011-u06" />
+      <zone type="body" ulx="1712" uly="448" lrx="1790" lry="1533" xml:id="zone-f011-u07" />
+      <zone type="body" ulx="1616" uly="445" lrx="1693" lry="1531" xml:id="zone-f011-u08" />
+      <zone type="body" ulx="1520" uly="445" lrx="1598" lry="1531" xml:id="zone-f011-u09" />
+      <zone type="paratext" ulx="2379" uly="556" lrx="2436" lry="810" xml:id="zone-f011-u10" />
+      <zone type="body" ulx="1391" uly="451" lrx="1471" lry="1478" xml:id="zone-f011-u11" />
+      <zone type="body" ulx="1295" uly="408" lrx="1374" lry="1542" xml:id="zone-f011-u12" />
+      <zone type="body" ulx="1200" uly="449" lrx="1277" lry="1542" xml:id="zone-f011-u13" />
+      <zone type="body" ulx="1105" uly="448" lrx="1183" lry="1542" xml:id="zone-f011-u14" />
+      <zone type="body" ulx="1009" uly="445" lrx="1087" lry="1542" xml:id="zone-f011-u15" />
+      <zone type="body" ulx="913" uly="449" lrx="992" lry="1433" xml:id="zone-f011-u16" />
+      <zone type="body" ulx="818" uly="403" lrx="896" lry="1541" xml:id="zone-f011-u17" />
+      <zone type="body" ulx="721" uly="448" lrx="800" lry="1540" xml:id="zone-f011-u18" />
+      <zone type="body" ulx="625" uly="447" lrx="705" lry="1540" xml:id="zone-f011-u19" />
+      <zone type="paratext" ulx="551" uly="551" lrx="622" lry="803" xml:id="zone-f011-u20" />
+      <zone type="paratext" ulx="568" uly="1318" lrx="621" lry="1366" xml:id="zone-f011-u21" />
+    </surface>
+    <surface n="f012" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175500" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f012">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175500/iiif/F1000000000000100190_0012.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2281" uly="445" lrx="2361" lry="1544" xml:id="zone-f012-u01" />
+      <zone type="body" ulx="2185" uly="444" lrx="2263" lry="1542" xml:id="zone-f012-u02" />
+      <zone type="body" ulx="2087" uly="444" lrx="2166" lry="1540" xml:id="zone-f012-u03" />
+      <zone type="body" ulx="1990" uly="442" lrx="2068" lry="1026" xml:id="zone-f012-u04" />
+      <zone type="body" ulx="1893" uly="398" lrx="1972" lry="1535" xml:id="zone-f012-u05" />
+      <zone type="body" ulx="1797" uly="440" lrx="1875" lry="1534" xml:id="zone-f012-u06" />
+      <zone type="body" ulx="1700" uly="438" lrx="1778" lry="1531" xml:id="zone-f012-u07" />
+      <zone type="body" ulx="1603" uly="438" lrx="1681" lry="1528" xml:id="zone-f012-u08" />
+      <zone type="body" ulx="1507" uly="435" lrx="1587" lry="1528" xml:id="zone-f012-u09" />
+      <zone type="paratext" ulx="2379" uly="558" lrx="2436" lry="812" xml:id="zone-f012-u10" />
+      <zone type="body" ulx="1395" uly="444" lrx="1475" lry="1537" xml:id="zone-f012-u11" />
+      <zone type="body" ulx="1299" uly="440" lrx="1377" lry="1537" xml:id="zone-f012-u12" />
+      <zone type="body" ulx="1203" uly="438" lrx="1281" lry="1538" xml:id="zone-f012-u13" />
+      <zone type="body" ulx="1107" uly="438" lrx="1185" lry="970" xml:id="zone-f012-u14" />
+      <zone type="body" ulx="1010" uly="399" lrx="1088" lry="1540" xml:id="zone-f012-u15" />
+      <zone type="body" ulx="915" uly="438" lrx="993" lry="1538" xml:id="zone-f012-u16" />
+      <zone type="body" ulx="819" uly="440" lrx="897" lry="1538" xml:id="zone-f012-u17" />
+      <zone type="body" ulx="723" uly="438" lrx="801" lry="1542" xml:id="zone-f012-u18" />
+      <zone type="body" ulx="627" uly="401" lrx="705" lry="1541" xml:id="zone-f012-u19" />
+      <zone type="paratext" ulx="554" uly="544" lrx="625" lry="804" xml:id="zone-f012-u20" />
+      <zone type="paratext" ulx="578" uly="1315" lrx="624" lry="1366" xml:id="zone-f012-u21" />
+    </surface>
+    <surface n="f013" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175600" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f013">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175600/iiif/F1000000000000100190_0013.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2288" uly="448" lrx="2367" lry="1542" xml:id="zone-f013-u01" />
+      <zone type="body" ulx="2191" uly="445" lrx="2267" lry="1540" xml:id="zone-f013-u02" />
+      <zone type="body" ulx="2093" uly="444" lrx="2171" lry="1537" xml:id="zone-f013-u03" />
+      <zone type="body" ulx="1998" uly="447" lrx="2076" lry="1080" xml:id="zone-f013-u04" />
+      <zone type="body" ulx="1902" uly="402" lrx="1980" lry="1537" xml:id="zone-f013-u05" />
+      <zone type="body" ulx="1807" uly="447" lrx="1885" lry="1533" xml:id="zone-f013-u06" />
+      <zone type="body" ulx="1709" uly="447" lrx="1787" lry="1533" xml:id="zone-f013-u07" />
+      <zone type="body" ulx="1614" uly="444" lrx="1693" lry="1531" xml:id="zone-f013-u08" />
+      <zone type="body" ulx="1520" uly="442" lrx="1598" lry="1531" xml:id="zone-f013-u09" />
+      <zone type="paratext" ulx="2380" uly="558" lrx="2438" lry="817" xml:id="zone-f013-u10" />
+      <zone type="body" ulx="1391" uly="452" lrx="1469" lry="1540" xml:id="zone-f013-u11" />
+      <zone type="body" ulx="1296" uly="451" lrx="1374" lry="1484" xml:id="zone-f013-u12" />
+      <zone type="paratext" ulx="554" uly="550" lrx="617" lry="810" xml:id="zone-f013-u13" />
+      <zone type="paratext" ulx="582" uly="1309" lrx="629" lry="1373" xml:id="zone-f013-u14" />
+    </surface>
+    <surface n="f014" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175700" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f014">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175700/iiif/F1000000000000100190_0014.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="paratext" ulx="2378" uly="560" lrx="2438" lry="812" xml:id="zone-f014-u01" />
+      <zone type="body" ulx="1402" uly="455" lrx="1480" lry="1551" xml:id="zone-f014-u02" />
+      <zone type="body" ulx="1306" uly="452" lrx="1384" lry="1545" xml:id="zone-f014-u03" />
+      <zone type="body" ulx="1211" uly="452" lrx="1289" lry="1544" xml:id="zone-f014-u04" />
+      <zone type="body" ulx="1116" uly="452" lrx="1194" lry="1544" xml:id="zone-f014-u05" />
+      <zone type="body" ulx="1019" uly="454" lrx="1097" lry="1542" xml:id="zone-f014-u06" />
+      <zone type="body" ulx="922" uly="455" lrx="1000" lry="1544" xml:id="zone-f014-u07" />
+      <zone type="body" ulx="826" uly="454" lrx="904" lry="1545" xml:id="zone-f014-u08" />
+      <zone type="body" ulx="730" uly="454" lrx="808" lry="1425" xml:id="zone-f014-u09" />
+      <zone type="body" ulx="633" uly="413" lrx="713" lry="1544" xml:id="zone-f014-u10" />
+      <zone type="paratext" ulx="553" uly="554" lrx="627" lry="810" xml:id="zone-f014-u11" />
+      <zone type="paratext" ulx="572" uly="1301" lrx="625" lry="1369" xml:id="zone-f014-u12" />
+    </surface>
+    <surface n="f015" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175800" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f015">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175800/iiif/F1000000000000100190_0015.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2293" uly="446" lrx="2377" lry="1530" xml:id="zone-f015-u01" />
+      <zone type="body" ulx="2196" uly="446" lrx="2280" lry="1530" xml:id="zone-f015-u02" />
+      <zone type="body" ulx="2100" uly="446" lrx="2184" lry="1530" xml:id="zone-f015-u03" />
+      <zone type="body" ulx="2003" uly="446" lrx="2087" lry="1530" xml:id="zone-f015-u04" />
+      <zone type="body" ulx="1906" uly="446" lrx="1990" lry="1530" xml:id="zone-f015-u05" />
+      <zone type="body" ulx="1810" uly="446" lrx="1894" lry="1530" xml:id="zone-f015-u06" />
+      <zone type="body" ulx="1713" uly="446" lrx="1797" lry="850" xml:id="zone-f015-u07" />
+      <zone type="body" ulx="1618" uly="402" lrx="1698" lry="1529" xml:id="zone-f015-u08" />
+      <zone type="body" ulx="1519" uly="446" lrx="1603" lry="1530" xml:id="zone-f015-u09" />
+      <zone type="body" ulx="1384" uly="440" lrx="1468" lry="1532" xml:id="zone-f015-u10" />
+      <zone type="body" ulx="1289" uly="440" lrx="1373" lry="1532" xml:id="zone-f015-u11" />
+      <zone type="body" ulx="1194" uly="440" lrx="1278" lry="1532" xml:id="zone-f015-u12" />
+      <zone type="body" ulx="1098" uly="440" lrx="1182" lry="1532" xml:id="zone-f015-u13" />
+      <zone type="body" ulx="1003" uly="440" lrx="1087" lry="1532" xml:id="zone-f015-u14" />
+      <zone type="body" ulx="908" uly="440" lrx="992" lry="1532" xml:id="zone-f015-u15" />
+      <zone type="body" ulx="813" uly="440" lrx="897" lry="1532" xml:id="zone-f015-u16" />
+      <zone type="body" ulx="718" uly="440" lrx="802" lry="1532" xml:id="zone-f015-u17" />
+      <zone type="body" ulx="622" uly="440" lrx="706" lry="1532" xml:id="zone-f015-u18" />
+      <zone type="paratext" ulx="553" uly="561" lrx="628" lry="787" xml:id="zone-f015-u19" />
+      <zone type="paratext" ulx="566" uly="1297" lrx="631" lry="1367" xml:id="zone-f015-u20" />
+    </surface>
+    <surface n="f016" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914175900" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f016">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914175900/iiif/F1000000000000100190_0016.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2280" uly="445" lrx="2364" lry="1531" xml:id="zone-f016-u01" />
+      <zone type="body" ulx="2185" uly="445" lrx="2269" lry="1531" xml:id="zone-f016-u02" />
+      <zone type="body" ulx="2089" uly="445" lrx="2173" lry="1531" xml:id="zone-f016-u03" />
+      <zone type="body" ulx="1994" uly="445" lrx="2078" lry="1531" xml:id="zone-f016-u04" />
+      <zone type="body" ulx="1898" uly="445" lrx="1982" lry="1531" xml:id="zone-f016-u05" />
+      <zone type="body" ulx="1803" uly="445" lrx="1887" lry="1531" xml:id="zone-f016-u06" />
+      <zone type="body" ulx="1708" uly="445" lrx="1792" lry="1531" xml:id="zone-f016-u07" />
+      <zone type="body" ulx="1612" uly="445" lrx="1696" lry="1531" xml:id="zone-f016-u08" />
+      <zone type="body" ulx="1517" uly="445" lrx="1601" lry="1531" xml:id="zone-f016-u09" />
+      <zone type="body" ulx="1383" uly="435" lrx="1467" lry="1529" xml:id="zone-f016-u10" />
+      <zone type="body" ulx="1288" uly="435" lrx="1372" lry="1529" xml:id="zone-f016-u11" />
+      <zone type="body" ulx="1192" uly="435" lrx="1276" lry="1136" xml:id="zone-f016-u12" />
+      <zone type="body" ulx="1107" uly="389" lrx="1195" lry="1526" xml:id="zone-f016-u13" />
+      <zone type="body" ulx="1001" uly="435" lrx="1085" lry="1529" xml:id="zone-f016-u14" />
+      <zone type="body" ulx="906" uly="435" lrx="990" lry="1529" xml:id="zone-f016-u15" />
+      <zone type="body" ulx="810" uly="435" lrx="894" lry="1017" xml:id="zone-f016-u16" />
+      <zone type="body" ulx="723" uly="390" lrx="811" lry="1524" xml:id="zone-f016-u17" />
+      <zone type="body" ulx="619" uly="435" lrx="703" lry="1529" xml:id="zone-f016-u18" />
+      <zone type="paratext" ulx="550" uly="536" lrx="626" lry="783" xml:id="zone-f016-u19" />
+      <zone type="paratext" ulx="559" uly="1296" lrx="634" lry="1375" xml:id="zone-f016-u20" />
+    </surface>
+    <surface n="f017" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176000" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f017">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176000/iiif/F1000000000000100190_0017.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2275" uly="437" lrx="2359" lry="1528" xml:id="zone-f017-u01" />
+      <zone type="body" ulx="2179" uly="437" lrx="2263" lry="1528" xml:id="zone-f017-u02" />
+      <zone type="body" ulx="2083" uly="437" lrx="2167" lry="1528" xml:id="zone-f017-u03" />
+      <zone type="body" ulx="1986" uly="437" lrx="2070" lry="1528" xml:id="zone-f017-u04" />
+      <zone type="body" ulx="1890" uly="437" lrx="1974" lry="1122" xml:id="zone-f017-u05" />
+      <zone type="body" ulx="1788" uly="398" lrx="1875" lry="1528" xml:id="zone-f017-u06" />
+      <zone type="body" ulx="1698" uly="437" lrx="1782" lry="1528" xml:id="zone-f017-u07" />
+      <zone type="body" ulx="1602" uly="437" lrx="1686" lry="1528" xml:id="zone-f017-u08" />
+      <zone type="body" ulx="1505" uly="437" lrx="1589" lry="1528" xml:id="zone-f017-u09" />
+      <zone type="body" ulx="1391" uly="440" lrx="1475" lry="678" xml:id="zone-f017-u10" />
+      <zone type="body" ulx="1292" uly="394" lrx="1380" lry="1530" xml:id="zone-f017-u11" />
+      <zone type="body" ulx="1200" uly="440" lrx="1284" lry="1531" xml:id="zone-f017-u12" />
+      <zone type="body" ulx="1105" uly="440" lrx="1189" lry="1531" xml:id="zone-f017-u13" />
+      <zone type="body" ulx="1010" uly="440" lrx="1094" lry="1531" xml:id="zone-f017-u14" />
+      <zone type="body" ulx="915" uly="440" lrx="999" lry="574" xml:id="zone-f017-u15" />
+      <zone type="body" ulx="812" uly="392" lrx="901" lry="1531" xml:id="zone-f017-u16" />
+      <zone type="body" ulx="724" uly="440" lrx="808" lry="1531" xml:id="zone-f017-u17" />
+      <zone type="body" ulx="629" uly="440" lrx="713" lry="1531" xml:id="zone-f017-u18" />
+      <zone type="paratext" ulx="554" uly="552" lrx="631" lry="790" xml:id="zone-f017-u19" />
+      <zone type="paratext" ulx="567" uly="1295" lrx="638" lry="1369" xml:id="zone-f017-u20" />
+    </surface>
+    <surface n="f018" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176100" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f018">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176100/iiif/F1000000000000100190_0018.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2268" uly="432" lrx="2352" lry="1526" xml:id="zone-f018-u01" />
+      <zone type="body" ulx="2172" uly="432" lrx="2256" lry="1526" xml:id="zone-f018-u02" />
+      <zone type="body" ulx="2076" uly="432" lrx="2160" lry="1526" xml:id="zone-f018-u03" />
+      <zone type="body" ulx="1979" uly="432" lrx="2063" lry="1526" xml:id="zone-f018-u04" />
+      <zone type="body" ulx="1883" uly="432" lrx="1967" lry="1526" xml:id="zone-f018-u05" />
+      <zone type="body" ulx="1787" uly="432" lrx="1871" lry="1526" xml:id="zone-f018-u06" />
+      <zone type="body" ulx="1691" uly="432" lrx="1775" lry="1526" xml:id="zone-f018-u07" />
+      <zone type="body" ulx="1595" uly="432" lrx="1679" lry="1526" xml:id="zone-f018-u08" />
+      <zone type="body" ulx="1498" uly="432" lrx="1582" lry="1526" xml:id="zone-f018-u09" />
+      <zone type="body" ulx="1393" uly="434" lrx="1477" lry="1530" xml:id="zone-f018-u10" />
+      <zone type="body" ulx="1298" uly="434" lrx="1382" lry="1530" xml:id="zone-f018-u11" />
+      <zone type="body" ulx="1203" uly="434" lrx="1287" lry="1530" xml:id="zone-f018-u12" />
+      <zone type="body" ulx="1108" uly="434" lrx="1192" lry="1530" xml:id="zone-f018-u13" />
+      <zone type="body" ulx="1013" uly="434" lrx="1097" lry="1530" xml:id="zone-f018-u14" />
+      <zone type="body" ulx="918" uly="434" lrx="1002" lry="1530" xml:id="zone-f018-u15" />
+      <zone type="body" ulx="823" uly="434" lrx="907" lry="1530" xml:id="zone-f018-u16" />
+      <zone type="body" ulx="728" uly="434" lrx="812" lry="1530" xml:id="zone-f018-u17" />
+      <zone type="body" ulx="633" uly="434" lrx="717" lry="951" xml:id="zone-f018-u18" />
+      <zone type="paratext" ulx="550" uly="551" lrx="630" lry="791" xml:id="zone-f018-u19" />
+      <zone type="paratext" ulx="569" uly="1297" lrx="634" lry="1370" xml:id="zone-f018-u20" />
+    </surface>
+    <surface n="f019" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176200" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f019">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176200/iiif/F1000000000000100190_0019.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2276" uly="404" lrx="2353" lry="1532" xml:id="zone-f019-u01" />
+      <zone type="body" ulx="2179" uly="448" lrx="2263" lry="1534" xml:id="zone-f019-u02" />
+      <zone type="body" ulx="2083" uly="448" lrx="2167" lry="1534" xml:id="zone-f019-u03" />
+      <zone type="body" ulx="1987" uly="448" lrx="2071" lry="1534" xml:id="zone-f019-u04" />
+      <zone type="body" ulx="1891" uly="448" lrx="1975" lry="1534" xml:id="zone-f019-u05" />
+      <zone type="body" ulx="1795" uly="448" lrx="1879" lry="1534" xml:id="zone-f019-u06" />
+      <zone type="body" ulx="1698" uly="448" lrx="1782" lry="1534" xml:id="zone-f019-u07" />
+      <zone type="body" ulx="1602" uly="448" lrx="1686" lry="1102" xml:id="zone-f019-u08" />
+      <zone type="body" ulx="1502" uly="392" lrx="1577" lry="1531" xml:id="zone-f019-u09" />
+      <zone type="body" ulx="1384" uly="447" lrx="1468" lry="1533" xml:id="zone-f019-u10" />
+      <zone type="body" ulx="1289" uly="447" lrx="1373" lry="1533" xml:id="zone-f019-u11" />
+      <zone type="body" ulx="1193" uly="447" lrx="1277" lry="1533" xml:id="zone-f019-u12" />
+      <zone type="body" ulx="1098" uly="447" lrx="1182" lry="1344" xml:id="zone-f019-u13" />
+      <zone type="body" ulx="999" uly="402" lrx="1085" lry="1532" xml:id="zone-f019-u14" />
+      <zone type="body" ulx="908" uly="447" lrx="992" lry="1533" xml:id="zone-f019-u15" />
+      <zone type="body" ulx="812" uly="447" lrx="896" lry="1533" xml:id="zone-f019-u16" />
+      <zone type="body" ulx="717" uly="447" lrx="801" lry="1533" xml:id="zone-f019-u17" />
+      <zone type="body" ulx="622" uly="447" lrx="706" lry="951" xml:id="zone-f019-u18" />
+      <zone type="paratext" ulx="550" uly="557" lrx="627" lry="794" xml:id="zone-f019-u19" />
+      <zone type="paratext" ulx="572" uly="1300" lrx="639" lry="1375" xml:id="zone-f019-u20" />
+    </surface>
+    <surface n="f020" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176300" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f020">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176300/iiif/F1000000000000100190_0020.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2270" uly="404" lrx="2357" lry="1538" xml:id="zone-f020-u01" />
+      <zone type="body" ulx="2175" uly="448" lrx="2259" lry="1540" xml:id="zone-f020-u02" />
+      <zone type="body" ulx="2079" uly="448" lrx="2163" lry="1540" xml:id="zone-f020-u03" />
+      <zone type="body" ulx="1983" uly="448" lrx="2067" lry="1275" xml:id="zone-f020-u04" />
+      <zone type="body" ulx="1880" uly="405" lrx="1972" lry="1538" xml:id="zone-f020-u05" />
+      <zone type="body" ulx="1792" uly="448" lrx="1876" lry="1540" xml:id="zone-f020-u06" />
+      <zone type="body" ulx="1696" uly="448" lrx="1780" lry="1540" xml:id="zone-f020-u07" />
+      <zone type="body" ulx="1600" uly="448" lrx="1684" lry="1540" xml:id="zone-f020-u08" />
+      <zone type="body" ulx="1504" uly="448" lrx="1588" lry="1540" xml:id="zone-f020-u09" />
+      <zone type="body" ulx="1387" uly="393" lrx="1478" lry="1530" xml:id="zone-f020-u10" />
+      <zone type="body" ulx="1292" uly="445" lrx="1376" lry="1530" xml:id="zone-f020-u11" />
+      <zone type="body" ulx="1198" uly="445" lrx="1282" lry="1530" xml:id="zone-f020-u12" />
+      <zone type="body" ulx="1103" uly="445" lrx="1187" lry="1530" xml:id="zone-f020-u13" />
+      <zone type="body" ulx="1008" uly="445" lrx="1092" lry="1530" xml:id="zone-f020-u14" />
+      <zone type="body" ulx="914" uly="445" lrx="998" lry="1530" xml:id="zone-f020-u15" />
+      <zone type="body" ulx="819" uly="445" lrx="903" lry="1530" xml:id="zone-f020-u16" />
+      <zone type="body" ulx="724" uly="445" lrx="808" lry="1530" xml:id="zone-f020-u17" />
+      <zone type="body" ulx="629" uly="445" lrx="713" lry="1530" xml:id="zone-f020-u18" />
+      <zone type="paratext" ulx="549" uly="553" lrx="631" lry="798" xml:id="zone-f020-u19" />
+      <zone type="paratext" ulx="569" uly="1303" lrx="639" lry="1371" xml:id="zone-f020-u20" />
+    </surface>
+    <surface n="f021" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176400" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f021">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176400/iiif/F1000000000000100190_0021.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2262" uly="448" lrx="2346" lry="1530" xml:id="zone-f021-u01" />
+      <zone type="body" ulx="2166" uly="448" lrx="2250" lry="1530" xml:id="zone-f021-u02" />
+      <zone type="body" ulx="2069" uly="448" lrx="2153" lry="1530" xml:id="zone-f021-u03" />
+      <zone type="body" ulx="1973" uly="448" lrx="2057" lry="1530" xml:id="zone-f021-u04" />
+      <zone type="body" ulx="1876" uly="448" lrx="1960" lry="1530" xml:id="zone-f021-u05" />
+      <zone type="body" ulx="1780" uly="448" lrx="1864" lry="1530" xml:id="zone-f021-u06" />
+      <zone type="body" ulx="1683" uly="448" lrx="1767" lry="1309" xml:id="zone-f021-u07" />
+      <zone type="body" ulx="1584" uly="402" lrx="1672" lry="1530" xml:id="zone-f021-u08" />
+      <zone type="body" ulx="1490" uly="448" lrx="1574" lry="1530" xml:id="zone-f021-u09" />
+      <zone type="body" ulx="1380" uly="439" lrx="1464" lry="1530" xml:id="zone-f021-u10" />
+      <zone type="body" ulx="1285" uly="439" lrx="1369" lry="1530" xml:id="zone-f021-u11" />
+      <zone type="body" ulx="1190" uly="439" lrx="1274" lry="1530" xml:id="zone-f021-u12" />
+      <zone type="body" ulx="1094" uly="439" lrx="1178" lry="1530" xml:id="zone-f021-u13" />
+      <zone type="body" ulx="999" uly="439" lrx="1083" lry="1530" xml:id="zone-f021-u14" />
+      <zone type="body" ulx="904" uly="439" lrx="988" lry="1530" xml:id="zone-f021-u15" />
+      <zone type="body" ulx="809" uly="439" lrx="893" lry="1530" xml:id="zone-f021-u16" />
+      <zone type="body" ulx="714" uly="439" lrx="798" lry="1530" xml:id="zone-f021-u17" />
+      <zone type="body" ulx="618" uly="439" lrx="702" lry="1380" xml:id="zone-f021-u18" />
+      <zone type="paratext" ulx="549" uly="552" lrx="622" lry="785" xml:id="zone-f021-u19" />
+      <zone type="paratext" ulx="560" uly="1293" lrx="634" lry="1370" xml:id="zone-f021-u20" />
+    </surface>
+    <surface n="f022" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176500" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f022">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176500/iiif/F1000000000000100190_0022.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2265" uly="406" lrx="2345" lry="1532" xml:id="zone-f022-u01" />
+      <zone type="body" ulx="2165" uly="458" lrx="2249" lry="1534" xml:id="zone-f022-u02" />
+      <zone type="body" ulx="2069" uly="458" lrx="2153" lry="1534" xml:id="zone-f022-u03" />
+      <zone type="body" ulx="1973" uly="458" lrx="2057" lry="1534" xml:id="zone-f022-u04" />
+      <zone type="body" ulx="1877" uly="458" lrx="1961" lry="1534" xml:id="zone-f022-u05" />
+      <zone type="body" ulx="1781" uly="458" lrx="1865" lry="1534" xml:id="zone-f022-u06" />
+      <zone type="body" ulx="1685" uly="458" lrx="1769" lry="1534" xml:id="zone-f022-u07" />
+      <zone type="body" ulx="1589" uly="458" lrx="1673" lry="1534" xml:id="zone-f022-u08" />
+      <zone type="body" ulx="1493" uly="458" lrx="1577" lry="1534" xml:id="zone-f022-u09" />
+      <zone type="body" ulx="1390" uly="455" lrx="1474" lry="1534" xml:id="zone-f022-u10" />
+      <zone type="body" ulx="1294" uly="455" lrx="1378" lry="1534" xml:id="zone-f022-u11" />
+      <zone type="body" ulx="1199" uly="455" lrx="1283" lry="1534" xml:id="zone-f022-u12" />
+      <zone type="body" ulx="1103" uly="455" lrx="1187" lry="1534" xml:id="zone-f022-u13" />
+      <zone type="body" ulx="1008" uly="455" lrx="1092" lry="778" xml:id="zone-f022-u14" />
+      <zone type="body" ulx="907" uly="418" lrx="997" lry="1534" xml:id="zone-f022-u15" />
+      <zone type="body" ulx="816" uly="455" lrx="900" lry="1534" xml:id="zone-f022-u16" />
+      <zone type="body" ulx="721" uly="455" lrx="805" lry="1534" xml:id="zone-f022-u17" />
+      <zone type="body" ulx="625" uly="455" lrx="709" lry="1534" xml:id="zone-f022-u18" />
+      <zone type="paratext" ulx="547" uly="560" lrx="626" lry="803" xml:id="zone-f022-u19" />
+      <zone type="paratext" ulx="561" uly="1305" lrx="629" lry="1380" xml:id="zone-f022-u20" />
+    </surface>
+    <surface n="f023" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176600" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f023">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176600/iiif/F1000000000000100190_0023.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2266" uly="458" lrx="2350" lry="1538" xml:id="zone-f023-u01" />
+      <zone type="body" ulx="2170" uly="458" lrx="2254" lry="1538" xml:id="zone-f023-u02" />
+      <zone type="body" ulx="2074" uly="458" lrx="2158" lry="1538" xml:id="zone-f023-u03" />
+      <zone type="body" ulx="1977" uly="458" lrx="2061" lry="1538" xml:id="zone-f023-u04" />
+      <zone type="body" ulx="1881" uly="458" lrx="1965" lry="1538" xml:id="zone-f023-u05" />
+      <zone type="body" ulx="1785" uly="458" lrx="1869" lry="1538" xml:id="zone-f023-u06" />
+      <zone type="body" ulx="1783" uly="407" lrx="1873" lry="1536" xml:id="zone-f023-u07" />
+      <zone type="body" ulx="1593" uly="458" lrx="1677" lry="1538" xml:id="zone-f023-u08" />
+      <zone type="body" ulx="1496" uly="458" lrx="1580" lry="1538" xml:id="zone-f023-u09" />
+      <zone type="body" ulx="1387" uly="451" lrx="1471" lry="1533" xml:id="zone-f023-u10" />
+      <zone type="body" ulx="1291" uly="451" lrx="1375" lry="1029" xml:id="zone-f023-u11" />
+      <zone type="body" ulx="1193" uly="404" lrx="1283" lry="1533" xml:id="zone-f023-u12" />
+      <zone type="body" ulx="1100" uly="451" lrx="1184" lry="1533" xml:id="zone-f023-u13" />
+      <zone type="body" ulx="1004" uly="451" lrx="1088" lry="1533" xml:id="zone-f023-u14" />
+      <zone type="body" ulx="908" uly="451" lrx="992" lry="1533" xml:id="zone-f023-u15" />
+      <zone type="body" ulx="812" uly="451" lrx="896" lry="1313" xml:id="zone-f023-u16" />
+      <zone type="body" ulx="715" uly="404" lrx="805" lry="1533" xml:id="zone-f023-u17" />
+      <zone type="body" ulx="621" uly="451" lrx="705" lry="1533" xml:id="zone-f023-u18" />
+      <zone type="paratext" ulx="548" uly="557" lrx="624" lry="796" xml:id="zone-f023-u19" />
+      <zone type="paratext" ulx="555" uly="1303" lrx="626" lry="1377" xml:id="zone-f023-u20" />
+    </surface>
+    <surface n="f024" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176700" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f024">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176700/iiif/F1000000000000100190_0024.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2269" uly="450" lrx="2353" lry="1541" xml:id="zone-f024-u01" />
+      <zone type="body" ulx="2173" uly="450" lrx="2257" lry="1541" xml:id="zone-f024-u02" />
+      <zone type="body" ulx="2076" uly="409" lrx="2165" lry="1539" xml:id="zone-f024-u03" />
+      <zone type="body" ulx="1980" uly="450" lrx="2064" lry="1541" xml:id="zone-f024-u04" />
+      <zone type="body" ulx="1883" uly="450" lrx="1967" lry="1541" xml:id="zone-f024-u05" />
+      <zone type="body" ulx="1787" uly="450" lrx="1871" lry="1541" xml:id="zone-f024-u06" />
+      <zone type="body" ulx="1690" uly="450" lrx="1774" lry="972" xml:id="zone-f024-u07" />
+      <zone type="body" ulx="1585" uly="403" lrx="1675" lry="1539" xml:id="zone-f024-u08" />
+      <zone type="body" ulx="1497" uly="450" lrx="1581" lry="1541" xml:id="zone-f024-u09" />
+      <zone type="body" ulx="1389" uly="444" lrx="1473" lry="1533" xml:id="zone-f024-u10" />
+      <zone type="body" ulx="1293" uly="398" lrx="1383" lry="1533" xml:id="zone-f024-u11" />
+      <zone type="body" ulx="1199" uly="444" lrx="1283" lry="1533" xml:id="zone-f024-u12" />
+      <zone type="body" ulx="1104" uly="444" lrx="1188" lry="1533" xml:id="zone-f024-u13" />
+      <zone type="body" ulx="1009" uly="444" lrx="1093" lry="1197" xml:id="zone-f024-u14" />
+      <zone type="body" ulx="909" uly="394" lrx="998" lry="1533" xml:id="zone-f024-u15" />
+      <zone type="body" ulx="819" uly="444" lrx="903" lry="1533" xml:id="zone-f024-u16" />
+      <zone type="body" ulx="724" uly="444" lrx="808" lry="1533" xml:id="zone-f024-u17" />
+      <zone type="body" ulx="629" uly="444" lrx="713" lry="1533" xml:id="zone-f024-u18" />
+      <zone type="paratext" ulx="550" uly="551" lrx="630" lry="791" xml:id="zone-f024-u19" />
+      <zone type="paratext" ulx="552" uly="1298" lrx="635" lry="1370" xml:id="zone-f024-u20" />
+    </surface>
+    <surface n="f025" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176800" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f025">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176800/iiif/F1000000000000100190_0025.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2278" uly="440" lrx="2362" lry="564" xml:id="zone-f025-u01" />
+      <zone type="body" ulx="2177" uly="396" lrx="2264" lry="1525" xml:id="zone-f025-u02" />
+      <zone type="body" ulx="2085" uly="440" lrx="2169" lry="1524" xml:id="zone-f025-u03" />
+      <zone type="body" ulx="1988" uly="440" lrx="2072" lry="902" xml:id="zone-f025-u04" />
+      <zone type="body" ulx="1889" uly="392" lrx="1974" lry="1526" xml:id="zone-f025-u05" />
+      <zone type="body" ulx="1795" uly="440" lrx="1879" lry="1524" xml:id="zone-f025-u06" />
+      <zone type="body" ulx="1698" uly="440" lrx="1782" lry="1524" xml:id="zone-f025-u07" />
+      <zone type="body" ulx="1602" uly="440" lrx="1686" lry="1383" xml:id="zone-f025-u08" />
+      <zone type="body" ulx="1505" uly="388" lrx="1589" lry="1522" xml:id="zone-f025-u09" />
+      <zone type="body" ulx="1389" uly="447" lrx="1473" lry="1532" xml:id="zone-f025-u10" />
+      <zone type="body" ulx="1294" uly="447" lrx="1378" lry="1532" xml:id="zone-f025-u11" />
+      <zone type="body" ulx="1198" uly="447" lrx="1282" lry="1532" xml:id="zone-f025-u12" />
+      <zone type="body" ulx="1103" uly="447" lrx="1187" lry="1532" xml:id="zone-f025-u13" />
+      <zone type="body" ulx="1007" uly="447" lrx="1091" lry="1135" xml:id="zone-f025-u14" />
+      <zone type="body" ulx="906" uly="397" lrx="995" lry="1531" xml:id="zone-f025-u15" />
+      <zone type="body" ulx="816" uly="447" lrx="900" lry="1532" xml:id="zone-f025-u16" />
+      <zone type="body" ulx="721" uly="447" lrx="805" lry="1532" xml:id="zone-f025-u17" />
+      <zone type="body" ulx="625" uly="447" lrx="709" lry="1532" xml:id="zone-f025-u18" />
+      <zone type="paratext" ulx="551" uly="549" lrx="627" lry="799" xml:id="zone-f025-u19" />
+      <zone type="paratext" ulx="550" uly="1302" lrx="631" lry="1378" xml:id="zone-f025-u20" />
+    </surface>
+    <surface n="f026" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914176900" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f026">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914176900/iiif/F1000000000000100190_0026.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2264" uly="401" lrx="2348" lry="1529" xml:id="zone-f026-u01" />
+      <zone type="body" ulx="2168" uly="438" lrx="2252" lry="1530" xml:id="zone-f026-u02" />
+      <zone type="body" ulx="2072" uly="438" lrx="2156" lry="1530" xml:id="zone-f026-u03" />
+      <zone type="body" ulx="1976" uly="438" lrx="2060" lry="875" xml:id="zone-f026-u04" />
+      <zone type="body" ulx="1880" uly="398" lrx="1967" lry="1530" xml:id="zone-f026-u05" />
+      <zone type="body" ulx="1784" uly="438" lrx="1868" lry="1530" xml:id="zone-f026-u06" />
+      <zone type="body" ulx="1687" uly="438" lrx="1771" lry="1530" xml:id="zone-f026-u07" />
+      <zone type="body" ulx="1591" uly="438" lrx="1675" lry="1530" xml:id="zone-f026-u08" />
+      <zone type="body" ulx="1495" uly="438" lrx="1579" lry="608" xml:id="zone-f026-u09" />
+      <zone type="body" ulx="1392" uly="388" lrx="1477" lry="1531" xml:id="zone-f026-u10" />
+      <zone type="body" ulx="1297" uly="433" lrx="1381" lry="1533" xml:id="zone-f026-u11" />
+      <zone type="body" ulx="1201" uly="433" lrx="1285" lry="1533" xml:id="zone-f026-u12" />
+      <zone type="body" ulx="1106" uly="433" lrx="1190" lry="1533" xml:id="zone-f026-u13" />
+      <zone type="body" ulx="1010" uly="433" lrx="1094" lry="625" xml:id="zone-f026-u14" />
+      <zone type="body" ulx="916" uly="392" lrx="1004" lry="1531" xml:id="zone-f026-u15" />
+      <zone type="body" ulx="819" uly="433" lrx="903" lry="1533" xml:id="zone-f026-u16" />
+      <zone type="body" ulx="724" uly="433" lrx="808" lry="1199" xml:id="zone-f026-u17" />
+      <zone type="body" ulx="633" uly="389" lrx="716" lry="1531" xml:id="zone-f026-u18" />
+      <zone type="paratext" ulx="549" uly="542" lrx="627" lry="787" xml:id="zone-f026-u19" />
+      <zone type="paratext" ulx="554" uly="1298" lrx="632" lry="1370" xml:id="zone-f026-u20" />
+    </surface>
+    <surface n="f027" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177000" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f027">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177000/iiif/F1000000000000100190_0027.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2277" uly="446" lrx="2361" lry="1542" xml:id="zone-f027-u01" />
+      <zone type="body" ulx="2181" uly="446" lrx="2265" lry="1542" xml:id="zone-f027-u02" />
+      <zone type="body" ulx="2084" uly="446" lrx="2168" lry="1542" xml:id="zone-f027-u03" />
+      <zone type="body" ulx="1988" uly="446" lrx="2072" lry="1542" xml:id="zone-f027-u04" />
+      <zone type="body" ulx="1891" uly="446" lrx="1975" lry="1449" xml:id="zone-f027-u05" />
+      <zone type="body" ulx="1793" uly="400" lrx="1876" lry="1540" xml:id="zone-f027-u06" />
+      <zone type="body" ulx="1698" uly="446" lrx="1782" lry="1542" xml:id="zone-f027-u07" />
+      <zone type="body" ulx="1602" uly="446" lrx="1686" lry="1542" xml:id="zone-f027-u08" />
+      <zone type="body" ulx="1505" uly="446" lrx="1589" lry="1264" xml:id="zone-f027-u09" />
+      <zone type="body" ulx="1391" uly="392" lrx="1478" lry="1530" xml:id="zone-f027-u10" />
+      <zone type="body" ulx="1295" uly="444" lrx="1379" lry="1530" xml:id="zone-f027-u11" />
+      <zone type="body" ulx="1200" uly="444" lrx="1284" lry="1530" xml:id="zone-f027-u12" />
+      <zone type="body" ulx="1104" uly="444" lrx="1188" lry="1530" xml:id="zone-f027-u13" />
+      <zone type="body" ulx="1009" uly="444" lrx="1093" lry="1530" xml:id="zone-f027-u14" />
+      <zone type="body" ulx="914" uly="444" lrx="998" lry="1530" xml:id="zone-f027-u15" />
+      <zone type="body" ulx="819" uly="444" lrx="903" lry="1530" xml:id="zone-f027-u16" />
+      <zone type="body" ulx="724" uly="444" lrx="808" lry="912" xml:id="zone-f027-u17" />
+      <zone type="body" ulx="629" uly="396" lrx="713" lry="1532" xml:id="zone-f027-u18" />
+      <zone type="paratext" ulx="550" uly="549" lrx="628" lry="786" xml:id="zone-f027-u19" />
+      <zone type="paratext" ulx="556" uly="1296" lrx="634" lry="1368" xml:id="zone-f027-u20" />
+    </surface>
+    <surface n="f028" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177100" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f028">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177100/iiif/F1000000000000100190_0028.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2277" uly="445" lrx="2361" lry="1533" xml:id="zone-f028-u01" />
+      <zone type="body" ulx="2181" uly="445" lrx="2265" lry="1533" xml:id="zone-f028-u02" />
+      <zone type="body" ulx="2085" uly="445" lrx="2169" lry="1533" xml:id="zone-f028-u03" />
+      <zone type="body" ulx="1989" uly="397" lrx="2078" lry="1531" xml:id="zone-f028-u04" />
+      <zone type="body" ulx="1892" uly="445" lrx="1976" lry="1533" xml:id="zone-f028-u05" />
+      <zone type="body" ulx="1796" uly="445" lrx="1880" lry="1533" xml:id="zone-f028-u06" />
+      <zone type="body" ulx="1700" uly="445" lrx="1784" lry="620" xml:id="zone-f028-u07" />
+      <zone type="body" ulx="1603" uly="402" lrx="1692" lry="1531" xml:id="zone-f028-u08" />
+      <zone type="body" ulx="1507" uly="445" lrx="1591" lry="1533" xml:id="zone-f028-u09" />
+      <zone type="body" ulx="1393" uly="440" lrx="1477" lry="1531" xml:id="zone-f028-u10" />
+      <zone type="body" ulx="1297" uly="440" lrx="1381" lry="1163" xml:id="zone-f028-u11" />
+      <zone type="body" ulx="1201" uly="393" lrx="1291" lry="1530" xml:id="zone-f028-u12" />
+      <zone type="body" ulx="1106" uly="440" lrx="1190" lry="1531" xml:id="zone-f028-u13" />
+      <zone type="body" ulx="1011" uly="440" lrx="1095" lry="1531" xml:id="zone-f028-u14" />
+      <zone type="body" ulx="915" uly="440" lrx="999" lry="628" xml:id="zone-f028-u15" />
+      <zone type="body" ulx="816" uly="391" lrx="905" lry="1530" xml:id="zone-f028-u16" />
+      <zone type="body" ulx="724" uly="440" lrx="808" lry="1531" xml:id="zone-f028-u17" />
+      <zone type="body" ulx="628" uly="440" lrx="712" lry="1381" xml:id="zone-f028-u18" />
+      <zone type="paratext" ulx="550" uly="553" lrx="628" lry="799" xml:id="zone-f028-u19" />
+      <zone type="paratext" ulx="551" uly="1295" lrx="635" lry="1374" xml:id="zone-f028-u20" />
+    </surface>
+    <surface n="f029" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177200" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f029">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177200/iiif/F1000000000000100190_0029.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2275" uly="396" lrx="2355" lry="1534" xml:id="zone-f029-u01" />
+      <zone type="body" ulx="2175" uly="396" lrx="2254" lry="1534" xml:id="zone-f029-u02" />
+      <zone type="body" ulx="2076" uly="396" lrx="2155" lry="1534" xml:id="zone-f029-u03" />
+      <zone type="body" ulx="1981" uly="396" lrx="2060" lry="1534" xml:id="zone-f029-u04" />
+      <zone type="body" ulx="1887" uly="396" lrx="1967" lry="1534" xml:id="zone-f029-u05" />
+      <zone type="body" ulx="1795" uly="396" lrx="1875" lry="1534" xml:id="zone-f029-u06" />
+      <zone type="body" ulx="1700" uly="396" lrx="1780" lry="1534" xml:id="zone-f029-u07" />
+      <zone type="body" ulx="1601" uly="396" lrx="1681" lry="1534" xml:id="zone-f029-u08" />
+      <zone type="body" ulx="1505" uly="396" lrx="1585" lry="1534" xml:id="zone-f029-u09" />
+      <zone type="body" ulx="1385" uly="396" lrx="1465" lry="1534" xml:id="zone-f029-u10" />
+      <zone type="body" ulx="1290" uly="396" lrx="1370" lry="1534" xml:id="zone-f029-u11" />
+      <zone type="body" ulx="1187" uly="396" lrx="1266" lry="1534" xml:id="zone-f029-u12" />
+      <zone type="body" ulx="1093" uly="396" lrx="1173" lry="1534" xml:id="zone-f029-u13" />
+      <zone type="body" ulx="993" uly="396" lrx="1073" lry="1534" xml:id="zone-f029-u14" />
+      <zone type="body" ulx="900" uly="396" lrx="979" lry="1534" xml:id="zone-f029-u15" />
+      <zone type="body" ulx="798" uly="396" lrx="877" lry="1534" xml:id="zone-f029-u16" />
+      <zone type="body" ulx="707" uly="396" lrx="786" lry="1534" xml:id="zone-f029-u17" />
+      <zone type="body" ulx="613" uly="396" lrx="693" lry="1534" xml:id="zone-f029-u18" />
+      <zone type="paratext" ulx="2358" uly="530" lrx="2430" lry="788" xml:id="zone-f029-u19" />
+      <zone type="paratext" ulx="539" uly="552" lrx="608" lry="782" xml:id="zone-f029-u20" />
+      <zone type="paratext" ulx="557" uly="1307" lrx="630" lry="1387" xml:id="zone-f029-u21" />
+    </surface>
+    <surface n="f030" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177300" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f030">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177300/iiif/F1000000000000100190_0030.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2282" uly="396" lrx="2362" lry="1534" xml:id="zone-f030-u01" />
+      <zone type="body" ulx="2178" uly="396" lrx="2257" lry="1534" xml:id="zone-f030-u02" />
+      <zone type="body" ulx="2081" uly="396" lrx="2161" lry="1534" xml:id="zone-f030-u03" />
+      <zone type="body" ulx="1982" uly="396" lrx="2062" lry="1534" xml:id="zone-f030-u04" />
+      <zone type="body" ulx="1886" uly="396" lrx="1966" lry="1534" xml:id="zone-f030-u05" />
+      <zone type="body" ulx="1791" uly="396" lrx="1871" lry="1534" xml:id="zone-f030-u06" />
+      <zone type="body" ulx="1698" uly="396" lrx="1777" lry="1534" xml:id="zone-f030-u07" />
+      <zone type="body" ulx="1590" uly="396" lrx="1670" lry="1534" xml:id="zone-f030-u08" />
+      <zone type="body" ulx="1495" uly="396" lrx="1575" lry="1534" xml:id="zone-f030-u09" />
+      <zone type="body" ulx="1391" uly="396" lrx="1470" lry="1534" xml:id="zone-f030-u10" />
+      <zone type="body" ulx="1301" uly="396" lrx="1381" lry="1534" xml:id="zone-f030-u11" />
+      <zone type="body" ulx="1200" uly="396" lrx="1279" lry="1534" xml:id="zone-f030-u12" />
+      <zone type="body" ulx="1105" uly="396" lrx="1184" lry="1534" xml:id="zone-f030-u13" />
+      <zone type="body" ulx="1007" uly="396" lrx="1086" lry="1534" xml:id="zone-f030-u14" />
+      <zone type="body" ulx="913" uly="396" lrx="993" lry="1534" xml:id="zone-f030-u15" />
+      <zone type="body" ulx="816" uly="396" lrx="895" lry="1534" xml:id="zone-f030-u16" />
+      <zone type="body" ulx="720" uly="396" lrx="799" lry="1534" xml:id="zone-f030-u17" />
+      <zone type="body" ulx="620" uly="396" lrx="700" lry="1534" xml:id="zone-f030-u18" />
+      <zone type="paratext" ulx="2358" uly="530" lrx="2430" lry="788" xml:id="zone-f030-u19" />
+      <zone type="paratext" ulx="539" uly="552" lrx="608" lry="782" xml:id="zone-f030-u20" />
+      <zone type="paratext" ulx="557" uly="1307" lrx="630" lry="1387" xml:id="zone-f030-u21" />
+    </surface>
+    <surface n="f031" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177400" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f031">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177400/iiif/F1000000000000100190_0031.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2281" uly="396" lrx="2360" lry="1534" xml:id="zone-f031-u01" />
+      <zone type="body" ulx="2183" uly="396" lrx="2263" lry="1534" xml:id="zone-f031-u02" />
+      <zone type="body" ulx="2084" uly="396" lrx="2164" lry="1534" xml:id="zone-f031-u03" />
+      <zone type="body" ulx="1988" uly="396" lrx="2067" lry="1534" xml:id="zone-f031-u04" />
+      <zone type="body" ulx="1889" uly="396" lrx="1968" lry="1534" xml:id="zone-f031-u05" />
+      <zone type="body" ulx="1793" uly="396" lrx="1872" lry="1534" xml:id="zone-f031-u06" />
+      <zone type="body" ulx="1698" uly="396" lrx="1777" lry="1534" xml:id="zone-f031-u07" />
+      <zone type="body" ulx="1600" uly="396" lrx="1680" lry="1534" xml:id="zone-f031-u08" />
+      <zone type="body" ulx="1502" uly="396" lrx="1582" lry="1534" xml:id="zone-f031-u09" />
+      <zone type="body" ulx="1395" uly="396" lrx="1474" lry="1534" xml:id="zone-f031-u10" />
+      <zone type="body" ulx="1307" uly="396" lrx="1386" lry="1534" xml:id="zone-f031-u11" />
+      <zone type="body" ulx="1204" uly="396" lrx="1283" lry="1534" xml:id="zone-f031-u12" />
+      <zone type="body" ulx="1106" uly="396" lrx="1186" lry="1534" xml:id="zone-f031-u13" />
+      <zone type="body" ulx="1011" uly="396" lrx="1091" lry="1534" xml:id="zone-f031-u14" />
+      <zone type="body" ulx="913" uly="396" lrx="993" lry="1534" xml:id="zone-f031-u15" />
+      <zone type="body" ulx="820" uly="396" lrx="900" lry="1534" xml:id="zone-f031-u16" />
+      <zone type="body" ulx="724" uly="396" lrx="803" lry="1534" xml:id="zone-f031-u17" />
+      <zone type="body" ulx="627" uly="396" lrx="707" lry="1534" xml:id="zone-f031-u18" />
+      <zone type="paratext" ulx="2358" uly="530" lrx="2430" lry="788" xml:id="zone-f031-u19" />
+      <zone type="paratext" ulx="539" uly="552" lrx="608" lry="782" xml:id="zone-f031-u20" />
+      <zone type="paratext" ulx="557" uly="1307" lrx="630" lry="1387" xml:id="zone-f031-u21" />
+    </surface>
+    <surface n="f032" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177500" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f032">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177500/iiif/F1000000000000100190_0032.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2278" uly="396" lrx="2358" lry="1534" xml:id="zone-f032-u01" />
+      <zone type="body" ulx="2183" uly="396" lrx="2263" lry="1534" xml:id="zone-f032-u02" />
+      <zone type="body" ulx="2087" uly="396" lrx="2166" lry="1534" xml:id="zone-f032-u03" />
+      <zone type="body" ulx="1991" uly="396" lrx="2070" lry="1534" xml:id="zone-f032-u04" />
+      <zone type="body" ulx="1892" uly="396" lrx="1971" lry="1534" xml:id="zone-f032-u05" />
+      <zone type="body" ulx="1793" uly="396" lrx="1872" lry="1534" xml:id="zone-f032-u06" />
+      <zone type="body" ulx="1695" uly="396" lrx="1774" lry="1534" xml:id="zone-f032-u07" />
+      <zone type="body" ulx="1601" uly="396" lrx="1681" lry="1534" xml:id="zone-f032-u08" />
+      <zone type="body" ulx="1508" uly="396" lrx="1587" lry="1534" xml:id="zone-f032-u09" />
+      <zone type="body" ulx="1392" uly="396" lrx="1472" lry="1534" xml:id="zone-f032-u10" />
+      <zone type="body" ulx="1293" uly="396" lrx="1373" lry="1534" xml:id="zone-f032-u11" />
+      <zone type="body" ulx="1197" uly="396" lrx="1276" lry="1534" xml:id="zone-f032-u12" />
+      <zone type="body" ulx="1102" uly="396" lrx="1181" lry="1534" xml:id="zone-f032-u13" />
+      <zone type="body" ulx="1006" uly="396" lrx="1085" lry="1534" xml:id="zone-f032-u14" />
+      <zone type="body" ulx="912" uly="396" lrx="992" lry="1534" xml:id="zone-f032-u15" />
+      <zone type="body" ulx="820" uly="396" lrx="900" lry="1534" xml:id="zone-f032-u16" />
+      <zone type="body" ulx="725" uly="396" lrx="805" lry="1534" xml:id="zone-f032-u17" />
+      <zone type="body" ulx="626" uly="396" lrx="706" lry="1534" xml:id="zone-f032-u18" />
+      <zone type="paratext" ulx="2358" uly="530" lrx="2430" lry="788" xml:id="zone-f032-u19" />
+      <zone type="paratext" ulx="539" uly="552" lrx="608" lry="782" xml:id="zone-f032-u20" />
+      <zone type="paratext" ulx="557" uly="1307" lrx="630" lry="1387" xml:id="zone-f032-u21" />
+    </surface>
+    <surface n="f033" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177600" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f033">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177600/iiif/F1000000000000100190_0033.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2277" uly="396" lrx="2356" lry="1534" xml:id="zone-f033-u01" />
+      <zone type="body" ulx="2180" uly="396" lrx="2260" lry="1534" xml:id="zone-f033-u02" />
+      <zone type="body" ulx="2084" uly="396" lrx="2164" lry="1534" xml:id="zone-f033-u03" />
+      <zone type="body" ulx="1988" uly="396" lrx="2067" lry="1534" xml:id="zone-f033-u04" />
+      <zone type="body" ulx="1896" uly="396" lrx="1975" lry="1534" xml:id="zone-f033-u05" />
+      <zone type="body" ulx="1797" uly="396" lrx="1876" lry="1534" xml:id="zone-f033-u06" />
+      <zone type="body" ulx="1699" uly="396" lrx="1779" lry="1534" xml:id="zone-f033-u07" />
+      <zone type="body" ulx="1604" uly="396" lrx="1684" lry="1534" xml:id="zone-f033-u08" />
+      <zone type="body" ulx="1512" uly="396" lrx="1592" lry="1534" xml:id="zone-f033-u09" />
+      <zone type="body" ulx="1392" uly="396" lrx="1472" lry="1534" xml:id="zone-f033-u10" />
+      <zone type="body" ulx="1296" uly="396" lrx="1375" lry="1534" xml:id="zone-f033-u11" />
+      <zone type="body" ulx="1200" uly="396" lrx="1279" lry="1534" xml:id="zone-f033-u12" />
+      <zone type="body" ulx="1106" uly="396" lrx="1186" lry="1534" xml:id="zone-f033-u13" />
+      <zone type="body" ulx="1007" uly="396" lrx="1086" lry="1534" xml:id="zone-f033-u14" />
+      <zone type="body" ulx="911" uly="396" lrx="990" lry="1534" xml:id="zone-f033-u15" />
+      <zone type="body" ulx="816" uly="396" lrx="895" lry="1534" xml:id="zone-f033-u16" />
+      <zone type="body" ulx="722" uly="396" lrx="802" lry="1534" xml:id="zone-f033-u17" />
+      <zone type="body" ulx="625" uly="396" lrx="704" lry="1534" xml:id="zone-f033-u18" />
+      <zone type="paratext" ulx="2358" uly="530" lrx="2430" lry="788" xml:id="zone-f033-u19" />
+      <zone type="paratext" ulx="539" uly="552" lrx="608" lry="782" xml:id="zone-f033-u20" />
+      <zone type="paratext" ulx="557" uly="1307" lrx="630" lry="1387" xml:id="zone-f033-u21" />
+    </surface>
+    <surface n="f034" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177700" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f034">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177700/iiif/F1000000000000100190_0034.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2280" uly="396" lrx="2359" lry="1534" xml:id="zone-f034-u01" />
+      <zone type="body" ulx="2189" uly="396" lrx="2268" lry="1534" xml:id="zone-f034-u02" />
+      <zone type="body" ulx="2091" uly="396" lrx="2171" lry="1534" xml:id="zone-f034-u03" />
+      <zone type="body" ulx="1991" uly="396" lrx="2070" lry="1534" xml:id="zone-f034-u04" />
+      <zone type="body" ulx="1893" uly="396" lrx="1973" lry="1534" xml:id="zone-f034-u05" />
+      <zone type="body" ulx="1798" uly="396" lrx="1878" lry="1534" xml:id="zone-f034-u06" />
+      <zone type="body" ulx="1700" uly="396" lrx="1780" lry="1534" xml:id="zone-f034-u07" />
+      <zone type="body" ulx="1606" uly="396" lrx="1685" lry="1534" xml:id="zone-f034-u08" />
+      <zone type="body" ulx="1508" uly="396" lrx="1587" lry="1534" xml:id="zone-f034-u09" />
+      <zone type="body" ulx="1392" uly="396" lrx="1472" lry="1534" xml:id="zone-f034-u10" />
+      <zone type="body" ulx="1297" uly="396" lrx="1377" lry="1534" xml:id="zone-f034-u11" />
+      <zone type="body" ulx="1200" uly="396" lrx="1279" lry="1534" xml:id="zone-f034-u12" />
+      <zone type="body" ulx="1102" uly="396" lrx="1181" lry="1534" xml:id="zone-f034-u13" />
+      <zone type="body" ulx="1008" uly="396" lrx="1088" lry="1534" xml:id="zone-f034-u14" />
+      <zone type="body" ulx="911" uly="396" lrx="990" lry="1534" xml:id="zone-f034-u15" />
+      <zone type="body" ulx="814" uly="396" lrx="894" lry="1534" xml:id="zone-f034-u16" />
+      <zone type="body" ulx="720" uly="396" lrx="799" lry="1534" xml:id="zone-f034-u17" />
+      <zone type="body" ulx="623" uly="396" lrx="703" lry="1534" xml:id="zone-f034-u18" />
+      <zone type="paratext" ulx="2358" uly="530" lrx="2430" lry="788" xml:id="zone-f034-u19" />
+      <zone type="paratext" ulx="539" uly="552" lrx="608" lry="782" xml:id="zone-f034-u20" />
+      <zone type="paratext" ulx="557" uly="1307" lrx="630" lry="1387" xml:id="zone-f034-u21" />
+    </surface>
+    <surface n="f035" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177800" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f035">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177800/iiif/F1000000000000100190_0035.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2286" uly="445" lrx="2357" lry="1549" xml:id="zone-f035-u01" />
+      <zone type="body" ulx="2192" uly="445" lrx="2263" lry="1549" xml:id="zone-f035-u02" />
+      <zone type="body" ulx="2094" uly="445" lrx="2166" lry="1549" xml:id="zone-f035-u03" />
+      <zone type="body" ulx="1998" uly="413" lrx="2069" lry="1549" xml:id="zone-f035-u04" />
+      <zone type="body" ulx="1905" uly="445" lrx="1976" lry="1549" xml:id="zone-f035-u05" />
+      <zone type="body" ulx="1807" uly="445" lrx="1878" lry="1549" xml:id="zone-f035-u06" />
+      <zone type="body" ulx="1709" uly="445" lrx="1780" lry="1549" xml:id="zone-f035-u07" />
+      <zone type="body" ulx="1610" uly="445" lrx="1681" lry="1549" xml:id="zone-f035-u08" />
+      <zone type="body" ulx="1517" uly="445" lrx="1588" lry="1427" xml:id="zone-f035-u09" />
+      <zone type="paratext" ulx="2371" uly="560" lrx="2432" lry="801" xml:id="zone-f035-u10" />
+      <zone type="body" ulx="1386" uly="413" lrx="1457" lry="1549" xml:id="zone-f035-u11" />
+      <zone type="body" ulx="1288" uly="445" lrx="1359" lry="1549" xml:id="zone-f035-u12" />
+      <zone type="body" ulx="1196" uly="445" lrx="1267" lry="1549" xml:id="zone-f035-u13" />
+      <zone type="body" ulx="1098" uly="445" lrx="1169" lry="1549" xml:id="zone-f035-u14" />
+      <zone type="body" ulx="1002" uly="445" lrx="1073" lry="824" xml:id="zone-f035-u15" />
+      <zone type="body" ulx="908" uly="413" lrx="980" lry="1549" xml:id="zone-f035-u16" />
+      <zone type="body" ulx="812" uly="445" lrx="883" lry="1549" xml:id="zone-f035-u17" />
+      <zone type="body" ulx="717" uly="445" lrx="788" lry="1549" xml:id="zone-f035-u18" />
+      <zone type="body" ulx="614" uly="445" lrx="685" lry="1549" xml:id="zone-f035-u19" />
+      <zone type="paratext" ulx="548" uly="560" lrx="610" lry="801" xml:id="zone-f035-u20" />
+      <zone type="paratext" ulx="564" uly="1308" lrx="617" lry="1368" xml:id="zone-f035-u21" />
+    </surface>
+    <surface n="f036" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914177900" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f036">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914177900/iiif/F1000000000000100190_0036.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2267" uly="445" lrx="2339" lry="1549" xml:id="zone-f036-u01" />
+      <zone type="body" ulx="2173" uly="445" lrx="2244" lry="582" xml:id="zone-f036-u02" />
+      <zone type="body" ulx="2073" uly="413" lrx="2145" lry="1549" xml:id="zone-f036-u03" />
+      <zone type="body" ulx="1976" uly="445" lrx="2047" lry="1549" xml:id="zone-f036-u04" />
+      <zone type="body" ulx="1882" uly="445" lrx="1953" lry="1549" xml:id="zone-f036-u05" />
+      <zone type="body" ulx="1786" uly="445" lrx="1857" lry="1245" xml:id="zone-f036-u06" />
+      <zone type="body" ulx="1694" uly="413" lrx="1765" lry="1549" xml:id="zone-f036-u07" />
+      <zone type="body" ulx="1595" uly="445" lrx="1666" lry="1549" xml:id="zone-f036-u08" />
+      <zone type="body" ulx="1500" uly="445" lrx="1571" lry="1549" xml:id="zone-f036-u09" />
+      <zone type="paratext" ulx="2360" uly="560" lrx="2421" lry="801" xml:id="zone-f036-u10" />
+      <zone type="body" ulx="1388" uly="445" lrx="1460" lry="1549" xml:id="zone-f036-u11" />
+      <zone type="body" ulx="1299" uly="445" lrx="1370" lry="1549" xml:id="zone-f036-u12" />
+      <zone type="body" ulx="1197" uly="445" lrx="1268" lry="1549" xml:id="zone-f036-u13" />
+      <zone type="body" ulx="1100" uly="445" lrx="1171" lry="944" xml:id="zone-f036-u14" />
+      <zone type="body" ulx="1006" uly="413" lrx="1077" lry="1549" xml:id="zone-f036-u15" />
+      <zone type="body" ulx="913" uly="445" lrx="984" lry="1549" xml:id="zone-f036-u16" />
+      <zone type="body" ulx="815" uly="445" lrx="886" lry="1549" xml:id="zone-f036-u17" />
+      <zone type="body" ulx="716" uly="445" lrx="787" lry="1549" xml:id="zone-f036-u18" />
+      <zone type="body" ulx="617" uly="445" lrx="688" lry="764" xml:id="zone-f036-u19" />
+      <zone type="paratext" ulx="548" uly="560" lrx="610" lry="801" xml:id="zone-f036-u20" />
+      <zone type="paratext" ulx="564" uly="1308" lrx="617" lry="1368" xml:id="zone-f036-u21" />
+    </surface>
+    <surface n="f037" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178000" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f037">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914178000/iiif/F1000000000000100190_0037.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2270" uly="413" lrx="2341" lry="1549" xml:id="zone-f037-u01" />
+      <zone type="body" ulx="2175" uly="445" lrx="2247" lry="1549" xml:id="zone-f037-u02" />
+      <zone type="body" ulx="2082" uly="445" lrx="2153" lry="1549" xml:id="zone-f037-u03" />
+      <zone type="body" ulx="1983" uly="445" lrx="2054" lry="1549" xml:id="zone-f037-u04" />
+      <zone type="body" ulx="1888" uly="445" lrx="1959" lry="1549" xml:id="zone-f037-u05" />
+      <zone type="body" ulx="1794" uly="445" lrx="1866" lry="1549" xml:id="zone-f037-u06" />
+      <zone type="body" ulx="1694" uly="445" lrx="1765" lry="1549" xml:id="zone-f037-u07" />
+      <zone type="body" ulx="1598" uly="445" lrx="1669" lry="1549" xml:id="zone-f037-u08" />
+      <zone type="body" ulx="1501" uly="445" lrx="1573" lry="1549" xml:id="zone-f037-u09" />
+      <zone type="paratext" ulx="2364" uly="560" lrx="2425" lry="801" xml:id="zone-f037-u10" />
+      <zone type="body" ulx="1394" uly="445" lrx="1465" lry="702" xml:id="zone-f037-u11" />
+      <zone type="body" ulx="1299" uly="413" lrx="1370" lry="1549" xml:id="zone-f037-u12" />
+      <zone type="body" ulx="1207" uly="445" lrx="1278" lry="1549" xml:id="zone-f037-u13" />
+      <zone type="body" ulx="1112" uly="445" lrx="1183" lry="1549" xml:id="zone-f037-u14" />
+      <zone type="body" ulx="1017" uly="445" lrx="1088" lry="1549" xml:id="zone-f037-u15" />
+      <zone type="body" ulx="922" uly="445" lrx="993" lry="1549" xml:id="zone-f037-u16" />
+      <zone type="body" ulx="823" uly="445" lrx="894" lry="1487" xml:id="zone-f037-u17" />
+      <zone type="body" ulx="727" uly="413" lrx="798" lry="1549" xml:id="zone-f037-u18" />
+      <zone type="body" ulx="629" uly="445" lrx="700" lry="1549" xml:id="zone-f037-u19" />
+      <zone type="paratext" ulx="548" uly="560" lrx="610" lry="801" xml:id="zone-f037-u20" />
+      <zone type="paratext" ulx="564" uly="1308" lrx="617" lry="1368" xml:id="zone-f037-u21" />
+    </surface>
+    <surface n="f038" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178100" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f038">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914178100/iiif/F1000000000000100190_0038.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2286" uly="445" lrx="2357" lry="1549" xml:id="zone-f038-u01" />
+      <zone type="body" ulx="2192" uly="445" lrx="2263" lry="1549" xml:id="zone-f038-u02" />
+      <zone type="body" ulx="2097" uly="445" lrx="2168" lry="1549" xml:id="zone-f038-u03" />
+      <zone type="body" ulx="2001" uly="445" lrx="2072" lry="1549" xml:id="zone-f038-u04" />
+      <zone type="body" ulx="1905" uly="445" lrx="1976" lry="1549" xml:id="zone-f038-u05" />
+      <zone type="body" ulx="1811" uly="445" lrx="1882" lry="522" xml:id="zone-f038-u06" />
+      <zone type="body" ulx="1712" uly="413" lrx="1783" lry="1549" xml:id="zone-f038-u07" />
+      <zone type="body" ulx="1620" uly="445" lrx="1691" lry="1549" xml:id="zone-f038-u08" />
+      <zone type="body" ulx="1524" uly="445" lrx="1595" lry="1549" xml:id="zone-f038-u09" />
+      <zone type="paratext" ulx="2371" uly="560" lrx="2432" lry="801" xml:id="zone-f038-u10" />
+      <zone type="body" ulx="1387" uly="445" lrx="1458" lry="1549" xml:id="zone-f038-u11" />
+      <zone type="body" ulx="1291" uly="445" lrx="1362" lry="1547" xml:id="zone-f038-u12" />
+      <zone type="note" ulx="1331" uly="1369" lrx="1362" lry="1427" xml:id="zone-f038-u13" />
+      <zone type="note" ulx="1288" uly="1362" lrx="1331" lry="1418" xml:id="zone-f038-u14" />
+      <zone type="body" ulx="1197" uly="445" lrx="1268" lry="1366" xml:id="zone-f038-u15" />
+      <zone type="note" ulx="1238" uly="671" lrx="1287" lry="782" xml:id="zone-f038-u16" />
+      <zone type="note" ulx="1187" uly="676" lrx="1236" lry="724" xml:id="zone-f038-u17" />
+      <zone type="note" ulx="1239" uly="914" lrx="1288" lry="978" xml:id="zone-f038-u18" />
+      <zone type="note" ulx="1192" uly="914" lrx="1238" lry="973" xml:id="zone-f038-u19" />
+      <zone type="note" ulx="1238" uly="1083" lrx="1285" lry="1143" xml:id="zone-f038-u20" />
+      <zone type="note" ulx="1193" uly="1080" lrx="1235" lry="1138" xml:id="zone-f038-u21" />
+      <zone type="body" ulx="1100" uly="445" lrx="1171" lry="1125" xml:id="zone-f038-u22" />
+      <zone type="body" ulx="1006" uly="413" lrx="1077" lry="1549" xml:id="zone-f038-u23" />
+      <zone type="body" ulx="910" uly="445" lrx="981" lry="1549" xml:id="zone-f038-u24" />
+      <zone type="body" ulx="815" uly="445" lrx="886" lry="1549" xml:id="zone-f038-u25" />
+      <zone type="body" ulx="721" uly="445" lrx="793" lry="1549" xml:id="zone-f038-u26" />
+      <zone type="body" ulx="621" uly="445" lrx="692" lry="1549" xml:id="zone-f038-u27" />
+      <zone type="paratext" ulx="550" uly="560" lrx="611" lry="801" xml:id="zone-f038-u28" />
+      <zone type="paratext" ulx="565" uly="1308" lrx="618" lry="1368" xml:id="zone-f038-u29" />
+    </surface>
+    <surface n="f039" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178200" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f039">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914178200/iiif/F1000000000000100190_0039.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2270" uly="445" lrx="2341" lry="1004" xml:id="zone-f039-u01" />
+      <zone type="body" ulx="2173" uly="413" lrx="2244" lry="1549" xml:id="zone-f039-u02" />
+      <zone type="body" ulx="2076" uly="445" lrx="2147" lry="1549" xml:id="zone-f039-u03" />
+      <zone type="body" ulx="1980" uly="445" lrx="2051" lry="1549" xml:id="zone-f039-u04" />
+      <zone type="body" ulx="1885" uly="445" lrx="1956" lry="1549" xml:id="zone-f039-u05" />
+      <zone type="body" ulx="1789" uly="445" lrx="1860" lry="1547" xml:id="zone-f039-u06" />
+      <zone type="body" ulx="1693" uly="413" lrx="1764" lry="1549" xml:id="zone-f039-u07" />
+      <zone type="body" ulx="1596" uly="445" lrx="1667" lry="1549" xml:id="zone-f039-u08" />
+      <zone type="body" ulx="1503" uly="445" lrx="1574" lry="1549" xml:id="zone-f039-u09" />
+      <zone type="paratext" ulx="2364" uly="560" lrx="2425" lry="801" xml:id="zone-f039-u10" />
+      <zone type="body" ulx="1387" uly="445" lrx="1458" lry="1549" xml:id="zone-f039-u11" />
+      <zone type="body" ulx="1289" uly="445" lrx="1360" lry="1549" xml:id="zone-f039-u12" />
+      <zone type="body" ulx="1196" uly="445" lrx="1267" lry="1549" xml:id="zone-f039-u13" />
+      <zone type="body" ulx="1100" uly="445" lrx="1171" lry="1549" xml:id="zone-f039-u14" />
+      <zone type="body" ulx="1005" uly="413" lrx="1076" lry="1549" xml:id="zone-f039-u15" />
+      <zone type="body" ulx="907" uly="445" lrx="978" lry="1549" xml:id="zone-f039-u16" />
+      <zone type="body" ulx="812" uly="445" lrx="883" lry="1549" xml:id="zone-f039-u17" />
+      <zone type="body" ulx="716" uly="445" lrx="787" lry="1549" xml:id="zone-f039-u18" />
+      <zone type="body" ulx="620" uly="445" lrx="691" lry="1549" xml:id="zone-f039-u19" />
+      <zone type="paratext" ulx="550" uly="560" lrx="611" lry="801" xml:id="zone-f039-u20" />
+      <zone type="paratext" ulx="565" uly="1308" lrx="618" lry="1368" xml:id="zone-f039-u21" />
+    </surface>
+    <surface n="f040" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178300" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f040">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914178300/iiif/F1000000000000100190_0040.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2267" uly="445" lrx="2339" lry="1549" xml:id="zone-f040-u01" />
+      <zone type="body" ulx="2173" uly="445" lrx="2244" lry="1549" xml:id="zone-f040-u02" />
+      <zone type="body" ulx="2079" uly="445" lrx="2150" lry="824" xml:id="zone-f040-u03" />
+      <zone type="body" ulx="1981" uly="413" lrx="2053" lry="1549" xml:id="zone-f040-u04" />
+      <zone type="body" ulx="1884" uly="445" lrx="1955" lry="1549" xml:id="zone-f040-u05" />
+      <zone type="body" ulx="1789" uly="445" lrx="1860" lry="1549" xml:id="zone-f040-u06" />
+      <zone type="body" ulx="1695" uly="445" lrx="1767" lry="1549" xml:id="zone-f040-u07" />
+      <zone type="body" ulx="1600" uly="445" lrx="1672" lry="1549" xml:id="zone-f040-u08" />
+      <zone type="body" ulx="1501" uly="445" lrx="1573" lry="1549" xml:id="zone-f040-u09" />
+      <zone type="paratext" ulx="2364" uly="560" lrx="2425" lry="801" xml:id="zone-f040-u10" />
+      <zone type="body" ulx="1387" uly="445" lrx="1458" lry="1549" xml:id="zone-f040-u11" />
+      <zone type="body" ulx="1291" uly="445" lrx="1362" lry="582" xml:id="zone-f040-u12" />
+      <zone type="body" ulx="1197" uly="413" lrx="1268" lry="1549" xml:id="zone-f040-u13" />
+      <zone type="body" ulx="1100" uly="445" lrx="1171" lry="1549" xml:id="zone-f040-u14" />
+      <zone type="body" ulx="1005" uly="445" lrx="1076" lry="1549" xml:id="zone-f040-u15" />
+      <zone type="body" ulx="910" uly="445" lrx="981" lry="1549" xml:id="zone-f040-u16" />
+      <zone type="body" ulx="812" uly="445" lrx="883" lry="1549" xml:id="zone-f040-u17" />
+      <zone type="body" ulx="719" uly="445" lrx="790" lry="1549" xml:id="zone-f040-u18" />
+      <zone type="body" ulx="622" uly="445" lrx="693" lry="522" xml:id="zone-f040-u19" />
+      <zone type="paratext" ulx="547" uly="560" lrx="608" lry="801" xml:id="zone-f040-u20" />
+      <zone type="paratext" ulx="562" uly="1308" lrx="615" lry="1368" xml:id="zone-f040-u21" />
+    </surface>
+    <surface n="f041" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178400" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f041">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914178400/iiif/F1000000000000100190_0041.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2267" uly="413" lrx="2339" lry="1549" xml:id="zone-f041-u01" />
+      <zone type="body" ulx="2171" uly="445" lrx="2242" lry="1549" xml:id="zone-f041-u02" />
+      <zone type="body" ulx="2078" uly="445" lrx="2149" lry="1549" xml:id="zone-f041-u03" />
+      <zone type="body" ulx="1981" uly="445" lrx="2053" lry="1549" xml:id="zone-f041-u04" />
+      <zone type="body" ulx="1884" uly="445" lrx="1955" lry="1549" xml:id="zone-f041-u05" />
+      <zone type="body" ulx="1786" uly="445" lrx="1857" lry="1549" xml:id="zone-f041-u06" />
+      <zone type="body" ulx="1691" uly="445" lrx="1762" lry="1549" xml:id="zone-f041-u07" />
+      <zone type="body" ulx="1595" uly="445" lrx="1666" lry="1549" xml:id="zone-f041-u08" />
+      <zone type="body" ulx="1500" uly="445" lrx="1571" lry="1549" xml:id="zone-f041-u09" />
+      <zone type="paratext" ulx="2364" uly="560" lrx="2425" lry="801" xml:id="zone-f041-u10" />
+      <zone type="body" ulx="1387" uly="445" lrx="1458" lry="1549" xml:id="zone-f041-u11" />
+      <zone type="body" ulx="1288" uly="445" lrx="1359" lry="1004" xml:id="zone-f041-u12" />
+      <zone type="body" ulx="1197" uly="413" lrx="1268" lry="1549" xml:id="zone-f041-u13" />
+      <zone type="body" ulx="1102" uly="445" lrx="1173" lry="1549" xml:id="zone-f041-u14" />
+      <zone type="body" ulx="1007" uly="445" lrx="1079" lry="1549" xml:id="zone-f041-u15" />
+      <zone type="body" ulx="910" uly="445" lrx="981" lry="1549" xml:id="zone-f041-u16" />
+      <zone type="body" ulx="813" uly="445" lrx="885" lry="1549" xml:id="zone-f041-u17" />
+      <zone type="body" ulx="717" uly="445" lrx="788" lry="1549" xml:id="zone-f041-u18" />
+      <zone type="body" ulx="621" uly="445" lrx="692" lry="1549" xml:id="zone-f041-u19" />
+      <zone type="paratext" ulx="547" uly="560" lrx="608" lry="801" xml:id="zone-f041-u20" />
+      <zone type="paratext" ulx="562" uly="1308" lrx="615" lry="1368" xml:id="zone-f041-u21" />
+    </surface>
+    <surface n="f042" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178500" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f042">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914178500/iiif/F1000000000000100190_0042.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+      <zone type="body" ulx="2270" uly="445" lrx="2341" lry="1549" xml:id="zone-f042-u01" />
+      <zone type="body" ulx="2180" uly="445" lrx="2251" lry="1549" xml:id="zone-f042-u02" />
+      <zone type="body" ulx="2083" uly="445" lrx="2154" lry="1549" xml:id="zone-f042-u03" />
+      <zone type="body" ulx="1988" uly="445" lrx="2060" lry="1305" xml:id="zone-f042-u04" />
+      <zone type="body" ulx="1892" uly="445" lrx="1963" lry="1549" xml:id="zone-f042-u05" />
+      <zone type="body" ulx="1793" uly="445" lrx="1864" lry="1549" xml:id="zone-f042-u06" />
+      <zone type="body" ulx="1697" uly="445" lrx="1768" lry="1549" xml:id="zone-f042-u07" />
+      <zone type="body" ulx="1603" uly="445" lrx="1674" lry="1549" xml:id="zone-f042-u08" />
+      <zone type="body" ulx="1508" uly="445" lrx="1580" lry="1549" xml:id="zone-f042-u09" />
+      <zone type="paratext" ulx="2358" uly="560" lrx="2420" lry="801" xml:id="zone-f042-u10" />
+    </surface>
+    <surface n="f043" corresp="https://www.digital.archives.go.jp/api/iiif/1077787/canvas/C103914178600" ulx="0" uly="0" lrx="3000" lry="1795" xml:id="surface-f043">
+      <graphic url="https://www.digital.archives.go.jp/api/content/item/da12/C103914178600/iiif/F1000000000000100190_0043.jp2/full/max/0/native.jpg" width="3000px" height="1795px" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="image" n="f001">
+        <pb facs="#surface-f001" n="f001" />
+        <ab type="paratext" facs="#zone-f001-u01" xml:id="f001-u01">内閣文庫</ab>
+        <ab type="paratext" facs="#zone-f001-u02" xml:id="f001-u02">番號漢12579</ab>
+        <ab type="paratext" facs="#zone-f001-u03" xml:id="f001-u03">冊數1（1）</ab>
+        <ab type="paratext" facs="#zone-f001-u04" xml:id="f001-u04">函號303 108</ab>
+      </div>
+      <div type="image" n="f002">
+        <pb facs="#surface-f002" n="f002" />
+        <ab type="title" facs="#zone-f002-u01" xml:id="f002-u01">醫案</ab>
+        <ab type="title" facs="#zone-f002-u02" xml:id="f002-u02">序</ab>
+        <ab type="body" facs="#zone-f002-u03" xml:id="f002-u03">余於醫本非專家但先世習此已數傳亦籍之南來</ab>
+        <ab type="body" facs="#zone-f002-u04" xml:id="f002-u04">徐氏也　先府君繼之自諸生以至服官暇卽手披</ab>
+        <ab type="body" facs="#zone-f002-u05" xml:id="f002-u05">岐黃諸書活人亦甚衆余自弱冠患咯血　府君投</ab>
+        <ab type="body" facs="#zone-f002-u06" xml:id="f002-u06">劑輒應踰壯後　府君棄世舊疾復作延他手無一</ab>
+        <ab type="body" facs="#zone-f002-u07" xml:id="f002-u07">驗者遂取先世羣書與　府君所丹鉛者伏而盡讀</ab>
+        <ab type="body" facs="#zone-f002-u08" xml:id="f002-u08">之然後知數世之淵源有自而世之以術售者多不</ab>
+        <ab type="body" facs="#zone-f002-u09" xml:id="f002-u09">如法夭枉可勝道哉用是苦心究習間與名流辨難</ab>
+        <ab type="body" facs="#zone-f002-u10" xml:id="f002-u10">冀以自衛其生上奉老母旁治家人不至為庸手所</ab>
+        <ab type="paratext" facs="#zone-f002-u11" xml:id="f002-u11">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f002-u12" xml:id="f002-u12">自序</ab>
+        <ab type="paratext" facs="#zone-f002-u13" xml:id="f002-u13">一</ab>
+        <ab type="seal" facs="#zone-f002-u14" xml:id="f002-u14">大學東校典籍局之印</ab>
+        <ab type="seal" facs="#zone-f002-u15" xml:id="f002-u15"><unclear>□</unclear></ab>
+        <ab type="seal" facs="#zone-f002-u16" xml:id="f002-u16"><unclear>□</unclear></ab>
+        <ab type="seal" facs="#zone-f002-u17" xml:id="f002-u17"><unclear>□</unclear></ab>
+      </div>
+      <div type="image" n="f003">
+        <pb facs="#surface-f003" n="f003" />
+        <ab type="body" facs="#zone-f003-u01" xml:id="f003-u01">誤則幸甚矣久之形迹不能自掩在家在外每為相</ab>
+        <ab type="body" facs="#zone-f003-u02" xml:id="f003-u02">知者以疑難見招偶爾立案存之故案中多接他人</ab>
+        <ab type="body" facs="#zone-f003-u03" xml:id="f003-u03">手者然亦不過如周禮之疾醫治病愈與不愈並有</ab>
+        <ab type="body" facs="#zone-f003-u04" xml:id="f003-u04">案記而已矣無足傳也同志輩見之謂其中不師心</ab>
+        <ab type="body" facs="#zone-f003-u05" xml:id="f003-u05">不泥古處可為臨證者法勸余梓之因識其崖略於</ab>
+        <ab type="body" facs="#zone-f003-u06" xml:id="f003-u06">左時乾隆癸丑臘月朔旦寸耕居士林玉友渠清譔</ab>
+        <ab type="paratext" facs="#zone-f003-u07" xml:id="f003-u07">醫案全卷</ab>
+        <ab type="title" facs="#zone-f003-u08" xml:id="f003-u08">寸耕堂醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f003-u09" xml:id="f003-u09">侯官林玉友渠清著</ab>
+        <ab type="body" facs="#zone-f003-u10" xml:id="f003-u10">一人患中寒證不省人事其家用針始能開目牙關</ab>
+        <ab type="body" facs="#zone-f003-u11" xml:id="f003-u11">緊閉神思如明若昧余用附子吳茱萸南星石蒲</ab>
+        <ab type="body" facs="#zone-f003-u12" xml:id="f003-u12">乾薑陳皮半夏苓草當歸等藥投之一劑而愈</ab>
+        <ab type="body" facs="#zone-f003-u13" xml:id="f003-u13">一女十四五歲正月間午後發狂幾不識人診之脈</ab>
+        <ab type="body" facs="#zone-f003-u14" xml:id="f003-u14">沉弱視其舌則紅知其痰血積兼用平胃散加膽</ab>
+        <ab type="body" facs="#zone-f003-u15" xml:id="f003-u15">星神麯山梔香附投之一劑而愈</ab>
+        <ab type="body" facs="#zone-f003-u16" xml:id="f003-u16">一婦患泄胸膈飽脹四肢無力診之右手寸尺洪急</ab>
+        <ab type="paratext" facs="#zone-f003-u17" xml:id="f003-u17">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f003-u18" xml:id="f003-u18">一</ab>
+      </div>
+      <div type="image" n="f004">
+        <pb facs="#surface-f004" n="f004" />
+        <ab type="body" facs="#zone-f004-u01" xml:id="f004-u01">知其為痰而兼熱也用桔紅半夏枳殼黃芩生地</ab>
+        <ab type="body" facs="#zone-f004-u02" xml:id="f004-u02">黃柏蒼术陳皮歸芍白术一劑而痰如湧泄卽止</ab>
+        <ab type="body" facs="#zone-f004-u03" xml:id="f004-u03">三劑全愈</ab>
+        <ab type="body" facs="#zone-f004-u04" xml:id="f004-u04">一人咯血譫語衆認作時疫余診之六脈皆沉而洪</ab>
+        <ab type="body" facs="#zone-f004-u05" xml:id="f004-u05">幸左尺稍軟知其眞陰未絕也急以生地枸杞歸</ab>
+        <ab type="body" facs="#zone-f004-u06" xml:id="f004-u06">芍麥冬炒芩桑白皮丹皮投之一劑而愈</ab>
+        <ab type="body" facs="#zone-f004-u07" xml:id="f004-u07">一婦患病發熱人用桂附愈甚又易手治之復以為</ab>
+        <ab type="body" facs="#zone-f004-u08" xml:id="f004-u08">虛欲用參耆補之余診之六脈小而<unclear>□</unclear>心脈尤甚</ab>
+        <ab type="body" facs="#zone-f004-u09" xml:id="f004-u09">用加味逍遙散而痊</ab>
+        <ab type="paratext" facs="#zone-f004-u10" xml:id="f004-u10">醫案全卷</ab>
+        <ab type="note" facs="#zone-f004-u11" xml:id="f004-u11"><unclear>□</unclear></ab>
+        <ab type="body" facs="#zone-f004-u12" xml:id="f004-u12">一兒方週歲六月間患病大便數日不下腹痛推按</ab>
+        <ab type="body" facs="#zone-f004-u13" xml:id="f004-u13">人作驚風食積治之危在旦夕余診之六脈盡伏</ab>
+        <ab type="body" facs="#zone-f004-u14" xml:id="f004-u14">胃脈獨大此痞滿燥實堅全見證也以小承氣湯</ab>
+        <ab type="body" facs="#zone-f004-u15" xml:id="f004-u15">下之兩劑全愈</ab>
+        <ab type="body" facs="#zone-f004-u16" xml:id="f004-u16">一人患病失氣者數次余診之心脈獨急肝脈弦長</ab>
+        <ab type="body" facs="#zone-f004-u17" xml:id="f004-u17">且耳聾蓋少陽證也衆以竹葉石膏湯與之昏憒</ab>
+        <ab type="body" facs="#zone-f004-u18" xml:id="f004-u18">益甚余以逍遙散加生地川連與之兩劑而痊</ab>
+        <ab type="body" facs="#zone-f004-u19" xml:id="f004-u19">一婦孀居患病牙關緊閉痰涎壅盛診之六脈皆虛</ab>
+        <ab type="body" facs="#zone-f004-u20" xml:id="f004-u20">用八珍湯加柴胡竹瀝薑汁一劑而甦設以痰涎</ab>
+        <ab type="paratext" facs="#zone-f004-u21" xml:id="f004-u21">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f004-u22" xml:id="f004-u22">二</ab>
+      </div>
+      <div type="image" n="f005">
+        <pb facs="#surface-f005" n="f005" />
+        <ab type="body" facs="#zone-f005-u01" xml:id="f005-u01">上壅不敢投人參補劑殆矣</ab>
+        <ab type="body" facs="#zone-f005-u02" xml:id="f005-u02">一人病腰痛頭痛此太陽經傷寒也診之脈浮緊而</ab>
+        <ab type="body" facs="#zone-f005-u03" xml:id="f005-u03">數知將解也戒以勿藥夜半當汗出自解果如言</ab>
+        <ab type="body" facs="#zone-f005-u04" xml:id="f005-u04">而驗翌日再診右尺脈獨急知其熱留下焦也問</ab>
+        <ab type="body" facs="#zone-f005-u05" xml:id="f005-u05">小便果不利遂以五苓散投之一劑而痊</ab>
+        <ab type="body" facs="#zone-f005-u06" xml:id="f005-u06">一人患胸滿耳聾診之兩尺洪數意其服補藥太過</ab>
+        <ab type="body" facs="#zone-f005-u07" xml:id="f005-u07">也問之則云服六味丸去丹澤加虎骨鹿茸人參</ab>
+        <ab type="body" facs="#zone-f005-u08" xml:id="f005-u08">等藥余曰下焦如瀆天地之有四瀆所以節宣其</ab>
+        <ab type="body" facs="#zone-f005-u09" xml:id="f005-u09">氣今補而不瀉氣無以宣壅而上行固其所也遂</ab>
+        <ab type="paratext" facs="#zone-f005-u10" xml:id="f005-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f005-u11" xml:id="f005-u11">用黃柏以瀉相火香附神麯以快中氣加氣血藥</ab>
+        <ab type="body" facs="#zone-f005-u12" xml:id="f005-u12">佐之立愈</ab>
+        <ab type="body" facs="#zone-f005-u13" xml:id="f005-u13">一人患泄瀉用桂附等劑不應用牛膝車前分利小</ab>
+        <ab type="body" facs="#zone-f005-u14" xml:id="f005-u14">便泄愈甚又用人參五錢而泄不止完穀不化時</ab>
+        <ab type="body" facs="#zone-f005-u15" xml:id="f005-u15">方陰雨連旬余診之脈細而緩陰寒所襲人病泄</ab>
+        <ab type="body" facs="#zone-f005-u16" xml:id="f005-u16">瀉乃天之所為也以升陽除濕湯治之未終劑而</ab>
+        <ab type="body" facs="#zone-f005-u17" xml:id="f005-u17">痊再以胃風湯加防風全愈</ab>
+        <ab type="body" facs="#zone-f005-u18" xml:id="f005-u18">一人患脾疼服衆藥而大小便不通已五日矣余診</ab>
+        <ab type="body" facs="#zone-f005-u19" xml:id="f005-u19">之脈沉而弱有欲用大黃下之者余曰仲景云手</ab>
+        <ab type="paratext" facs="#zone-f005-u20" xml:id="f005-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f005-u21" xml:id="f005-u21">三</ab>
+      </div>
+      <div type="image" n="f006">
+        <pb facs="#surface-f006" n="f006" />
+        <ab type="body" facs="#zone-f006-u01" xml:id="f006-u01">不可按為實宜下之又云脈堅實者厚朴大黃湯</ab>
+        <ab type="body" facs="#zone-f006-u02" xml:id="f006-u02">主之今病人雖手不可按其如脈不堅實何若下</ab>
+        <ab type="body" facs="#zone-f006-u03" xml:id="f006-u03">之恐乘虛入府也丹溪云脾疼而大小便不通者</ab>
+        <ab type="body" facs="#zone-f006-u04" xml:id="f006-u04">痰滯中焦氣結下焦宜升其氣氣化則能出矣遂</ab>
+        <ab type="body" facs="#zone-f006-u05" xml:id="f006-u05">用二陳加羌活防風五靈脂沒藥山梔人參蘆濃</ab>
+        <ab type="body" facs="#zone-f006-u06" xml:id="f006-u06">煎入韭汁酒投之吐痰碗許是夜大小便通而愈</ab>
+        <ab type="body" facs="#zone-f006-u07" xml:id="f006-u07">一婦產後患腹脹用桂附等藥十餘劑不應氣如喘</ab>
+        <ab type="body" facs="#zone-f006-u08" xml:id="f006-u08">腹脹如石余診之脈細而附骨此血瘕也華陀篇</ab>
+        <ab type="body" facs="#zone-f006-u09" xml:id="f006-u09">云無寒熱<unclear>□</unclear>喘氣不足以息者實可下之以千金</ab>
+        <ab type="paratext" facs="#zone-f006-u10" xml:id="f006-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f006-u11" xml:id="f006-u11">消石丸三十丸與之人參三分服之下兩三次腹</ab>
+        <ab type="body" facs="#zone-f006-u12" xml:id="f006-u12">少減次日復以二十丸與之再下而腹減半更有</ab>
+        <ab type="body" facs="#zone-f006-u13" xml:id="f006-u13">如盤大者一塊復求藥余曰止服一月後當盡平</ab>
+        <ab type="body" facs="#zone-f006-u14" xml:id="f006-u14">彼不信余曰經云大聚大積其可攻也衰其大半</ab>
+        <ab type="body" facs="#zone-f006-u15" xml:id="f006-u15">而止今宜清粥淡味養息血氣調瘀血自下矣後</ab>
+        <ab type="body" facs="#zone-f006-u16" xml:id="f006-u16">果如言而消</ab>
+        <ab type="body" facs="#zone-f006-u17" xml:id="f006-u17">一人患咳嗽喀血喉間有腥氣則血至診之脈小而</ab>
+        <ab type="body" facs="#zone-f006-u18" xml:id="f006-u18">微結曰此羅謙甫所云思慮傷心厚味傷肺者也</ab>
+        <ab type="body" facs="#zone-f006-u19" xml:id="f006-u19">心主臭入肺為腥臭以羅氏加減瀉白散投之立</ab>
+        <ab type="paratext" facs="#zone-f006-u20" xml:id="f006-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f006-u21" xml:id="f006-u21">四</ab>
+      </div>
+      <div type="image" n="f007">
+        <pb facs="#surface-f007" n="f007" />
+        <ab type="body" facs="#zone-f007-u01" xml:id="f007-u01">愈</ab>
+        <ab type="body" facs="#zone-f007-u02" xml:id="f007-u02">一人患洞泄自冬至春二月不止舉步不堪兩脇作</ab>
+        <ab type="body" facs="#zone-f007-u03" xml:id="f007-u03">痛人作虛治之愈甚余診之右關獨大此食鬱之</ab>
+        <ab type="body" facs="#zone-f007-u04" xml:id="f007-u04">證兩脇痛乃肝氣不得升耳用四物合平胃散投</ab>
+        <ab type="body" facs="#zone-f007-u05" xml:id="f007-u05">之少愈次日復用前藥加青皮枳實桃仁大便下</ab>
+        <ab type="body" facs="#zone-f007-u06" xml:id="f007-u06">黑血三四塊卽痊或曰洞泄而疲倦何以用前藥</ab>
+        <ab type="body" facs="#zone-f007-u07" xml:id="f007-u07">余曰非泄也乃旁流之水耳羸而有實狀故用前</ab>
+        <ab type="body" facs="#zone-f007-u08" xml:id="f007-u08">藥以去之</ab>
+        <ab type="body" facs="#zone-f007-u09" xml:id="f007-u09">一婦患病投劑不應且加重肌瘦如柴手足不能舉</ab>
+        <ab type="paratext" facs="#zone-f007-u10" xml:id="f007-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f007-u11" xml:id="f007-u11">動飲食不進已瀕於危矣余診之六脈燥急知其</ab>
+        <ab type="body" facs="#zone-f007-u12" xml:id="f007-u12">誤服燥藥太過陰分大虧也以生脈飲人參換沙</ab>
+        <ab type="body" facs="#zone-f007-u13" xml:id="f007-u13">參合小營煎加生地大劑與之是夜手足便能舉</ab>
+        <ab type="body" facs="#zone-f007-u14" xml:id="f007-u14">動三劑全愈</ab>
+        <ab type="body" facs="#zone-f007-u15" xml:id="f007-u15">一人患半身不遂口眼喎斜用六君子湯一日兩服</ab>
+        <ab type="body" facs="#zone-f007-u16" xml:id="f007-u16">晚加驅風藥不應余診之六脈沉而鼓指余曰口</ab>
+        <ab type="body" facs="#zone-f007-u17" xml:id="f007-u17">眼喎斜古人用秦艽升麻湯蓋胃脈環口夾唇故</ab>
+        <ab type="body" facs="#zone-f007-u18" xml:id="f007-u18">也秦艽治口噤升麻清胃經此一定法也今脈鼓</ab>
+        <ab type="body" facs="#zone-f007-u19" xml:id="f007-u19">指復用六君重實其實禍不旋踵矣宜用前湯加</ab>
+        <ab type="paratext" facs="#zone-f007-u20" xml:id="f007-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f007-u21" xml:id="f007-u21">五</ab>
+      </div>
+      <div type="image" n="f008">
+        <pb facs="#surface-f008" n="f008" />
+        <ab type="body" facs="#zone-f008-u01" xml:id="f008-u01">枳實一錢以去積痰一劑而口眼正卽能舉動戒</ab>
+        <ab type="body" facs="#zone-f008-u02" xml:id="f008-u02">以後當素食其人至夏間不能禁口前證復作余</ab>
+        <ab type="body" facs="#zone-f008-u03" xml:id="f008-u03">用石膏牛膝黃芩片子薑黃生地防己當歸酒芍</ab>
+        <ab type="body" facs="#zone-f008-u04" xml:id="f008-u04">神麯鈎藤加竹瀝薑汁煎服吐出頑痰四五碗半</ab>
+        <ab type="body" facs="#zone-f008-u05" xml:id="f008-u05">身始能動履再用四物加黃芩桑白皮地骨皮神</ab>
+        <ab type="body" facs="#zone-f008-u06" xml:id="f008-u06">麯鈎藤竹瀝薑汁兩月餘神氣煩倦知其痰少而</ab>
+        <ab type="body" facs="#zone-f008-u07" xml:id="f008-u07">氣虛也用六君加歸芍鈎藤神麯四五服而神旺</ab>
+        <ab type="body" facs="#zone-f008-u08" xml:id="f008-u08">步履如常</ab>
+        <ab type="body" facs="#zone-f008-u09" xml:id="f008-u09">一婦病連旬時昏憒年已七十矣人用十全大補理</ab>
+        <ab type="paratext" facs="#zone-f008-u10" xml:id="f008-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f008-u11" xml:id="f008-u11">中等劑余診之兩寸皆小而急尺脈全無服前藥</ab>
+        <ab type="body" facs="#zone-f008-u12" xml:id="f008-u12">而尺脈全無非虛也痰涌於上耳用四物湯去芍</ab>
+        <ab type="body" facs="#zone-f008-u13" xml:id="f008-u13">加生草丹皮瓜蔞桑白一劑而神思頓清六脈大</ab>
+        <ab type="body" facs="#zone-f008-u14" xml:id="f008-u14">再用芩柏合前劑投之全愈</ab>
+        <ab type="body" facs="#zone-f008-u15" xml:id="f008-u15">一人盛夏中風發痙人用薑桂等劑午時發昏口噤</ab>
+        <ab type="body" facs="#zone-f008-u16" xml:id="f008-u16">自汗如雨余診之六脈洪緩此柔痙也自汗不惡</ab>
+        <ab type="body" facs="#zone-f008-u17" xml:id="f008-u17">風丹溪云此證多由內虛得之用八珍加丹皮防</ab>
+        <ab type="body" facs="#zone-f008-u18" xml:id="f008-u18">風鈎藤山梔竹瀝薑汁人參投之二劑全愈</ab>
+        <ab type="body" facs="#zone-f008-u19" xml:id="f008-u19">一人患唾血服衆藥益甚膿血滿地余診之肺脈洪</ab>
+        <ab type="paratext" facs="#zone-f008-u20" xml:id="f008-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f008-u21" xml:id="f008-u21">六</ab>
+      </div>
+      <div type="image" n="f009">
+        <pb facs="#surface-f009" n="f009" />
+        <ab type="body" facs="#zone-f009-u01" xml:id="f009-u01">數此肺癰也以血治之差矣用桔梗湯四五劑方</ab>
+        <ab type="body" facs="#zone-f009-u02" xml:id="f009-u02">愈後因觸怒脈歇至舉家驚惶余曰陽盛則促無</ab>
+        <ab type="body" facs="#zone-f009-u03" xml:id="f009-u03">傷也以黃連解毒湯投之夜咳益甚余脈之前五</ab>
+        <ab type="body" facs="#zone-f009-u04" xml:id="f009-u04">至一歇今則十五動一止復用前藥次日吐出紫</ab>
+        <ab type="body" facs="#zone-f009-u05" xml:id="f009-u05">血十餘塊而脈如初再用平肺散而痊繼用六味</ab>
+        <ab type="body" facs="#zone-f009-u06" xml:id="f009-u06">丸而前證不作經云肺脈不時數則生惡瘡也</ab>
+        <ab type="body" facs="#zone-f009-u07" xml:id="f009-u07">一人患病自知醫以出外方回用二陳桂附等劑不</ab>
+        <ab type="body" facs="#zone-f009-u08" xml:id="f009-u08">應延他手用藥雷同病益甚水飲不入口痰涎湧</ab>
+        <ab type="body" facs="#zone-f009-u09" xml:id="f009-u09">出譫語昏憒氣息奄奄瀕於死矣余診之六脈沉</ab>
+        <ab type="paratext" facs="#zone-f009-u10" xml:id="f009-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f009-u11" xml:id="f009-u11">微非風寒等證也乃上氣不足耳經云上氣不足</ab>
+        <ab type="body" facs="#zone-f009-u12" xml:id="f009-u12">推而揚之用八珍加麥冬五味柴胡升麻一劑而</ab>
+        <ab type="body" facs="#zone-f009-u13" xml:id="f009-u13">食進三<unclear>□</unclear>全愈</ab>
+        <ab type="body" facs="#zone-f009-u14" xml:id="f009-u14">一人夏患病午後發熱至晚方止余曰晝則發熱夜</ab>
+        <ab type="body" facs="#zone-f009-u15" xml:id="f009-u15">則安靜是陽氣自旺於陽分晝則安靜夜則發熱</ab>
+        <ab type="body" facs="#zone-f009-u16" xml:id="f009-u16">是陽氣下陷入陰中也雜病當從熱入血室論東</ab>
+        <ab type="body" facs="#zone-f009-u17" xml:id="f009-u17">垣以瀉血湯主之<unclear>□</unclear>投此劑而<unclear>□</unclear>不敢服衆以扶</ab>
+        <ab type="body" facs="#zone-f009-u18" xml:id="f009-u18">脾人參之類投之胸中作痛而不能食余曰血室</ab>
+        <ab type="body" facs="#zone-f009-u19" xml:id="f009-u19">在乳下三寸熱留於此積久妨胃必至之勢也於</ab>
+        <ab type="paratext" facs="#zone-f009-u20" xml:id="f009-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f009-u21" xml:id="f009-u21">七</ab>
+      </div>
+      <div type="image" n="f010">
+        <pb facs="#surface-f010" n="f010" />
+        <ab type="body" facs="#zone-f010-u01" xml:id="f010-u01">今瀉血湯不可緩遂服之一劑而愈</ab>
+        <ab type="body" facs="#zone-f010-u02" xml:id="f010-u02">一婦產後五日患病手背痛則逆氣搶上不省人事</ab>
+        <ab type="body" facs="#zone-f010-u03" xml:id="f010-u03">衆已束手矣余診之左寸右尺俱急知其君相合</ab>
+        <ab type="body" facs="#zone-f010-u04" xml:id="f010-u04">病也經云熱甚則腫又云諸逆衝上皆屬於火以</ab>
+        <ab type="body" facs="#zone-f010-u05" xml:id="f010-u05">四物用生地去芍加丹皮生草桑白皮投之立痊</ab>
+        <ab type="body" facs="#zone-f010-u06" xml:id="f010-u06">有病則反之不得以補虛論信哉</ab>
+        <ab type="body" facs="#zone-f010-u07" xml:id="f010-u07">一婦新嫁忽昏憒氣逆牙關緊急余診之右尺洪而</ab>
+        <ab type="body" facs="#zone-f010-u08" xml:id="f010-u08">入尺澤餘脈皆伏此衝脈為患相火挾肝木上衝</ab>
+        <ab type="body" facs="#zone-f010-u09" xml:id="f010-u09">胃道胃脈環口夾唇故牙關緊急用柴胡黃柏以</ab>
+        <ab type="paratext" facs="#zone-f010-u10" xml:id="f010-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f010-u11" xml:id="f010-u11">清相火歸芍以養血生地丹皮以清熱竹瀝薑汁</ab>
+        <ab type="body" facs="#zone-f010-u12" xml:id="f010-u12">童便以去痰加山梔以降火下行一劑而甦</ab>
+        <ab type="body" facs="#zone-f010-u13" xml:id="f010-u13">一婦患喘服桂附喘愈甚余曰華陀篇云諸喘為實</ab>
+        <ab type="body" facs="#zone-f010-u14" xml:id="f010-u14">且右寸獨急是痰上壅也用枳實桑白地骨和氣</ab>
+        <ab type="body" facs="#zone-f010-u15" xml:id="f010-u15">血降火藥治之一劑而卽安寢再劑而喉中如火</ab>
+        <ab type="body" facs="#zone-f010-u16" xml:id="f010-u16">上半身盡熱彼懼不敢再劑予曰前藥鼓動其升</ab>
+        <ab type="body" facs="#zone-f010-u17" xml:id="f010-u17">發之氣若不敢藥可用鹽湯探吐之此在高因而</ab>
+        <ab type="body" facs="#zone-f010-u18" xml:id="f010-u18">越之之義也彼如言卽愈</ab>
+        <ab type="body" facs="#zone-f010-u19" xml:id="f010-u19">一婦患血虛發熱證脈浮大而虛以陳氏五味子湯</ab>
+        <ab type="paratext" facs="#zone-f010-u20" xml:id="f010-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f010-u21" xml:id="f010-u21">八</ab>
+      </div>
+      <div type="image" n="f011">
+        <pb facs="#surface-f011" n="f011" />
+        <ab type="body" facs="#zone-f011-u01" xml:id="f011-u01">投之不敢服請衆醫治之經半月累投逍遙散四</ab>
+        <ab type="body" facs="#zone-f011-u02" xml:id="f011-u02">物等劑不應已不起床矣復請余診之口燥舌乾</ab>
+        <ab type="body" facs="#zone-f011-u03" xml:id="f011-u03">而渴此腎水乾枯證也於今陳氏五味子湯更不</ab>
+        <ab type="body" facs="#zone-f011-u04" xml:id="f011-u04">可緩渠仍不敢服懼參耆大補也余曰若再遲終</ab>
+        <ab type="body" facs="#zone-f011-u05" xml:id="f011-u05">無救矣始服之三劑全愈</ab>
+        <ab type="body" facs="#zone-f011-u06" xml:id="f011-u06">一人午後則見鬼余診之心脈洪急知其痰作祟也</ab>
+        <ab type="body" facs="#zone-f011-u07" xml:id="f011-u07">用竹瀝薑汁桑白炒芩枳殼生地歸芍等藥投之</ab>
+        <ab type="body" facs="#zone-f011-u08" xml:id="f011-u08">告之曰今夜服藥若昏迷不省人事勿懼也彼服</ab>
+        <ab type="body" facs="#zone-f011-u09" xml:id="f011-u09">之果譫語遺溺次日再用前劑稍愈用十餘劑全</ab>
+        <ab type="paratext" facs="#zone-f011-u10" xml:id="f011-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f011-u11" xml:id="f011-u11">愈蓋初用引動其猖獗之勢藥力不勝故也</ab>
+        <ab type="body" facs="#zone-f011-u12" xml:id="f011-u12">一婦經水適斷感冒衆醫以辛熱藥治之而愈忽一</ab>
+        <ab type="body" facs="#zone-f011-u13" xml:id="f011-u13">夜眩運大作者數次余診之兩寸俱急余曰血虛</ab>
+        <ab type="body" facs="#zone-f011-u14" xml:id="f011-u14">而肝木受病風火合作以燥肺金經所謂諸氣膹</ab>
+        <ab type="body" facs="#zone-f011-u15" xml:id="f011-u15">鬱皆屬於肺者也辛熱之藥雖暫刼一時然熱愈</ab>
+        <ab type="body" facs="#zone-f011-u16" xml:id="f011-u16">深則發愈重矣用八珍湯加芩梔一劑卽止</ab>
+        <ab type="body" facs="#zone-f011-u17" xml:id="f011-u17">一人患瘧七十日不痊遍服無效畏寒每寒氣自腹</ab>
+        <ab type="body" facs="#zone-f011-u18" xml:id="f011-u18">起則一身盡慄米飲不入余診之脈沉而急丹溪</ab>
+        <ab type="body" facs="#zone-f011-u19" xml:id="f011-u19">云氣屬火無冷也上升之氣而反覺冷非眞冷也</ab>
+        <ab type="paratext" facs="#zone-f011-u20" xml:id="f011-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f011-u21" xml:id="f011-u21">九</ab>
+      </div>
+      <div type="image" n="f012">
+        <pb facs="#surface-f012" n="f012" />
+        <ab type="body" facs="#zone-f012-u01" xml:id="f012-u01">亢則害耳陽氣陷於九地之下陰氣逼於皮毛之</ab>
+        <ab type="body" facs="#zone-f012-u02" xml:id="f012-u02">外故至是用蒼术羌活柴胡升麻以升陽氣知母</ab>
+        <ab type="body" facs="#zone-f012-u03" xml:id="f012-u03">黃柏茯苓澤瀉以降陰氣陳皮白术以補中一劑</ab>
+        <ab type="body" facs="#zone-f012-u04" xml:id="f012-u04">而見熱食進再劑而瘧止</ab>
+        <ab type="body" facs="#zone-f012-u05" xml:id="f012-u05">一人患四肢厥逆衆醫用薑桂附等藥溫之經兩月</ab>
+        <ab type="body" facs="#zone-f012-u06" xml:id="f012-u06">無一效而口加渴飲食不進請余診之六脈沉急</ab>
+        <ab type="body" facs="#zone-f012-u07" xml:id="f012-u07">此少陰經傷寒陽邪入裏證也陽邪傳裏熱結於</ab>
+        <ab type="body" facs="#zone-f012-u08" xml:id="f012-u08">裏故四肢逆而不溫經云熱深厥亦深熱微厥亦</ab>
+        <ab type="body" facs="#zone-f012-u09" xml:id="f012-u09">微仲景四逆散用柴胡以升陽芍藥以和陰不讀</ab>
+        <ab type="paratext" facs="#zone-f012-u10" xml:id="f012-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f012-u11" xml:id="f012-u11">仲景書以熱治寒誤矣但病經兩月服溫藥太過</ab>
+        <ab type="body" facs="#zone-f012-u12" xml:id="f012-u12">陰分大虧驟升必致燎原又當活法施治先用小</ab>
+        <ab type="body" facs="#zone-f012-u13" xml:id="f012-u13">營煎加沙參麥冬以滋肺腎連用五劑後用逍遙</ab>
+        <ab type="body" facs="#zone-f012-u14" xml:id="f012-u14">散以升其陽諸證如失</ab>
+        <ab type="body" facs="#zone-f012-u15" xml:id="f012-u15">一人患瘧痢兼作醫以參苓湯與之益甚余診之胃</ab>
+        <ab type="body" facs="#zone-f012-u16" xml:id="f012-u16">脈獨大是有積也以平胃合五苓與之一劑而寒</ab>
+        <ab type="body" facs="#zone-f012-u17" xml:id="f012-u17">熱平再以四物加枳實木香炒芩檳榔青皮瘧痢</ab>
+        <ab type="body" facs="#zone-f012-u18" xml:id="f012-u18">俱止腎囊微痛復以逍遙散和肝氣諸疾如掃矣</ab>
+        <ab type="body" facs="#zone-f012-u19" xml:id="f012-u19">一人咳嗽夜不得眠醫作外感治之羸困益甚余診</ab>
+        <ab type="paratext" facs="#zone-f012-u20" xml:id="f012-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f012-u21" xml:id="f012-u21">十</ab>
+      </div>
+      <div type="image" n="f013">
+        <pb facs="#surface-f013" n="f013" />
+        <ab type="body" facs="#zone-f013-u01" xml:id="f013-u01">之六脈洪數右為甚余曰此內傷證也用補中益</ab>
+        <ab type="body" facs="#zone-f013-u02" xml:id="f013-u02">氣加芍柏地兩劑全愈後因遠行勞役吐血五日</ab>
+        <ab type="body" facs="#zone-f013-u03" xml:id="f013-u03">復求治余診其兩手脈皆虛數決其必死於秋深</ab>
+        <ab type="body" facs="#zone-f013-u04" xml:id="f013-u04">時方六月也後果如言而歿</ab>
+        <ab type="body" facs="#zone-f013-u05" xml:id="f013-u05">一人病瘧時值十一月衆醫用追瘧飲何人飲等劑</ab>
+        <ab type="body" facs="#zone-f013-u06" xml:id="f013-u06">累服不效請余診之六脈緊數夜不得眠余曰煩</ab>
+        <ab type="body" facs="#zone-f013-u07" xml:id="f013-u07">燥不得眠者陰絕也面如浮垢挾暑也當先用四</ab>
+        <ab type="body" facs="#zone-f013-u08" xml:id="f013-u08">物湯以安陰血使可眠方得治遂以四物加柴胡</ab>
+        <ab type="body" facs="#zone-f013-u09" xml:id="f013-u09">升麻术陳投之安寢次日衆醫以薑附六君亂投</ab>
+        <ab type="paratext" facs="#zone-f013-u10" xml:id="f013-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f013-u11" xml:id="f013-u11">及辛熱諸藥非徒無益而且有損也後凡遇此證</ab>
+        <ab type="body" facs="#zone-f013-u12" xml:id="f013-u12">者以此法施之或一劑或二劑而通無不立驗</ab>
+        <ab type="paratext" facs="#zone-f013-u13" xml:id="f013-u13">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f013-u14" xml:id="f013-u14">完</ab>
+      </div>
+      <div type="image" n="f014">
+        <pb facs="#surface-f014" n="f014" />
+        <ab type="paratext" facs="#zone-f014-u01" xml:id="f014-u01">醫案全卷</ab>
+        <ab type="body" facs="#zone-f014-u02" xml:id="f014-u02">之至正月病日增復請余診之余曰於今非大瀉</ab>
+        <ab type="body" facs="#zone-f014-u03" xml:id="f014-u03">其陽峻補其陰不可聞俗喜辛熱聞之驚駭仍用</ab>
+        <ab type="body" facs="#zone-f014-u04" xml:id="f014-u04">前藥正月終詢之云已好矣余曰安有好法哉至</ab>
+        <ab type="body" facs="#zone-f014-u05" xml:id="f014-u05">二月復請余診之面如浮垢益甚六脈浮緩其家</ab>
+        <ab type="body" facs="#zone-f014-u06" xml:id="f014-u06">云今瘧已退只求理脾余不應出謂其親曰面如</ab>
+        <ab type="body" facs="#zone-f014-u07" xml:id="f014-u07">浮垢雖好亦有死法況病勢日深乎六脈浮緩非</ab>
+        <ab type="body" facs="#zone-f014-u08" xml:id="f014-u08">佳也孤陽浮於外耳病甚於甲死於乙二月十五</ab>
+        <ab type="body" facs="#zone-f014-u09" xml:id="f014-u09">後乙木用事不能免矣後果如言而歿惜哉</ab>
+        <ab type="body" facs="#zone-f014-u10" xml:id="f014-u10">一人病瘧衆治不效請余診之余曰非逍遙散不可</ab>
+        <ab type="paratext" facs="#zone-f014-u11" xml:id="f014-u11">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f014-u12" xml:id="f014-u12">十一</ab>
+      </div>
+      <div type="image" n="f015">
+        <pb facs="#surface-f015" n="f015" />
+        <ab type="body" facs="#zone-f015-u01" xml:id="f015-u01">衆謂寒凉余力爭遂投一劑後以食積腹痛誤服</ab>
+        <ab type="body" facs="#zone-f015-u02" xml:id="f015-u02">枳實麥芽青皮萊菔子等藥脈散余曰瘧病脈代</ab>
+        <ab type="body" facs="#zone-f015-u03" xml:id="f015-u03">散者死可急服補中益氣湯加附子五分脈卽復</ab>
+        <ab type="body" facs="#zone-f015-u04" xml:id="f015-u04">追已散之元氣非附子不可再服補中去附瘧仍</ab>
+        <ab type="body" facs="#zone-f015-u05" xml:id="f015-u05">大作醫謂用參耆太早夫內傷之證非參耆不能</ab>
+        <ab type="body" facs="#zone-f015-u06" xml:id="f015-u06">固眞氣而驅病邪服之至再瘧已而身愈快乃人</ab>
+        <ab type="body" facs="#zone-f015-u07" xml:id="f015-u07">不知悟可勝浩歎</ab>
+        <ab type="body" facs="#zone-f015-u08" xml:id="f015-u08">一人患食積兩尺脈俱不至衆作虛證治之日甚一</ab>
+        <ab type="body" facs="#zone-f015-u09" xml:id="f015-u09">日羸弱不堪時八月終矣請余診之時有陳姓者</ab>
+        <ab type="body" facs="#zone-f015-u10" xml:id="f015-u10">用黃耆建中湯余診得關尺全無兩寸沈結余曰</ab>
+        <ab type="body" facs="#zone-f015-u11" xml:id="f015-u11">此所謂羸而有實狀者也夫上部有脈下部無脈</ab>
+        <ab type="body" facs="#zone-f015-u12" xml:id="f015-u12">其人當吐不吐者死王叔和脈歌脈病秋深却畏</ab>
+        <ab type="body" facs="#zone-f015-u13" xml:id="f015-u13">之今脈病又當秋深以方旺之氣尅久鬱之木殆</ab>
+        <ab type="body" facs="#zone-f015-u14" xml:id="f015-u14">矣非重瀉肺金不可且肺脈浮而短者也今浮之</ab>
+        <ab type="body" facs="#zone-f015-u15" xml:id="f015-u15">不及本指按之則沈結尚得言肺虛乎若用建中</ab>
+        <ab type="body" facs="#zone-f015-u16" xml:id="f015-u16">重實其實必致關格矣彼不信服兩劑果吐逆余</ab>
+        <ab type="body" facs="#zone-f015-u17" xml:id="f015-u17">曰吐家不得再吐非大柴胡不可服之下燥糞一</ab>
+        <ab type="body" facs="#zone-f015-u18" xml:id="f015-u18">小塊陳見是食積欲加芒硝予曰芒硝峻利設藏</ab>
+        <ab type="paratext" facs="#zone-f015-u19" xml:id="f015-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f015-u20" xml:id="f015-u20">十三</ab>
+      </div>
+      <div type="image" n="f016">
+        <pb facs="#surface-f016" n="f016" />
+        <ab type="body" facs="#zone-f016-u01" xml:id="f016-u01">府已壞陰隨陽脫是代衆人受過也仍以大柴胡</ab>
+        <ab type="body" facs="#zone-f016-u02" xml:id="f016-u02">加去積藥治之於辰刻下血痰穢物一二升勢稍</ab>
+        <ab type="body" facs="#zone-f016-u03" xml:id="f016-u03">減兩日皆如是其祖酷愛其孫欲用參補之陳遂</ab>
+        <ab type="body" facs="#zone-f016-u04" xml:id="f016-u04">用温膽湯謂其善驚也余曰金盛則木虛非温膽</ab>
+        <ab type="body" facs="#zone-f016-u05" xml:id="f016-u05">所能平也服之而氣上喘氣補氣故也余欲於前</ab>
+        <ab type="body" facs="#zone-f016-u06" xml:id="f016-u06">藥內加元明粉勸之再三陳云可用黑錫丹以鎮</ab>
+        <ab type="body" facs="#zone-f016-u07" xml:id="f016-u07">墜之余曰黑錫者鉛也金盛而再助金木虧而更</ab>
+        <ab type="body" facs="#zone-f016-u08" xml:id="f016-u08">伐木盛盛虛虛非其治矣陳竟用之喘止食進舉</ab>
+        <ab type="body" facs="#zone-f016-u09" xml:id="f016-u09">家皆喜余曰不足喜也問其前陽已痿矣蓋前陽</ab>
+        <ab type="body" facs="#zone-f016-u10" xml:id="f016-u10">之脈係於厥陰故也若遇金旺之日必死後十日</ab>
+        <ab type="body" facs="#zone-f016-u11" xml:id="f016-u11">更發狂而死前證宜重瀉其陽峻補其陰病勢日</ab>
+        <ab type="body" facs="#zone-f016-u12" xml:id="f016-u12">深其家乃怕然藥味亂投惜哉</ab>
+        <ab type="body" facs="#zone-f016-u13" xml:id="f016-u13">一人患瘧服凉藥則快小便黃澀大便不通余診之</ab>
+        <ab type="body" facs="#zone-f016-u14" xml:id="f016-u14">脈洪大而虛數余曰東垣云秋凉暑退知非熱也</ab>
+        <ab type="body" facs="#zone-f016-u15" xml:id="f016-u15">脈洪大虛數不可作熱治以局方雙和交解飲子</ab>
+        <ab type="body" facs="#zone-f016-u16" xml:id="f016-u16">投之再劑而大便通立瘥</ab>
+        <ab type="body" facs="#zone-f016-u17" xml:id="f016-u17">一婦病秘大小便不通以辛熱藥治之更作嘔衆謂</ab>
+        <ab type="body" facs="#zone-f016-u18" xml:id="f016-u18">關格不治矣余診之脈雖洪大而不甚弦知眞氣</ab>
+        <ab type="paratext" facs="#zone-f016-u19" xml:id="f016-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f016-u20" xml:id="f016-u20">十三</ab>
+      </div>
+      <div type="image" n="f017">
+        <pb facs="#surface-f017" n="f017" />
+        <ab type="body" facs="#zone-f017-u01" xml:id="f017-u01">猶未絕也見其食卽嘔余曰食不得入是有火也</ab>
+        <ab type="body" facs="#zone-f017-u02" xml:id="f017-u02">遂以八珍補其虛加川連投之嘔止食進更以棗</ab>
+        <ab type="body" facs="#zone-f017-u03" xml:id="f017-u03">仁二錢蒺藜三錢煎服秘減大半更診其肺脈沈</ab>
+        <ab type="body" facs="#zone-f017-u04" xml:id="f017-u04">實問其平日喜食麵遂以瀉白散加川連治之全</ab>
+        <ab type="body" facs="#zone-f017-u05" xml:id="f017-u05">愈後用六味丸補腎水而安</ab>
+        <ab type="body" facs="#zone-f017-u06" xml:id="f017-u06">一人因盛怒唾血數口卧床十餘日人謂其血證余</ab>
+        <ab type="body" facs="#zone-f017-u07" xml:id="f017-u07">診之六脈皆沈伏遂用理中加吳萸細辛附子當</ab>
+        <ab type="body" facs="#zone-f017-u08" xml:id="f017-u08">歸大劑投之人以唾血爲疑余曰前證受寒血脈</ab>
+        <ab type="body" facs="#zone-f017-u09" xml:id="f017-u09">凝滯偶因怒發新血不行遂致上越耳非血證也</ab>
+        <ab type="body" facs="#zone-f017-u10" xml:id="f017-u10">脈之而愈</ab>
+        <ab type="body" facs="#zone-f017-u11" xml:id="f017-u11">一人自冬病至夏身不得安席食米飲盞許卽脹苦</ab>
+        <ab type="body" facs="#zone-f017-u12" xml:id="f017-u12">極復不自知所苦衆莫能治余診之尺寸俱伏關</ab>
+        <ab type="body" facs="#zone-f017-u13" xml:id="f017-u13">脈沈結且作聲余曰此痞氣也用仲景瀉心湯加</ab>
+        <ab type="body" facs="#zone-f017-u14" xml:id="f017-u14">枳實投之兩服全愈卽病痞氣用瀉心過時故加</ab>
+        <ab type="body" facs="#zone-f017-u15" xml:id="f017-u15">枳實</ab>
+        <ab type="body" facs="#zone-f017-u16" xml:id="f017-u16">一人患中風不語投以人參桂附等劑更加昏憒余</ab>
+        <ab type="body" facs="#zone-f017-u17" xml:id="f017-u17">用蘇合香丸一劑而少甦再用牛黃丸而能言只</ab>
+        <ab type="body" facs="#zone-f017-u18" xml:id="f017-u18">譫語余曰有燥糞在直腸故也用凉膈散加川連</ab>
+        <ab type="paratext" facs="#zone-f017-u19" xml:id="f017-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f017-u20" xml:id="f017-u20">十四</ab>
+      </div>
+      <div type="image" n="f018">
+        <pb facs="#surface-f018" n="f018" />
+        <ab type="body" facs="#zone-f018-u01" xml:id="f018-u01">以解上復用猪膽汁導之下燥糞一塊脈洪大如</ab>
+        <ab type="body" facs="#zone-f018-u02" xml:id="f018-u02">故譫語更甚余曰燥糞仍多不得下也再用大柴</ab>
+        <ab type="body" facs="#zone-f018-u03" xml:id="f018-u03">胡大黃酒製二錢服之更加狂亂大便仍不得通</ab>
+        <ab type="body" facs="#zone-f018-u04" xml:id="f018-u04">余曰此氣不能傳送故也用六君子湯加歸芍生</ab>
+        <ab type="body" facs="#zone-f018-u05" xml:id="f018-u05">地麥冬人參用三錢一劑而安寢再服而下燥糞</ab>
+        <ab type="body" facs="#zone-f018-u06" xml:id="f018-u06">十餘塊神思頓清矣設再通利之重虛其虛禍不</ab>
+        <ab type="body" facs="#zone-f018-u07" xml:id="f018-u07">旋踵矣後其家有弟知醫每以人參爲常用余告</ab>
+        <ab type="body" facs="#zone-f018-u08" xml:id="f018-u08">之曰厚味積熱火熱爲本大便貴通利則府藏不</ab>
+        <ab type="body" facs="#zone-f018-u09" xml:id="f018-u09">壅人參可暫而不可常羅謙甫治病隨四時爲升</ab>
+        <ab type="body" facs="#zone-f018-u10" xml:id="f018-u10">降今時值炎暑藥宜清凉且心肺之上藥宜少若</ab>
+        <ab type="body" facs="#zone-f018-u11" xml:id="f018-u11">大便濇滯仍服人參潤腸丸以通利之此先賢明</ab>
+        <ab type="body" facs="#zone-f018-u12" xml:id="f018-u12">法也彼謂北人宜大劑且高年不可離參仍用前</ab>
+        <ab type="body" facs="#zone-f018-u13" xml:id="f018-u13">藥余曰服此必有變服月餘余診之大腸經脈洪</ab>
+        <ab type="body" facs="#zone-f018-u14" xml:id="f018-u14">大而實余曰大腸燥結日用人參殆矣彼謂不服</ab>
+        <ab type="body" facs="#zone-f018-u15" xml:id="f018-u15">人參則氣不舉余曰服附子者離不得附子服人</ab>
+        <ab type="body" facs="#zone-f018-u16" xml:id="f018-u16">參者離不得人參此偏勝之理卽爲病矣發必不</ab>
+        <ab type="body" facs="#zone-f018-u17" xml:id="f018-u17">支後果發通身渾熱房西瓜大黃皆不效余辭不</ab>
+        <ab type="body" facs="#zone-f018-u18" xml:id="f018-u18">治遂歿用藥無據惜哉</ab>
+        <ab type="paratext" facs="#zone-f018-u19" xml:id="f018-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f018-u20" xml:id="f018-u20">十五</ab>
+      </div>
+      <div type="image" n="f019">
+        <pb facs="#surface-f019" n="f019" />
+        <ab type="body" facs="#zone-f019-u01" xml:id="f019-u01">一人秋間患嗽失音衆用清火藥日甚一日至臘月</ab>
+        <ab type="body" facs="#zone-f019-u02" xml:id="f019-u02">廿八日延余治之診得六脈沈緩余曰此風寒失</ab>
+        <ab type="body" facs="#zone-f019-u03" xml:id="f019-u03">表所致用羌活通聲散兩服至正月初一日聲立</ab>
+        <ab type="body" facs="#zone-f019-u04" xml:id="f019-u04">開但語言用力余曰此腎氣不足也以地黃飲子</ab>
+        <ab type="body" facs="#zone-f019-u05" xml:id="f019-u05">爲丸服之漸愈有何姓者見余用羌活發散等劑</ab>
+        <ab type="body" facs="#zone-f019-u06" xml:id="f019-u06">遂以麻黃三拗湯服之仍語言不出其家驚惶復</ab>
+        <ab type="body" facs="#zone-f019-u07" xml:id="f019-u07">求救於余余曰發汗過多傳爲肺痿以八珍湯加</ab>
+        <ab type="body" facs="#zone-f019-u08" xml:id="f019-u08">麥味紫苑欵冬花飲之漸愈</ab>
+        <ab type="body" facs="#zone-f019-u09" xml:id="f019-u09">銀臺五叔母夫人節齋弟迎養至宣城官署忽患頭</ab>
+        <ab type="body" facs="#zone-f019-u10" xml:id="f019-u10">痛腹痛惡心不食大便經十八日不下衆用清利</ab>
+        <ab type="body" facs="#zone-f019-u11" xml:id="f019-u11">驅風等藥累服不應醫束手弟亦憂惶余適抵署</ab>
+        <ab type="body" facs="#zone-f019-u12" xml:id="f019-u12">診之六脈沈滯而濇此正許學士所云老人風秘</ab>
+        <ab type="body" facs="#zone-f019-u13" xml:id="f019-u13">證也令作麻仁蘇子粥服之諸證如失</ab>
+        <ab type="body" facs="#zone-f019-u14" xml:id="f019-u14">一人患病絕粒已半月矣痰涎滿地夜不得眠衆咸</ab>
+        <ab type="body" facs="#zone-f019-u15" xml:id="f019-u15">謂危殆不生矣請余診之上部脈虛大知其腎水</ab>
+        <ab type="body" facs="#zone-f019-u16" xml:id="f019-u16">泛爲痰也用六味地黃料加人參沈香煎服痰止</ab>
+        <ab type="body" facs="#zone-f019-u17" xml:id="f019-u17">睡安再診六脈沈細如絲以十全大補加陳皮麥</ab>
+        <ab type="body" facs="#zone-f019-u18" xml:id="f019-u18">冬五味知母治之全愈</ab>
+        <ab type="paratext" facs="#zone-f019-u19" xml:id="f019-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f019-u20" xml:id="f019-u20">十六</ab>
+      </div>
+      <div type="image" n="f020">
+        <pb facs="#surface-f020" n="f020" />
+        <ab type="body" facs="#zone-f020-u01" xml:id="f020-u01">一人患唾血自用清解等劑投之昏憒不醒復索食</ab>
+        <ab type="body" facs="#zone-f020-u02" xml:id="f020-u02">血肉皆麻木不知痛癢余曰此脾虛證也脾氣虛</ab>
+        <ab type="body" facs="#zone-f020-u03" xml:id="f020-u03">故欲食以自救用歸脾去木香加白芍大劑與之</ab>
+        <ab type="body" facs="#zone-f020-u04" xml:id="f020-u04">三四劑全愈脾主肉麻木皆脾證也</ab>
+        <ab type="body" facs="#zone-f020-u05" xml:id="f020-u05">一人素服八味丸忽患風寒咳嗽面帶虛浮小便不</ab>
+        <ab type="body" facs="#zone-f020-u06" xml:id="f020-u06">利醫告以仍服八味丸日見虛腫請余診之六脈</ab>
+        <ab type="body" facs="#zone-f020-u07" xml:id="f020-u07">浮緊余曰此風寒在表也當開鬼門潔淨府發汗</ab>
+        <ab type="body" facs="#zone-f020-u08" xml:id="f020-u08"><unclear>□</unclear>利則愈八味非常服之藥況風寒在表乎彼不</ab>
+        <ab type="body" facs="#zone-f020-u09" xml:id="f020-u09">信仍服都氣湯余辭不治未半月竟以虛脹而死</ab>
+        <ab type="body" facs="#zone-f020-u10" xml:id="f020-u10">丙申年余在宣城節齋弟任內母在家病篤思余</ab>
+        <ab type="body" facs="#zone-f020-u11" xml:id="f020-u11">恐家人趕余不及因齧指余感而心痛馳歸省視</ab>
+        <ab type="body" facs="#zone-f020-u12" xml:id="f020-u12">時七月七夕母患自利證已四閏月矣偃息在</ab>
+        <ab type="body" facs="#zone-f020-u13" xml:id="f020-u13">床肌瘦如柴食入卽泄姪兒輩告余以醫用歸脾</ab>
+        <ab type="body" facs="#zone-f020-u14" xml:id="f020-u14">補中益氣及四神八味三白四白等劑屢服不效</ab>
+        <ab type="body" facs="#zone-f020-u15" xml:id="f020-u15">只看造化余曰此老人燥證也經云脈弱以滑是</ab>
+        <ab type="body" facs="#zone-f020-u16" xml:id="f020-u16">有胃氣今藥雖雜投胃氣未壞尚可回生但非古</ab>
+        <ab type="body" facs="#zone-f020-u17" xml:id="f020-u17">方可執籌思再四潤則苦其滑補則恐其滯經兩</ab>
+        <ab type="body" facs="#zone-f020-u18" xml:id="f020-u18">晝夜而始立方用人參沙參黃耆麥冬五味山藥</ab>
+        <ab type="paratext" facs="#zone-f020-u19" xml:id="f020-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f020-u20" xml:id="f020-u20">十七</ab>
+      </div>
+      <div type="image" n="f021">
+        <pb facs="#surface-f021" n="f021" />
+        <ab type="body" facs="#zone-f021-u01" xml:id="f021-u01">甘草生熟地歸芍枸杞山茱萸棗仁茯神陳皮砂</ab>
+        <ab type="body" facs="#zone-f021-u02" xml:id="f021-u02">仁香附遠志等藥投之一劑而食入瀉止連服六</ab>
+        <ab type="body" facs="#zone-f021-u03" xml:id="f021-u03">劑而愈卽以此方十倍煉丸服之一月復元長肉</ab>
+        <ab type="body" facs="#zone-f021-u04" xml:id="f021-u04">此方補而不滯潤而不滑有陰陽並濟之妙朱奉</ab>
+        <ab type="body" facs="#zone-f021-u05" xml:id="f021-u05">議云余讀仲景書守仲景法未嘗執仲景方卽此</ab>
+        <ab type="body" facs="#zone-f021-u06" xml:id="f021-u06">意也時母病年八十有五余後復延五載至九</ab>
+        <ab type="body" facs="#zone-f021-u07" xml:id="f021-u07">十歲而終樹欲靜而風不寧痛曷可言</ab>
+        <ab type="body" facs="#zone-f021-u08" xml:id="f021-u08">一人七夕飲食過度兼夾陰次日腹痛吐瀉醫用理</ab>
+        <ab type="body" facs="#zone-f021-u09" xml:id="f021-u09">中丸止之四肢厥逆遂疑爲陰證傷寒用眞武湯</ab>
+        <ab type="body" facs="#zone-f021-u10" xml:id="f021-u10">投之厥更甚急灸丹田一壯氣加喘危在頃刻請</ab>
+        <ab type="body" facs="#zone-f021-u11" xml:id="f021-u11">余診之六脈沈伏余曰此傷暑證也經云弦細乳</ab>
+        <ab type="body" facs="#zone-f021-u12" xml:id="f021-u12">遲皆屬於暑陽氣在內陰氣走外故脈伏而厥也</ab>
+        <ab type="body" facs="#zone-f021-u13" xml:id="f021-u13">今時值亢旱炎暑未退天無異氣人無客病且暑</ab>
+        <ab type="body" facs="#zone-f021-u14" xml:id="f021-u14">淫合邪飲食過度脾土受傷加以冒暑夾陰邪在</ab>
+        <ab type="body" facs="#zone-f021-u15" xml:id="f021-u15">中焦故上吐下瀉只宜六和湯合清暑益氣治之</ab>
+        <ab type="body" facs="#zone-f021-u16" xml:id="f021-u16">投以眞武理中誤矣今已變證前藥又非所宜急</ab>
+        <ab type="body" facs="#zone-f021-u17" xml:id="f021-u17">用生脈飲人參換沙參合芍藥甘草湯以和陰大</ab>
+        <ab type="body" facs="#zone-f021-u18" xml:id="f021-u18">劑投之一劑而氣平厥回脈復再劑而愈</ab>
+        <ab type="paratext" facs="#zone-f021-u19" xml:id="f021-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f021-u20" xml:id="f021-u20">十八</ab>
+      </div>
+      <div type="image" n="f022">
+        <pb facs="#surface-f022" n="f022" />
+        <ab type="body" facs="#zone-f022-u01" xml:id="f022-u01">一女年十八如癲似狂半月有餘衆醫投劑不應請</ab>
+        <ab type="body" facs="#zone-f022-u02" xml:id="f022-u02">余診之時揚手擲足彌甚脈不得切頭髮剛直如</ab>
+        <ab type="body" facs="#zone-f022-u03" xml:id="f022-u03">矢余曰此血風證也肝經亡血過多則風木舞動</ab>
+        <ab type="body" facs="#zone-f022-u04" xml:id="f022-u04">心血枯則髮堅硬王海藏云婦人亡血過多因而</ab>
+        <ab type="body" facs="#zone-f022-u05" xml:id="f022-u05">燥酒循衣摸床撮空閉目揚手擲足錯語失神閨</ab>
+        <ab type="body" facs="#zone-f022-u06" xml:id="f022-u06">女何以有此是必經後得之卽經後亦不應有此</ab>
+        <ab type="body" facs="#zone-f022-u07" xml:id="f022-u07">當係經病快通之故問其病源則云因經行一日</ab>
+        <ab type="body" facs="#zone-f022-u08" xml:id="f022-u08">冒寒忽斷其母以藥攻之後行數日而止自此如</ab>
+        <ab type="body" facs="#zone-f022-u09" xml:id="f022-u09">醉如癡揚手擲足日甚一日此謂誠於中形於外</ab>
+        <ab type="body" facs="#zone-f022-u10" xml:id="f022-u10">也遂以生地黃連湯加人參投之一劑證平再劑</ab>
+        <ab type="body" facs="#zone-f022-u11" xml:id="f022-u11">而愈陶節菴云生地黃連湯血藥也自內而之外</ab>
+        <ab type="body" facs="#zone-f022-u12" xml:id="f022-u12">者用之病旣危篤得之以降血中之伏火加人參</ab>
+        <ab type="body" facs="#zone-f022-u13" xml:id="f022-u13">者補氣以生血也故閨女有居經避年之證若無</ab>
+        <ab type="body" facs="#zone-f022-u14" xml:id="f022-u14">他病不得悞攻</ab>
+        <ab type="body" facs="#zone-f022-u15" xml:id="f022-u15">一婦年八十有五忽患兩顴紅腫大便數日不下醫</ab>
+        <ab type="body" facs="#zone-f022-u16" xml:id="f022-u16">認作赤遊丹用梅花點舌丹治之不應請余診之</ab>
+        <ab type="body" facs="#zone-f022-u17" xml:id="f022-u17">右關鼓指而洪余曰此足陽明經胃熱證也是必</ab>
+        <ab type="body" facs="#zone-f022-u18" xml:id="f022-u18">飲酒所致其家答以素不善飲因詰之始云日前</ab>
+        <ab type="paratext" facs="#zone-f022-u19" xml:id="f022-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f022-u20" xml:id="f022-u20">十九</ab>
+      </div>
+      <div type="image" n="f023">
+        <pb facs="#surface-f023" n="f023" />
+        <ab type="body" facs="#zone-f023-u01" xml:id="f023-u01">孫婦輩會勸飲一盞是夜睡起下床跌一倒次日</ab>
+        <ab type="body" facs="#zone-f023-u02" xml:id="f023-u02">卽發此證經云陽明主潤宗筋宗筋虛則弛是其</ab>
+        <ab type="body" facs="#zone-f023-u03" xml:id="f023-u03">驗也陽明甚於頭面故面紅金燥故腸結他藏無</ab>
+        <ab type="body" facs="#zone-f023-u04" xml:id="f023-u04">別證余只專治陽明戒以勿藥令其煮冬米粥一</ab>
+        <ab type="body" facs="#zone-f023-u05" xml:id="f023-u05">椀用石膏所煉白糖調服後果如言與服次日面</ab>
+        <ab type="body" facs="#zone-f023-u06" xml:id="f023-u06">紅退下燥糞而愈經所謂小熱之氣凉以和之也</ab>
+        <ab type="body" facs="#zone-f023-u07" xml:id="f023-u07">一人患病服桂附十餘劑譫語不得眠時年七十餘</ab>
+        <ab type="body" facs="#zone-f023-u08" xml:id="f023-u08">矣衆醫決以必死余診之心脈微急欠伸者再知</ab>
+        <ab type="body" facs="#zone-f023-u09" xml:id="f023-u09">其熱薰心也以生棗仁竹茹生地生草麥冬飲之</ab>
+        <ab type="body" facs="#zone-f023-u10" xml:id="f023-u10">立瘥仲景云欠伸者欲愈也爲熱所廹故致譫語</ab>
+        <ab type="body" facs="#zone-f023-u11" xml:id="f023-u11">心清則無語妄得安寢矣</ab>
+        <ab type="body" facs="#zone-f023-u12" xml:id="f023-u12">一人患病兩月畏驚手足指皆腫善食多汗衆醫以</ab>
+        <ab type="body" facs="#zone-f023-u13" xml:id="f023-u13">虛損補之累月愈甚余曰此陽明證也聞木聲則</ab>
+        <ab type="body" facs="#zone-f023-u14" xml:id="f023-u14">驚手足及脇肵盡痛諸君何不看十二經絡圖也</ab>
+        <ab type="body" facs="#zone-f023-u15" xml:id="f023-u15">遂以生地辰砂枳實麥冬桑白皮歸芍半夏桔紅</ab>
+        <ab type="body" facs="#zone-f023-u16" xml:id="f023-u16">投之諸證如失再用前藥加膽星全愈</ab>
+        <ab type="body" facs="#zone-f023-u17" xml:id="f023-u17">一人年六十餘忽半月不能食附近有知醫者用香</ab>
+        <ab type="body" facs="#zone-f023-u18" xml:id="f023-u18">砂六君子湯治之不應時值夏令邀余診之脈細</ab>
+        <ab type="paratext" facs="#zone-f023-u19" xml:id="f023-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f023-u20" xml:id="f023-u20">二十</ab>
+      </div>
+      <div type="image" n="f024">
+        <pb facs="#surface-f024" n="f024" />
+        <ab type="body" facs="#zone-f024-u01" xml:id="f024-u01">而虛余曰此暑淫蒸熱脾土受傷也以清暑益氣</ab>
+        <ab type="body" facs="#zone-f024-u02" xml:id="f024-u02">湯去黃栢澤瀉加芍藥投之飲食立進後且加餐</ab>
+        <ab type="body" facs="#zone-f024-u03" xml:id="f024-u03">一人患膀胱偏墮腫痛服辛熱之藥愈劇余診之左</ab>
+        <ab type="body" facs="#zone-f024-u04" xml:id="f024-u04">手脈洪結余曰張子和云陰氣積於內爲寒邪所</ab>
+        <ab type="body" facs="#zone-f024-u05" xml:id="f024-u05">襲榮衛不調則成疝病證雖見於腎病實本於肝</ab>
+        <ab type="body" facs="#zone-f024-u06" xml:id="f024-u06">以厥陰肝脈絡陰器故也余易導氣古方以疏肝</ab>
+        <ab type="body" facs="#zone-f024-u07" xml:id="f024-u07">藥治之一服而瘥</ab>
+        <ab type="body" facs="#zone-f024-u08" xml:id="f024-u08">一人二十餘歲陡患行步艱難足跟隱痛且胸次脹</ab>
+        <ab type="body" facs="#zone-f024-u09" xml:id="f024-u09">滿不能食其家憂懼余診之尺浮而虛余曰此鶴</ab>
+        <ab type="body" facs="#zone-f024-u10" xml:id="f024-u10">膝證也初起無傷用大防風湯治之兩劑全愈</ab>
+        <ab type="body" facs="#zone-f024-u11" xml:id="f024-u11">一人發熱頭痛服衆醫藥反增煩燥余診之脈細而</ab>
+        <ab type="body" facs="#zone-f024-u12" xml:id="f024-u12">弦問之欲寐余曰此少陰證也服桂附非錯但粗</ab>
+        <ab type="body" facs="#zone-f024-u13" xml:id="f024-u13">工不解發少陰汗耳遂以仲景附子細辛湯投之</ab>
+        <ab type="body" facs="#zone-f024-u14" xml:id="f024-u14">立愈蓋細辛治少陰頭痛發汗也</ab>
+        <ab type="body" facs="#zone-f024-u15" xml:id="f024-u15">一人患病醫以桂附參术等劑投之譫語昏憒衆醫</ab>
+        <ab type="body" facs="#zone-f024-u16" xml:id="f024-u16">謂藥力未到議加以大劑參附湯請余決之余診</ab>
+        <ab type="body" facs="#zone-f024-u17" xml:id="f024-u17">得虛細而伏有時而口語甚清曰無傷也熱傷氣</ab>
+        <ab type="body" facs="#zone-f024-u18" xml:id="f024-u18">故也以益氣養榮等藥投之當自愈彼如言一服</ab>
+        <ab type="paratext" facs="#zone-f024-u19" xml:id="f024-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f024-u20" xml:id="f024-u20">二十一</ab>
+      </div>
+      <div type="image" n="f025">
+        <pb facs="#surface-f025" n="f025" />
+        <ab type="body" facs="#zone-f025-u01" xml:id="f025-u01">立愈</ab>
+        <ab type="body" facs="#zone-f025-u02" xml:id="f025-u02">一婦產後服衆醫燥熱等藥發燥脹滿氣急衆醫欲</ab>
+        <ab type="body" facs="#zone-f025-u03" xml:id="f025-u03">投以參附大劑余診之脈七八至知其熱極矣投</ab>
+        <ab type="body" facs="#zone-f025-u04" xml:id="f025-u04">以加味逍遙散立愈</ab>
+        <ab type="body" facs="#zone-f025-u05" xml:id="f025-u05">一人吐血八日不止夜不得眠痰嗽不休服衆醫藥</ab>
+        <ab type="body" facs="#zone-f025-u06" xml:id="f025-u06">加證自分必死矣請余診之胃脈獨急知其熱在</ab>
+        <ab type="body" facs="#zone-f025-u07" xml:id="f025-u07">胃也用四物加生地升麻麥冬五味生薑汁童便</ab>
+        <ab type="body" facs="#zone-f025-u08" xml:id="f025-u08">韭汁兩服而瘥遂用十全大補調攝之遂愈</ab>
+        <ab type="body" facs="#zone-f025-u09" xml:id="f025-u09">一婦患病六脈俱無右尺一線重按全無衆醫欲用</ab>
+        <ab type="body" facs="#zone-f025-u10" xml:id="f025-u10">六君薑桂附以復脈余曰此經所謂陽先絕陰後</ab>
+        <ab type="body" facs="#zone-f025-u11" xml:id="f025-u11">絕者也丹溪云服香燥者必死可於陰中救陽遂</ab>
+        <ab type="body" facs="#zone-f025-u12" xml:id="f025-u12">處方用十全大補加麥味合六味地黃湯少用桂</ab>
+        <ab type="body" facs="#zone-f025-u13" xml:id="f025-u13">附以復陽氣服訖卽減十服全愈乃有孕也設用</ab>
+        <ab type="body" facs="#zone-f025-u14" xml:id="f025-u14">香燥之藥能無噬臍之悔哉</ab>
+        <ab type="body" facs="#zone-f025-u15" xml:id="f025-u15">一婦患病服理中湯稍已間一二日復作服前藥無</ab>
+        <ab type="body" facs="#zone-f025-u16" xml:id="f025-u16">效昏憒益甚邀余診之見其一身如格脈左三部</ab>
+        <ab type="body" facs="#zone-f025-u17" xml:id="f025-u17">洪大無倫右尺亦洪知其眞陰失守逼陽於外也</ab>
+        <ab type="body" facs="#zone-f025-u18" xml:id="f025-u18">用八珍合六味加柴胡黃芩一劑卽甦再劑全愈</ab>
+        <ab type="paratext" facs="#zone-f025-u19" xml:id="f025-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f025-u20" xml:id="f025-u20">二十二</ab>
+      </div>
+      <div type="image" n="f026">
+        <pb facs="#surface-f026" n="f026" />
+        <ab type="body" facs="#zone-f026-u01" xml:id="f026-u01">一人年十三患泄瀉有時昏憒咬牙醫謂不治矣余</ab>
+        <ab type="body" facs="#zone-f026-u02" xml:id="f026-u02">診之右關寸沈而有力余曰此痰在胸膈間下爲</ab>
+        <ab type="body" facs="#zone-f026-u03" xml:id="f026-u03">泄瀉上爲昏憒皆痰之爲病以人參薑汁竹瀝濃</ab>
+        <ab type="body" facs="#zone-f026-u04" xml:id="f026-u04">煎與之一服卽瘥</ab>
+        <ab type="body" facs="#zone-f026-u05" xml:id="f026-u05">一人患咳嗽咯血衆醫治不應請余診之脈洪大余</ab>
+        <ab type="body" facs="#zone-f026-u06" xml:id="f026-u06">曰此肺癰之證以人參平肺散四五服與之脈稍</ab>
+        <ab type="body" facs="#zone-f026-u07" xml:id="f026-u07">緩吐膿血如故衆醫復謂難治余曰無憂吐膿盡</ab>
+        <ab type="body" facs="#zone-f026-u08" xml:id="f026-u08">當自愈數日吐出膿椀計以六味及清金養血佐</ab>
+        <ab type="body" facs="#zone-f026-u09" xml:id="f026-u09">之遂瘥</ab>
+        <ab type="body" facs="#zone-f026-u10" xml:id="f026-u10">一婦年已六旬感冒風寒醫以理中眞武等劑投之</ab>
+        <ab type="body" facs="#zone-f026-u11" xml:id="f026-u11">神氣昏迷奄奄一息衆皆束手請余診之六脈全</ab>
+        <ab type="body" facs="#zone-f026-u12" xml:id="f026-u12">伏知其服熱藥太過非壞證也以沙參麥冬茯神</ab>
+        <ab type="body" facs="#zone-f026-u13" xml:id="f026-u13">酒芍甘草桔梗和之立瘥後以補氣血藥投之三</ab>
+        <ab type="body" facs="#zone-f026-u14" xml:id="f026-u14">劑全愈</ab>
+        <ab type="body" facs="#zone-f026-u15" xml:id="f026-u15">一兒方週歲患咳嗽證幼科累投去嗽治痰藥不驗</ab>
+        <ab type="body" facs="#zone-f026-u16" xml:id="f026-u16">余診之脈遲緩而滑余曰此乳積淫痰在胃也以</ab>
+        <ab type="body" facs="#zone-f026-u17" xml:id="f026-u17">六君加蒼术川朴治之一劑而瘥</ab>
+        <ab type="body" facs="#zone-f026-u18" xml:id="f026-u18">次媳患暑風證醫作風痰治之變成癎證飲食進則</ab>
+        <ab type="paratext" facs="#zone-f026-u19" xml:id="f026-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f026-u20" xml:id="f026-u20">二十三</ab>
+      </div>
+      <div type="image" n="f027">
+        <pb facs="#surface-f027" n="f027" />
+        <ab type="body" facs="#zone-f027-u01" xml:id="f027-u01">噫氣不絕聲便發癎或一日兩發或三數日一發</ab>
+        <ab type="body" facs="#zone-f027-u02" xml:id="f027-u02">如是者半年適余自粵旋診之兩尺微細宜從補</ab>
+        <ab type="body" facs="#zone-f027-u03" xml:id="f027-u03">以金水六君加膽星竹瀝薑汁鈎藤茯神遠志石</ab>
+        <ab type="body" facs="#zone-f027-u04" xml:id="f027-u04">菖蒲香附砂仁等藥投之連服數劑氣順證減自</ab>
+        <ab type="body" facs="#zone-f027-u05" xml:id="f027-u05">是以後或半月一發或一月一發漸愈而有孕</ab>
+        <ab type="body" facs="#zone-f027-u06" xml:id="f027-u06">一人病瘧間日一作醫以追瘧飲何人飲累投不應</ab>
+        <ab type="body" facs="#zone-f027-u07" xml:id="f027-u07">請余診之左尺浮虛右尺急疾余曰此少陰虛瘧</ab>
+        <ab type="body" facs="#zone-f027-u08" xml:id="f027-u08">也先以王損齋治虞氏法升降和解法治之後以</ab>
+        <ab type="body" facs="#zone-f027-u09" xml:id="f027-u09">六味合生脈飲投之連服三劑全愈</ab>
+        <ab type="body" facs="#zone-f027-u10" xml:id="f027-u10">一婦小產患鬱冒證醫以生化湯投之不應且加重</ab>
+        <ab type="body" facs="#zone-f027-u11" xml:id="f027-u11">請余診之六脈空虛比大產尤甚余曰小產無瘀</ab>
+        <ab type="body" facs="#zone-f027-u12" xml:id="f027-u12">非生化湯所宜投以當歸補血湯立愈其夫告余</ab>
+        <ab type="body" facs="#zone-f027-u13" xml:id="f027-u13">曰自于歸後胎會自墜四次皆屬四閏月時余告</ab>
+        <ab type="body" facs="#zone-f027-u14" xml:id="f027-u14">以後有孕宜節慾蓋孕至三月以上相火用事也</ab>
+        <ab type="body" facs="#zone-f027-u15" xml:id="f027-u15">後有孕復請余診之余以人參白术黃芩生熟地</ab>
+        <ab type="body" facs="#zone-f027-u16" xml:id="f027-u16">歸芍杜仲續斷生草陳皮砂仁蓮肉等藥安之十</ab>
+        <ab type="body" facs="#zone-f027-u17" xml:id="f027-u17">月無恙生一男</ab>
+        <ab type="body" facs="#zone-f027-u18" xml:id="f027-u18">一人病瘧畏寒衆醫不效請余診之右三部陰陽俱</ab>
+        <ab type="paratext" facs="#zone-f027-u19" xml:id="f027-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f027-u20" xml:id="f027-u20">二十四</ab>
+      </div>
+      <div type="image" n="f028">
+        <pb facs="#surface-f028" n="f028" />
+        <ab type="body" facs="#zone-f028-u01" xml:id="f028-u01">長上入魚際下入尺澤矣左尺亦洪大無倫幸右</ab>
+        <ab type="body" facs="#zone-f028-u02" xml:id="f028-u02">尺稍軟余曰熱深厥亦深非瘧也用四物去芎加</ab>
+        <ab type="body" facs="#zone-f028-u03" xml:id="f028-u03">黃栢知母天花粉山梔用柴胡以升陽兩服全愈</ab>
+        <ab type="body" facs="#zone-f028-u04" xml:id="f028-u04">一女及笄患嘔吐得肉食稍止穀食入則嘔衆醫不</ab>
+        <ab type="body" facs="#zone-f028-u05" xml:id="f028-u05">效請余診之心肺洪大余曰此痰結於上也以連</ab>
+        <ab type="body" facs="#zone-f028-u06" xml:id="f028-u06">芩桑白吳茱萸陳皮半夏炙草茯苓等藥投之三</ab>
+        <ab type="body" facs="#zone-f028-u07" xml:id="f028-u07">劑全愈</ab>
+        <ab type="body" facs="#zone-f028-u08" xml:id="f028-u08">一人患泄服理中湯晝夜十餘次再服痰湧氣逆四</ab>
+        <ab type="body" facs="#zone-f028-u09" xml:id="f028-u09">肢厥逆不醒請余診之脈六七至知其熱也用生</ab>
+        <ab type="body" facs="#zone-f028-u10" xml:id="f028-u10">白芍當歸黃芩黃栢川連桃仁陳皮生草郁李仁</ab>
+        <ab type="body" facs="#zone-f028-u11" xml:id="f028-u11">枳殼生薑汁竹瀝投之一劑卽瘥</ab>
+        <ab type="body" facs="#zone-f028-u12" xml:id="f028-u12">一婦頭痛經年不止百藥無效奄奄待斃求方於余</ab>
+        <ab type="body" facs="#zone-f028-u13" xml:id="f028-u13">余問其頭痛何時劇答以午後至夜劇余曰許學</ab>
+        <ab type="body" facs="#zone-f028-u14" xml:id="f028-u14">士云坎至離腎氣乃絕木瓜煎可愈余授以方三</ab>
+        <ab type="body" facs="#zone-f028-u15" xml:id="f028-u15">服而愈</ab>
+        <ab type="body" facs="#zone-f028-u16" xml:id="f028-u16">一人患大小便不通腹痛如割請余診之兩尺脈俱</ab>
+        <ab type="body" facs="#zone-f028-u17" xml:id="f028-u17">無方診之次腹痛氣絕針之入寸許無血余曰此</ab>
+        <ab type="body" facs="#zone-f028-u18" xml:id="f028-u18">血結膀胱證也投之以桃仁承氣湯而愈</ab>
+        <ab type="paratext" facs="#zone-f028-u19" xml:id="f028-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f028-u20" xml:id="f028-u20">二十五</ab>
+      </div>
+      <div type="image" n="f029">
+        <pb facs="#surface-f029" n="f029" />
+        <ab type="body" facs="#zone-f029-u01" xml:id="f029-u01">一人患嗽夜不得眠覆席而臥所用皆涼血降火清</ab>
+        <ab type="body" facs="#zone-f029-u02" xml:id="f029-u02">痰之劑余診之肺脈虛甚余曰此肺痿之證經云</ab>
+        <ab type="body" facs="#zone-f029-u03" xml:id="f029-u03">形寒飲冷則傷肺正謂此也以十全大補加乾薑</ab>
+        <ab type="body" facs="#zone-f029-u04" xml:id="f029-u04">投之夜卽能反側再以十全大補去乾薑加欵冬</ab>
+        <ab type="body" facs="#zone-f029-u05" xml:id="f029-u05">紫苑麥冬五味三劑而痊仲景以理中湯治肺痿</ab>
+        <ab type="body" facs="#zone-f029-u06" xml:id="f029-u06">淺人豈能識此哉</ab>
+        <ab type="body" facs="#zone-f029-u07" xml:id="f029-u07">一人患病夜不得眠并不能反側眼不能合衆醫治</ab>
+        <ab type="body" facs="#zone-f029-u08" xml:id="f029-u08">不應余診之左右尺俱洪而急右寸亦急水虧而</ab>
+        <ab type="body" facs="#zone-f029-u09" xml:id="f029-u09">熱薰肺也以四物加芩栢生地以救肺療腎一劑</ab>
+        <ab type="body" facs="#zone-f029-u10" xml:id="f029-u10">而痊三劑全愈蓋眼不能合陽氣不得下交入陰</ab>
+        <ab type="body" facs="#zone-f029-u11" xml:id="f029-u11">中也不能反側肝血傷也亂服桂附枯槁陰血所</ab>
+        <ab type="body" facs="#zone-f029-u12" xml:id="f029-u12">致</ab>
+        <ab type="body" facs="#zone-f029-u13" xml:id="f029-u13">一人患風毒流注證瘡口潰爛外科用清解涼藥發</ab>
+        <ab type="body" facs="#zone-f029-u14" xml:id="f029-u14">瀉數次瘡口陷下瀕於危矣邀余診之六脈虛細</ab>
+        <ab type="body" facs="#zone-f029-u15" xml:id="f029-u15">無力余以景岳五陰煎加黃耆首烏大劑與之一</ab>
+        <ab type="body" facs="#zone-f029-u16" xml:id="f029-u16">劑瀉止五劑瘡口收功</ab>
+        <ab type="body" facs="#zone-f029-u17" xml:id="f029-u17">一人患瘧痢兼作證瘧發時痢愈甚已月餘矣衆醫</ab>
+        <ab type="body" facs="#zone-f029-u18" xml:id="f029-u18">治不效請余診之六脈浮緊而弦余曰此太陽少</ab>
+        <ab type="paratext" facs="#zone-f029-u19" xml:id="f029-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f029-u20" xml:id="f029-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f029-u21" xml:id="f029-u21">二六</ab>
+      </div>
+      <div type="image" n="f030">
+        <pb facs="#surface-f030" n="f030" />
+        <ab type="body" facs="#zone-f030-u01" xml:id="f030-u01">陽合病也仲景用黃芩湯以和之裏氣和則外證</ab>
+        <ab type="body" facs="#zone-f030-u02" xml:id="f030-u02">自解但病已月餘服溫瀉藥過多又當活法變通</ab>
+        <ab type="body" facs="#zone-f030-u03" xml:id="f030-u03">余以黃芩湯加柴胡葛根鱉甲大劑與之三劑全</ab>
+        <ab type="body" facs="#zone-f030-u04" xml:id="f030-u04">愈</ab>
+        <ab type="body" facs="#zone-f030-u05" xml:id="f030-u05">一人病瘧月餘衆醫以參耆等藥補之不愈轉甚請</ab>
+        <ab type="body" facs="#zone-f030-u06" xml:id="f030-u06">余診之肺脈洪大余曰日服人參肺盛而更補肺</ab>
+        <ab type="body" facs="#zone-f030-u07" xml:id="f030-u07">非其治也以四物加木香檳榔陳皮炙草白术治</ab>
+        <ab type="body" facs="#zone-f030-u08" xml:id="f030-u08">之一劑減半再劑以八珍湯加桑白皮白蔻鱉甲</ab>
+        <ab type="body" facs="#zone-f030-u09" xml:id="f030-u09">治之全愈</ab>
+        <ab type="body" facs="#zone-f030-u10" xml:id="f030-u10">一人患心腹疼痛累日醫用理中真武等劑不應邀</ab>
+        <ab type="body" facs="#zone-f030-u11" xml:id="f030-u11">余診之胃脈獨沈時值十一月余曰此客氣犯胃</ab>
+        <ab type="body" facs="#zone-f030-u12" xml:id="f030-u12">也宜散以辛熱佐以苦甘滲以甘淡氣溫胃和其</ab>
+        <ab type="body" facs="#zone-f030-u13" xml:id="f030-u13">痛自止非真武理中所宜用厚朴溫中湯投之立</ab>
+        <ab type="body" facs="#zone-f030-u14" xml:id="f030-u14">愈</ab>
+        <ab type="body" facs="#zone-f030-u15" xml:id="f030-u15">一人途次患急淋證服藥不驗抵家時大便兼難痛</ab>
+        <ab type="body" facs="#zone-f030-u16" xml:id="f030-u16">急難忍余診之手陽明手少陽二經俱急以局方</ab>
+        <ab type="body" facs="#zone-f030-u17" xml:id="f030-u17">八正散重用大黃通之立愈大便通則小便自利</ab>
+        <ab type="body" facs="#zone-f030-u18" xml:id="f030-u18">此丹溪一法也</ab>
+        <ab type="paratext" facs="#zone-f030-u19" xml:id="f030-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f030-u20" xml:id="f030-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f030-u21" xml:id="f030-u21">二七</ab>
+      </div>
+      <div type="image" n="f031">
+        <pb facs="#surface-f031" n="f031" />
+        <ab type="body" facs="#zone-f031-u01" xml:id="f031-u01">一婦患咳嗽不絶聲喉中如有物余診之脈小而急</ab>
+        <ab type="body" facs="#zone-f031-u02" xml:id="f031-u02">用四物加麥冬五味黃芩貝母欵冬百合地骨桔</ab>
+        <ab type="body" facs="#zone-f031-u03" xml:id="f031-u03">梗投之告以夜飯後緩口慢服放去枕而臥一劑</ab>
+        <ab type="body" facs="#zone-f031-u04" xml:id="f031-u04">而痊</ab>
+        <ab type="body" facs="#zone-f031-u05" xml:id="f031-u05">一婦年七十餘患氣逆虛浮附近有知醫者連投貞</ab>
+        <ab type="body" facs="#zone-f031-u06" xml:id="f031-u06">元飲金水六君加肉桂氣加喘危在且夕余診之</ab>
+        <ab type="body" facs="#zone-f031-u07" xml:id="f031-u07">左手寸關俱急右寸微急余曰此木火刑金證也</ab>
+        <ab type="body" facs="#zone-f031-u08" xml:id="f031-u08">當清肝養肺爲主用沙參麥冬枇杷葉桑白皮酒</ab>
+        <ab type="body" facs="#zone-f031-u09" xml:id="f031-u09">芍川貝茯苓生草投之一劑而痊</ab>
+        <ab type="body" facs="#zone-f031-u10" xml:id="f031-u10">一人患中風不語衆以爲不治欲投桂附人參請余</ab>
+        <ab type="body" facs="#zone-f031-u11" xml:id="f031-u11">決之診得脈浮而緩非死證也且右大於左是痰</ab>
+        <ab type="body" facs="#zone-f031-u12" xml:id="f031-u12">生火火爲本而風爲標用沙參麥冬膽星半夏陳</ab>
+        <ab type="body" facs="#zone-f031-u13" xml:id="f031-u13">皮甘草茯神遠志歸芍石菖蒲秦艽鈎藤竹瀝薑</ab>
+        <ab type="body" facs="#zone-f031-u14" xml:id="f031-u14">汁投之一劑而甦再劑全愈</ab>
+        <ab type="body" facs="#zone-f031-u15" xml:id="f031-u15">一人患胸膈刺痛兼吐五日一發痛極拊按吐則五</ab>
+        <ab type="body" facs="#zone-f031-u16" xml:id="f031-u16">日前所食諸物盡吐出始快平日則胸膈痞悶飢</ab>
+        <ab type="body" facs="#zone-f031-u17" xml:id="f031-u17">而食不下據云痛係舊疾但從前無如此之甚近</ab>
+        <ab type="body" facs="#zone-f031-u18" xml:id="f031-u18">因端午後飲食不調發出兼吐證醫作寒治用止</ab>
+        <ab type="paratext" facs="#zone-f031-u19" xml:id="f031-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f031-u20" xml:id="f031-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f031-u21" xml:id="f031-u21">二八</ab>
+      </div>
+      <div type="image" n="f032">
+        <pb facs="#surface-f032" n="f032" />
+        <ab type="body" facs="#zone-f032-u01" xml:id="f032-u01">痛止吐辛熱等藥屢服月餘不效脈寸關沈伏兼</ab>
+        <ab type="body" facs="#zone-f032-u02" xml:id="f032-u02">澀兩尺虛浮而急面目氣色凝滯戴元禮曰房勞</ab>
+        <ab type="body" facs="#zone-f032-u03" xml:id="f032-u03">腎虛之人胸膈多有隱痛此腎虛不能納氣氣虛</ab>
+        <ab type="body" facs="#zone-f032-u04" xml:id="f032-u04">不能生血之故氣與血猶水也盛則流暢虛則鮮</ab>
+        <ab type="body" facs="#zone-f032-u05" xml:id="f032-u05">有不滯者所以作痛今此證尺脈虛浮而急從前</ab>
+        <ab type="body" facs="#zone-f032-u06" xml:id="f032-u06">舊疾恐屬房勞過度理應補水但近證得諸飲食</ab>
+        <ab type="body" facs="#zone-f032-u07" xml:id="f032-u07">失調夏令暑溼傷脾陰陽不和以致中焦胃鬱肺</ab>
+        <ab type="body" facs="#zone-f032-u08" xml:id="f032-u08">金之氣不得下降五日一發者天數五從脾周而</ab>
+        <ab type="body" facs="#zone-f032-u09" xml:id="f032-u09">復始也加以溫中燥藥熱締於中當升者不得升</ab>
+        <ab type="body" facs="#zone-f032-u10" xml:id="f032-u10">當降者不得降當變化者不得變化安得平善治</ab>
+        <ab type="body" facs="#zone-f032-u11" xml:id="f032-u11">當先開胃土之鬱清肺金之燥然後以補水法收</ab>
+        <ab type="body" facs="#zone-f032-u12" xml:id="f032-u12">之方用香砂六君加蒼术神麯歸芍青皮陳皮麥</ab>
+        <ab type="body" facs="#zone-f032-u13" xml:id="f032-u13">冬竹茹扶土平木清肺開鬱不數劑而痛減吐止</ab>
+        <ab type="body" facs="#zone-f032-u14" xml:id="f032-u14">食進後以生脈飲合小營煎上補肺金下足腎水</ab>
+        <ab type="body" facs="#zone-f032-u15" xml:id="f032-u15">中佐香砂二陳以治餘氣諸證如失</ab>
+        <ab type="body" facs="#zone-f032-u16" xml:id="f032-u16">寓舍鄰人有患吐瀉證聞其呻吟之聲甚苦余欲醫</ab>
+        <ab type="body" facs="#zone-f032-u17" xml:id="f032-u17">之家人曰彼自有醫何用吾爲遂止旋卽外出越</ab>
+        <ab type="body" facs="#zone-f032-u18" xml:id="f032-u18">六日而旋復聞病人叫腹痛更甚急欲救之家人</ab>
+        <ab type="paratext" facs="#zone-f032-u19" xml:id="f032-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f032-u20" xml:id="f032-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f032-u21" xml:id="f032-u21">二九</ab>
+      </div>
+      <div type="image" n="f033">
+        <pb facs="#surface-f033" n="f033" />
+        <ab type="body" facs="#zone-f033-u01" xml:id="f033-u01">又阻余曰昔許叔微學士精於醫奉試差宿傳舍</ab>
+        <ab type="body" facs="#zone-f033-u02" xml:id="f033-u02">半夜聞隔壁病人喊叫聲急起救之果瘳學士君</ab>
+        <ab type="body" facs="#zone-f033-u03" xml:id="f033-u03">命在身心切救人不避嫌疑如此余乃懼煩耶家</ab>
+        <ab type="body" facs="#zone-f033-u04" xml:id="f033-u04">人始如命往詢其疾時值夏令因飲食不調先則</ab>
+        <ab type="body" facs="#zone-f033-u05" xml:id="f033-u05">霍亂吐瀉後則腹痛口渴小便不利所服皆理中</ab>
+        <ab type="body" facs="#zone-f033-u06" xml:id="f033-u06">六君等劑余曰誤矣告以不用診脈以生脈飲合</ab>
+        <ab type="body" facs="#zone-f033-u07" xml:id="f033-u07">六和湯重加芍藥治之一劑而痊</ab>
+        <ab type="body" facs="#zone-f033-u08" xml:id="f033-u08">一人自蘇來楚因途中阻水停舟處水土惡劣沾吐</ab>
+        <ab type="body" facs="#zone-f033-u09" xml:id="f033-u09">瀉證服藥愈後到省未幾食入卽吐人作寒證用</ab>
+        <ab type="body" facs="#zone-f033-u10" xml:id="f033-u10">香砂六君加乾薑不應又作肝火吐酸證用左金</ab>
+        <ab type="body" facs="#zone-f033-u11" xml:id="f033-u11">治之又不應遂疑爲反胃證請余診之左寸微燥</ab>
+        <ab type="body" facs="#zone-f033-u12" xml:id="f033-u12">而急兩關鼓指而弦余曰此肺氣不得下降胃火</ab>
+        <ab type="body" facs="#zone-f033-u13" xml:id="f033-u13">上衝肝膽之火助之逆也時值夏令病起於水土</ab>
+        <ab type="body" facs="#zone-f033-u14" xml:id="f033-u14">不服用橘半竹茹湯合六和湯治之一劑而三日</ab>
+        <ab type="body" facs="#zone-f033-u15" xml:id="f033-u15">一發再劑而四五日一發或旬日一發後以金水</ab>
+        <ab type="body" facs="#zone-f033-u16" xml:id="f033-u16">六君合生脈飲加芍藥收之戒以勿藥調養自痊</ab>
+        <ab type="body" facs="#zone-f033-u17" xml:id="f033-u17">果如言而愈經云無毒治病十去其九穀肉果菜</ab>
+        <ab type="body" facs="#zone-f033-u18" xml:id="f033-u18">食養盡之卽此謂也</ab>
+        <ab type="paratext" facs="#zone-f033-u19" xml:id="f033-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f033-u20" xml:id="f033-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f033-u21" xml:id="f033-u21">三十</ab>
+      </div>
+      <div type="image" n="f034">
+        <pb facs="#surface-f034" n="f034" />
+        <ab type="body" facs="#zone-f034-u01" xml:id="f034-u01">一婦先患咳嗽後服衆醫藥氣加喘喉聲如鋸危在</ab>
+        <ab type="body" facs="#zone-f034-u02" xml:id="f034-u02">旦夕問余求方查其所服皆燥熱之藥余曰經云</ab>
+        <ab type="body" facs="#zone-f034-u03" xml:id="f034-u03">諸逆衝上皆屬於火急以竹瀝薑汁加童便投之</ab>
+        <ab type="body" facs="#zone-f034-u04" xml:id="f034-u04">彼果如言連服三日而愈</ab>
+        <ab type="body" facs="#zone-f034-u05" xml:id="f034-u05">一婦先因經病作胎安之後畜血如狂又作火治之</ab>
+        <ab type="body" facs="#zone-f034-u06" xml:id="f034-u06">用藥雜投纏綿不已經五閱月余診之偃息在床</ab>
+        <ab type="body" facs="#zone-f034-u07" xml:id="f034-u07">肌瘦如柴面顴發紅氣逆心怔食入多吐吐則色</ab>
+        <ab type="body" facs="#zone-f034-u08" xml:id="f034-u08">黃而味鹹日食米糊一半碗餘不能進猶幸脈細</ab>
+        <ab type="body" facs="#zone-f034-u09" xml:id="f034-u09">而靜爲病後所宜人尚欲以命門缺火壯之余曰</ab>
+        <ab type="body" facs="#zone-f034-u10" xml:id="f034-u10">大病之後精液枯竭虛火上炎故面顴發紅心經</ab>
+        <ab type="body" facs="#zone-f034-u11" xml:id="f034-u11">缺血故怔胃虛陽熱肺氣不得下降故氣逆肝木</ab>
+        <ab type="body" facs="#zone-f034-u12" xml:id="f034-u12">衝胃故吐色黃屬脾味鹹屬腎脾腎兩虛金水俱</ab>
+        <ab type="body" facs="#zone-f034-u13" xml:id="f034-u13">虧非陰陽並補不足以挽造化第經云病發而不</ab>
+        <ab type="body" facs="#zone-f034-u14" xml:id="f034-u14">足標而本之法應先治其標爲之畧清數劑遂以</ab>
+        <ab type="body" facs="#zone-f034-u15" xml:id="f034-u15">陳氏五味子湯合景岳小營煎補氣生血加棗仁</ab>
+        <ab type="body" facs="#zone-f034-u16" xml:id="f034-u16">茯神遠志丹參龍齒硃砂以定心寧神加杜仲續</ab>
+        <ab type="body" facs="#zone-f034-u17" xml:id="f034-u17">斷狗脊以壯筋骨令其起步更佐砂仁香附石斛</ab>
+        <ab type="body" facs="#zone-f034-u18" xml:id="f034-u18">蒼术生薑陳皮法夏安胃止吐調氣開鬱以治餘</ab>
+        <ab type="paratext" facs="#zone-f034-u19" xml:id="f034-u19">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f034-u20" xml:id="f034-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f034-u21" xml:id="f034-u21">三一</ab>
+      </div>
+      <div type="image" n="f035">
+        <pb facs="#surface-f035" n="f035" />
+        <ab type="body" facs="#zone-f035-u01" xml:id="f035-u01">氣一劑而證減再劑而食進病痊遂去石斛硃砂</ab>
+        <ab type="body" facs="#zone-f035-u02" xml:id="f035-u02">龍齒生薑倉米法夏連服二十餘劑飲食加進肌</ab>
+        <ab type="body" facs="#zone-f035-u03" xml:id="f035-u03">肉漸長起床善步後用此方十倍煉丸服之全愈</ab>
+        <ab type="body" facs="#zone-f035-u04" xml:id="f035-u04">一婦上病咳嗽下病大便秘結小便急淋脚氣作痛</ab>
+        <ab type="body" facs="#zone-f035-u05" xml:id="f035-u05">經秘半載不行中則脇腹兼疼余診之證雜而脈</ab>
+        <ab type="body" facs="#zone-f035-u06" xml:id="f035-u06">無倫次此<unclear>□</unclear>變為熱三焦合病也以四物湯加沙</ab>
+        <ab type="body" facs="#zone-f035-u07" xml:id="f035-u07">參麥冬貝母丹參秦艽黃芩梔子木通牛膝茯苓</ab>
+        <ab type="body" facs="#zone-f035-u08" xml:id="f035-u08">陳皮砂仁香附等藥投之一劑而嗽減大小便通</ab>
+        <ab type="body" facs="#zone-f035-u09" xml:id="f035-u09">再劑去川貝梔子茯苓而經通諸證如失</ab>
+        <ab type="paratext" facs="#zone-f035-u10" xml:id="f035-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f035-u11" xml:id="f035-u11">一婦妊娠患滯下證醫用藥止之通之俱不應請余</ab>
+        <ab type="body" facs="#zone-f035-u12" xml:id="f035-u12">診之脈虛而滯兩關帶濇余曰此由胎氣不和相</ab>
+        <ab type="body" facs="#zone-f035-u13" xml:id="f035-u13">火炎上而有熱似痢實非也用黨參炒术黃芩生</ab>
+        <ab type="body" facs="#zone-f035-u14" xml:id="f035-u14">熟地歸芍砂仁陳皮香附生草等藥投之一劑而</ab>
+        <ab type="body" facs="#zone-f035-u15" xml:id="f035-u15">證減再劑而愈</ab>
+        <ab type="body" facs="#zone-f035-u16" xml:id="f035-u16">一人忽患痰迷心竅不省人事下遺尿兩關脈俱滑</ab>
+        <ab type="body" facs="#zone-f035-u17" xml:id="f035-u17">痰鬱中焦余用降火導痰法以陳皮薑汁童便加</ab>
+        <ab type="body" facs="#zone-f035-u18" xml:id="f035-u18">鹽少許投之吐出頑痰碗許遂醒次早復作如癇</ab>
+        <ab type="body" facs="#zone-f035-u19" xml:id="f035-u19">余以黨參丹參石菖蒲棗仁遠志茯神陳皮砂仁</ab>
+        <ab type="paratext" facs="#zone-f035-u20" xml:id="f035-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f035-u21" xml:id="f035-u21">三十二</ab>
+      </div>
+      <div type="image" n="f036">
+        <pb facs="#surface-f036" n="f036" />
+        <ab type="body" facs="#zone-f036-u01" xml:id="f036-u01">法夏膽星生熟地歸芍鉤藤等藥投之立愈不再</ab>
+        <ab type="body" facs="#zone-f036-u02" xml:id="f036-u02">發矣</ab>
+        <ab type="body" facs="#zone-f036-u03" xml:id="f036-u03">一老婦患病夜不寐口乾而渴腸燥而結經名手作</ab>
+        <ab type="body" facs="#zone-f036-u04" xml:id="f036-u04">肝火治之不應請余診之六脈促濇余曰此老人</ab>
+        <ab type="body" facs="#zone-f036-u05" xml:id="f036-u05">燥證也以小營煎加沙參麥冬生地棗仁茯神遠</ab>
+        <ab type="body" facs="#zone-f036-u06" xml:id="f036-u06">志陳皮砂仁投之一劑安寢腸通</ab>
+        <ab type="body" facs="#zone-f036-u07" xml:id="f036-u07">一人因齒痛自服清胃散復痛作瀉請余診之右尺</ab>
+        <ab type="body" facs="#zone-f036-u08" xml:id="f036-u08">細急余曰此少陽相火炎上也與陽明無干服清</ab>
+        <ab type="body" facs="#zone-f036-u09" xml:id="f036-u09">胃散宜其作瀉耳今宜先治其標以四君加淮山</ab>
+        <ab type="paratext" facs="#zone-f036-u10" xml:id="f036-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f036-u11" xml:id="f036-u11">扁豆五味酒芍投之翌日再診瀉止而齒仍痛意</ab>
+        <ab type="body" facs="#zone-f036-u12" xml:id="f036-u12">其必服壯火藥所致問之果服八味丸已數閱月</ab>
+        <ab type="body" facs="#zone-f036-u13" xml:id="f036-u13">余曰八味非此脈所宜以六味地黃湯加牛膝骨</ab>
+        <ab type="body" facs="#zone-f036-u14" xml:id="f036-u14">碎補投之三劑而愈</ab>
+        <ab type="body" facs="#zone-f036-u15" xml:id="f036-u15">一婦患齒痛經名手用川連石膏梔子等藥連服七</ab>
+        <ab type="body" facs="#zone-f036-u16" xml:id="f036-u16">劑不愈余診之右手寸關洪緩此風熱在手足陽</ab>
+        <ab type="body" facs="#zone-f036-u17" xml:id="f036-u17">明二經也當升陽以散火用秦艽白芷細辛生地</ab>
+        <ab type="body" facs="#zone-f036-u18" xml:id="f036-u18">獨活石膏甘草薄荷蔓荊桔梗連翹青鹽等藥投</ab>
+        <ab type="body" facs="#zone-f036-u19" xml:id="f036-u19">之一劑而痊</ab>
+        <ab type="paratext" facs="#zone-f036-u20" xml:id="f036-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f036-u21" xml:id="f036-u21">三十三</ab>
+      </div>
+      <div type="image" n="f037">
+        <pb facs="#surface-f037" n="f037" />
+        <ab type="body" facs="#zone-f037-u01" xml:id="f037-u01">一人患手臂麻木作痛醫作風治之用驅風藥累服</ab>
+        <ab type="body" facs="#zone-f037-u02" xml:id="f037-u02">無效飲食少進余診之六脈沉細此痰飲為病非</ab>
+        <ab type="body" facs="#zone-f037-u03" xml:id="f037-u03">風也時值夏令暑<unclear>□</unclear>蒸熱脾土受傷故飲食少進</ab>
+        <ab type="body" facs="#zone-f037-u04" xml:id="f037-u04">用清暑益氣湯去黃柏澤瀉柴葛加法夏投之而</ab>
+        <ab type="body" facs="#zone-f037-u05" xml:id="f037-u05">愈後因乘涼過度引暑入內發熱自利胸膈飽悶</ab>
+        <ab type="body" facs="#zone-f037-u06" xml:id="f037-u06">有疑為少陽陽明證及漏底傷寒併結胸證者余</ab>
+        <ab type="body" facs="#zone-f037-u07" xml:id="f037-u07">曰皆非也脈虛身熱得之傷暑自利乃挾熱也用</ab>
+        <ab type="body" facs="#zone-f037-u08" xml:id="f037-u08">香薷丸投之諸證如失再以清暑益氣湯去黃柏</ab>
+        <ab type="body" facs="#zone-f037-u09" xml:id="f037-u09">柴葛澤瀉加棗仁茯神遠志酒芍藿梗連服三劑</ab>
+        <ab type="paratext" facs="#zone-f037-u10" xml:id="f037-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f037-u11" xml:id="f037-u11">飲食亦進</ab>
+        <ab type="body" facs="#zone-f037-u12" xml:id="f037-u12">一人傷暑醫作傷寒治之用羌活防風等藥以發其</ab>
+        <ab type="body" facs="#zone-f037-u13" xml:id="f037-u13">汗手足厥逆汗流不止又疑為夾陰傷寒欲用桂</ab>
+        <ab type="body" facs="#zone-f037-u14" xml:id="f037-u14">附以回陽請余決之六脈俱細此傷暑兼<unclear>□</unclear>證也</ab>
+        <ab type="body" facs="#zone-f037-u15" xml:id="f037-u15">因發汗而衛氣失守以清暑益氣湯去黃柏澤瀉</ab>
+        <ab type="body" facs="#zone-f037-u16" xml:id="f037-u16">柴葛加生熟地芍藥棗仁茯神丹參遠志陳皮砂</ab>
+        <ab type="body" facs="#zone-f037-u17" xml:id="f037-u17">仁浮小麥投之一劑而汗止厥回三劑全愈</ab>
+        <ab type="body" facs="#zone-f037-u18" xml:id="f037-u18">一人患耳中作痛無寒熱紅腫等證外科作風火證</ab>
+        <ab type="body" facs="#zone-f037-u19" xml:id="f037-u19">治內服清解等藥外用升散藥燒酒調敷耳中出</ab>
+        <ab type="paratext" facs="#zone-f037-u20" xml:id="f037-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f037-u21" xml:id="f037-u21">三十四</ab>
+      </div>
+      <div type="image" n="f038">
+        <pb facs="#surface-f038" n="f038" />
+        <ab type="body" facs="#zone-f038-u01" xml:id="f038-u01">血水頭亦兼痛晝夜不眠請余診之尺脈虛浮此</ab>
+        <ab type="body" facs="#zone-f038-u02" xml:id="f038-u02">少陰經虛火上炎非癰疽證也升散清解誅伐無</ab>
+        <ab type="body" facs="#zone-f038-u03" xml:id="f038-u03">過遂令頭亦痛用甘草湯調蜜洗去敷藥內服六</ab>
+        <ab type="body" facs="#zone-f038-u04" xml:id="f038-u04">味地黃湯加牛膝立痊次日再診頭仍微痛用四</ab>
+        <ab type="body" facs="#zone-f038-u05" xml:id="f038-u05">物湯加玉竹甘菊地骨蔓荊天麻二劑而頭痛亦</ab>
+        <ab type="body" facs="#zone-f038-u06" xml:id="f038-u06">愈</ab>
+        <ab type="body" facs="#zone-f038-u07" xml:id="f038-u07">一婦患血崩證醫用補中益氣及歸脾湯加固濇藥</ab>
+        <ab type="body" facs="#zone-f038-u08" xml:id="f038-u08">皆不應求方於余余曰心生血肝藏血脾統血血</ab>
+        <ab type="body" facs="#zone-f038-u09" xml:id="f038-u09">涼則生血熱則行須合數法治之徒用升提補濇</ab>
+        <ab type="paratext" facs="#zone-f038-u10" xml:id="f038-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f038-u11" xml:id="f038-u11">無益也為處一方用人參炒白术炙黃耆生甘草</ab>
+        <ab type="body" facs="#zone-f038-u12" xml:id="f038-u12">茯神炒棗仁遠志生地熟地丹參當歸頭白芍</ab>
+        <ab type="note" facs="#zone-f038-u13" xml:id="f038-u13">醋</ab>
+        <ab type="note" facs="#zone-f038-u14" xml:id="f038-u14">炒</ab>
+        <ab type="body" facs="#zone-f038-u15" xml:id="f038-u15">續斷阿膠黃蘗地榆陳皮砂仁香附五</ab>
+        <ab type="note" facs="#zone-f038-u16" xml:id="f038-u16">蒲黃</ab>
+        <ab type="note" facs="#zone-f038-u17" xml:id="f038-u17">炒</ab>
+        <ab type="note" facs="#zone-f038-u18" xml:id="f038-u18">炒</ab>
+        <ab type="note" facs="#zone-f038-u19" xml:id="f038-u19">黑</ab>
+        <ab type="note" facs="#zone-f038-u20" xml:id="f038-u20">炒</ab>
+        <ab type="note" facs="#zone-f038-u21" xml:id="f038-u21">黑</ab>
+        <ab type="body" facs="#zone-f038-u22" xml:id="f038-u22">味投之一劑崩減二劑全愈</ab>
+        <ab type="body" facs="#zone-f038-u23" xml:id="f038-u23">一婦難產腹痛數天服加味芎歸湯而不得生求方</ab>
+        <ab type="body" facs="#zone-f038-u24" xml:id="f038-u24">於余余曰加味芎歸湯龜板與血餘均無運動之</ab>
+        <ab type="body" facs="#zone-f038-u25" xml:id="f038-u25">氣且龜性屬陰其首常藏向腹非所以催生也余</ab>
+        <ab type="body" facs="#zone-f038-u26" xml:id="f038-u26">用芎歸湯加丹參益母陳皮香附投之一劑而產</ab>
+        <ab type="body" facs="#zone-f038-u27" xml:id="f038-u27">蓋婦人血虧氣滯者多加此則情不違而有益後</ab>
+        <ab type="paratext" facs="#zone-f038-u28" xml:id="f038-u28">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f038-u29" xml:id="f038-u29">三十五</ab>
+      </div>
+      <div type="image" n="f039">
+        <pb facs="#surface-f039" n="f039" />
+        <ab type="body" facs="#zone-f039-u01" xml:id="f039-u01">以此法催生無不立效</ab>
+        <ab type="body" facs="#zone-f039-u02" xml:id="f039-u02">一人傷寒口苦舌乾而渴齒齦出血日晡潮熱大便</ab>
+        <ab type="body" facs="#zone-f039-u03" xml:id="f039-u03">不通衆醫無效求方於余於法當下之余未診其</ab>
+        <ab type="body" facs="#zone-f039-u04" xml:id="f039-u04">脈只參酌仲景大柴胡之意用柴葛秦艽青蒿地</ab>
+        <ab type="body" facs="#zone-f039-u05" xml:id="f039-u05">骨皮酒芩知母生地歸芍瓜蔞仁木通枳殻甘草</ab>
+        <ab type="body" facs="#zone-f039-u06" xml:id="f039-u06">等藥解表清裏一劑而熱退大便通諸證如失</ab>
+        <ab type="body" facs="#zone-f039-u07" xml:id="f039-u07">一人病瘧先寒後熱寒短熱長服小柴胡湯加渴求</ab>
+        <ab type="body" facs="#zone-f039-u08" xml:id="f039-u08">方於余余曰經云服柴胡湯已渴者屬陽明也為</ab>
+        <ab type="body" facs="#zone-f039-u09" xml:id="f039-u09">處一方用柴胡一錢五分葛根一錢炒黃芩一錢</ab>
+        <ab type="paratext" facs="#zone-f039-u10" xml:id="f039-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f039-u11" xml:id="f039-u11">知母一錢白茯苓一錢五分生甘草五分等藥投</ab>
+        <ab type="body" facs="#zone-f039-u12" xml:id="f039-u12">之告其瘧未發前二時溫服之一劑而愈後以此</ab>
+        <ab type="body" facs="#zone-f039-u13" xml:id="f039-u13">湯治瘧初起者或一劑或二劑如法服之無不立</ab>
+        <ab type="body" facs="#zone-f039-u14" xml:id="f039-u14">驗蓋瘧屬少陽證者多其熱多與渴即兼陽明也</ab>
+        <ab type="body" facs="#zone-f039-u15" xml:id="f039-u15">一人病瘧大便數日不通小便短而赤醫有用大柴</ab>
+        <ab type="body" facs="#zone-f039-u16" xml:id="f039-u16">胡湯者有用小承氣湯者病家不敢服請余決之</ab>
+        <ab type="body" facs="#zone-f039-u17" xml:id="f039-u17">余曰裏證雖見未全實不可下若下之傷其胃氣</ab>
+        <ab type="body" facs="#zone-f039-u18" xml:id="f039-u18">恐致變證即欲下之亦無難何必大黃為處解表</ab>
+        <ab type="body" facs="#zone-f039-u19" xml:id="f039-u19">清裏一方用柴胡葛根黃芩知母秦艽青蒿地骨</ab>
+        <ab type="paratext" facs="#zone-f039-u20" xml:id="f039-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f039-u21" xml:id="f039-u21">三十六</ab>
+      </div>
+      <div type="image" n="f040">
+        <pb facs="#surface-f040" n="f040" />
+        <ab type="body" facs="#zone-f040-u01" xml:id="f040-u01">皮瓜蔞仁木通枳殻茯苓歸身甘草等藥一劑而</ab>
+        <ab type="body" facs="#zone-f040-u02" xml:id="f040-u02">大小便通利寒熱亦去而愈後遇此證俱以此法</ab>
+        <ab type="body" facs="#zone-f040-u03" xml:id="f040-u03">施之無不立效</ab>
+        <ab type="body" facs="#zone-f040-u04" xml:id="f040-u04">一人病瘧愈而復發求方於余余曰此正氣虛而餘</ab>
+        <ab type="body" facs="#zone-f040-u05" xml:id="f040-u05">邪未盡也為處補正去邪方用玉竹炒术甘草茯</ab>
+        <ab type="body" facs="#zone-f040-u06" xml:id="f040-u06">苓首烏鱉甲歸身柴胡葛根黃芩知母草果青蒿</ab>
+        <ab type="body" facs="#zone-f040-u07" xml:id="f040-u07">地骨皮穿山甲甘草等藥令其未發前一時服之</ab>
+        <ab type="body" facs="#zone-f040-u08" xml:id="f040-u08">一劑而愈後凡遇此證者俱以此法施之皆效更</ab>
+        <ab type="body" facs="#zone-f040-u09" xml:id="f040-u09">病瘧者或因食牛肉與雞多致纏綿不已余每逢</ab>
+        <ab type="paratext" facs="#zone-f040-u10" xml:id="f040-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f040-u11" xml:id="f040-u11">病瘧者便戒以禁口兼勿食此二味皆不至愈而</ab>
+        <ab type="body" facs="#zone-f040-u12" xml:id="f040-u12">復發</ab>
+        <ab type="body" facs="#zone-f040-u13" xml:id="f040-u13">一人患<unclear>□</unclear>瘧午後發潮熱夜半方退大便八日不下</ab>
+        <ab type="body" facs="#zone-f040-u14" xml:id="f040-u14">醫用大柴胡湯下之不應復易方大黃以生者攻</ab>
+        <ab type="body" facs="#zone-f040-u15" xml:id="f040-u15">之仍如故請余診之脈洪大而燥無痞滿堅實諸</ab>
+        <ab type="body" facs="#zone-f040-u16" xml:id="f040-u16">證宜潤不宜下用羅謙甫秦艽鱉甲散去烏梅加</ab>
+        <ab type="body" facs="#zone-f040-u17" xml:id="f040-u17">枳殻茯苓甘草投之熱退而大便亦下後以玉竹</ab>
+        <ab type="body" facs="#zone-f040-u18" xml:id="f040-u18">麥冬青蒿地骨皮歸身鱉甲生甘草茯苓投之全</ab>
+        <ab type="body" facs="#zone-f040-u19" xml:id="f040-u19">愈</ab>
+        <ab type="paratext" facs="#zone-f040-u20" xml:id="f040-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f040-u21" xml:id="f040-u21">三十七</ab>
+      </div>
+      <div type="image" n="f041">
+        <pb facs="#surface-f041" n="f041" />
+        <ab type="body" facs="#zone-f041-u01" xml:id="f041-u01">一人六月間傷寒發熱煩躁口渴醫認為冒暑投以</ab>
+        <ab type="body" facs="#zone-f041-u02" xml:id="f041-u02">白虎湯煩躁口渴悉除但至夜間小便不禁次日</ab>
+        <ab type="body" facs="#zone-f041-u03" xml:id="f041-u03">精神恍惚面黑如墨請衆醫治之皆謂誤服白虎</ab>
+        <ab type="body" facs="#zone-f041-u04" xml:id="f041-u04">非桂附不能解病家莫決邀余診之六脈沉細指</ab>
+        <ab type="body" facs="#zone-f041-u05" xml:id="f041-u05">下隱隱而數余曰此寒邪在經將變為熱故始有</ab>
+        <ab type="body" facs="#zone-f041-u06" xml:id="f041-u06">煩躁口渴之證今誤服白虎若用桂附以救陰寒</ab>
+        <ab type="body" facs="#zone-f041-u07" xml:id="f041-u07">他證必起且本病曲隱於經絡之間亦不能解也</ab>
+        <ab type="body" facs="#zone-f041-u08" xml:id="f041-u08">遂倣東垣治西臺掾葛君瑞法用白术厚朴陳皮</ab>
+        <ab type="body" facs="#zone-f041-u09" xml:id="f041-u09">黑薑砂仁以溫中升麻防風羌活當歸以升陽行</ab>
+        <ab type="paratext" facs="#zone-f041-u10" xml:id="f041-u10">醫案全卷</ab>
+        <ab type="body" facs="#zone-f041-u11" xml:id="f041-u11">經二劑而脈起後減厚朴黑薑加人參半夏三劑</ab>
+        <ab type="body" facs="#zone-f041-u12" xml:id="f041-u12">而面色如舊精神復元</ab>
+        <ab type="body" facs="#zone-f041-u13" xml:id="f041-u13">一人出外途中冒熱過飲冷水回家後因房事感寒</ab>
+        <ab type="body" facs="#zone-f041-u14" xml:id="f041-u14">頭痛發熱面赤引飲揚手擲足神昏煩躁延衆醫</ab>
+        <ab type="body" facs="#zone-f041-u15" xml:id="f041-u15">治之皆謂其途中感寒非緣房事且謂三陰無頭</ab>
+        <ab type="body" facs="#zone-f041-u16" xml:id="f041-u16">痛不煩渴決其為陽明熱證用石膏竹葉湯投之</ab>
+        <ab type="body" facs="#zone-f041-u17" xml:id="f041-u17">藥正將入口病人面色忽青讝語撮空循衣摸床</ab>
+        <ab type="body" facs="#zone-f041-u18" xml:id="f041-u18">敗證俱見邀余診之其脈初數而大按久漸覺微</ab>
+        <ab type="body" facs="#zone-f041-u19" xml:id="f041-u19">細余曰其熱與渴為陰氣陷下陽氣膈上乃陰證</ab>
+        <ab type="paratext" facs="#zone-f041-u20" xml:id="f041-u20">醫案全卷</ab>
+        <ab type="paratext" facs="#zone-f041-u21" xml:id="f041-u21">三十八</ab>
+      </div>
+      <div type="image" n="f042">
+        <pb facs="#surface-f042" n="f042" />
+        <ab type="body" facs="#zone-f042-u01" xml:id="f042-u01">似陽也幸前藥未服遂用大劑眞武湯倍參附煎</ab>
+        <ab type="body" facs="#zone-f042-u02" xml:id="f042-u02">熟置冷水中令冷一晝夜連服二劑渴止熱退讝</ab>
+        <ab type="body" facs="#zone-f042-u03" xml:id="f042-u03">語亦定但脈尙未平復為榮血不足乃加熟地黃</ab>
+        <ab type="body" facs="#zone-f042-u04" xml:id="f042-u04">歸芍於前藥中又服二劑脈復而愈</ab>
+        <ab type="body" facs="#zone-f042-u05" xml:id="f042-u05">一閨女經閉半年不通醫用牛膝散桂枝桃仁湯三</ab>
+        <ab type="body" facs="#zone-f042-u06" xml:id="f042-u06">稜丸等方投之愈服愈不通而且病甚求方於余</ab>
+        <ab type="body" facs="#zone-f042-u07" xml:id="f042-u07">余用四物湯加丹參益母陳皮香附投之一劑而</ab>
+        <ab type="body" facs="#zone-f042-u08" xml:id="f042-u08">通蓋婦人經閉非緣血虧即由氣滯惟足其血兼</ab>
+        <ab type="body" facs="#zone-f042-u09" xml:id="f042-u09">調其氣佐以生新去瘀之品自然自通若用峻攻</ab>
+        <ab type="paratext" facs="#zone-f042-u10" xml:id="f042-u10">醫案全卷</ab>
+      </div>
+      <div type="image" n="f043">
+        <pb facs="#surface-f043" n="f043" />
+        <ab type="cover" />
+      </div>
+    </body>
+  </text>
+</TEI>
