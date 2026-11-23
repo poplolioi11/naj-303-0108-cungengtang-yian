@@ -37,3 +37,7 @@ Covers all 43 images in the holding institution’s sequence. Frame 13 has an en
 The historical work is in the public domain. The National Archives of Japan permits reuse of its scans under the linked statement. Newly written documentation and original data encoding are provided under CC BY 4.0.
 
 修改前文字由 [初錄 v0.1.0](https://github.com/poplolioi11/naj-303-0108-cungengtang-yian/releases/tag/v0.1.0) 保存。 建議依 [CITATION.cff](CITATION.cff) 引用所用版本。
+
+## 固定封存 / Archived versions
+
+[覆核版 v0.2.0](https://doi.org/10.5281/zenodo.24455522) · [初錄 v0.1.0](https://doi.org/10.5281/zenodo.24455414) · [版本系列 / All versions](https://doi.org/10.5281/zenodo.24455413)
